@@ -62,6 +62,8 @@ def main():
         provinces = json.loads(json.loads(provinces_response.text)["d"])
         info(f"Provinces: {len(provinces)}")
 
+        all_cities = set()
+
         for province in provinces[0:]:
             province_id, province_name = province["Kod"], province["Nazwa"]
 
@@ -73,7 +75,6 @@ def main():
 
             for sub_province in sub_provinces:
                 sub_province_id, sub_province_name = sub_province["KodPowiatu"], sub_province["Powiat"]
-                info(f"Province: {province_name}, Sub-province: {sub_province_name}")
 
                 municipalities = json.loads(json.loads(session.post(
                     "https://wyszukiwarkaregon.stat.gov.pl/wsBIR/UslugaBIRzewnPubl.svc/ajaxEndpoint/GetGminy",
@@ -83,7 +84,6 @@ def main():
 
                 for municipality in municipalities:
                     municipality_id, municipality_name = municipality["KodGminy3"], municipality["Gmina"]
-                    info(f"Province: {province_name}, Sub-province: {sub_province_name}, Municipality: {municipality_name}")
 
                     cities = json.loads(json.loads(session.post(
                         "https://wyszukiwarkaregon.stat.gov.pl/wsBIR/UslugaBIRzewnPubl.svc/ajaxEndpoint/GetMiejscowosci",
@@ -93,7 +93,6 @@ def main():
 
                     for city in cities:
                         city_id, city_name = city["KodStatystyczny"], city["Miejscowosc"]
-                        info(f"Province: {province_name}, Sub-province: {sub_province_name}, Municipality: {municipality_name}, City: {city_name}")
                         if not os.path.exists(f"data/adresses/province/{province_name}"):
                             os.mkdir(f"data/adresses/province/{province_name}")
 
@@ -105,14 +104,15 @@ def main():
 
                         if not streets:
                             continue
-                        with open(f"data/adresses/province/{province_name}/{city_name}.txt", "w", encoding="UTF-8") as f:
+                        with open(
+                                f"data/adresses/province/{province_name}/{city_name}.txt",
+                                "a+" if city_name in all_cities else "w+",
+                                encoding="UTF-8"
+                        ) as f:
+                            all_cities.add(city_name)
                             for street in streets:
                                 street_id, street_name = street["Symbol"], street["Nazwa1"]
                                 f.write(f"{street_name}\n")
-
-
-
-
 
 
 if __name__ == '__main__':
