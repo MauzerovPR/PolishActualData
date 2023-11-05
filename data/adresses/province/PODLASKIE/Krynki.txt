@@ -1,0 +1,41 @@
+1 Maja
+11 Listopada
+Akacjowa
+Aleja Szkolna
+Browarna
+Cerkiewna
+Czysta
+Garbarska
+gen. Józefa Bema
+Górna
+Graniczna
+Grochowa
+Grodzieńska
+Jagielloński
+Józefa Piłsudskiego
+Kaukazka
+Kościelna
+Legionowa
+Lipowa
+Mokra
+Nadrzeczna
+Nowa
+Ogrodowa
+Okopy
+Pohulanka
+Polna
+Projektowana
+Rynkowa
+Sokólska
+Spółdzielcza
+Stary Dwór
+Targowa
+Ukośna
+Wąska
+Wojska Polskiego
+Zaułek Gminny
+Zaułek Nowy
+Zaułek Szkolny
+Zaułek Szpitalny
+Zdrojowa
+Zielona

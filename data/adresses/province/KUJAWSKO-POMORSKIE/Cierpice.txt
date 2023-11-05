@@ -1,0 +1,31 @@
+Brzozowa
+Bydgoska
+Cicha
+Długa
+Dobra
+Dworcowa
+Dybowska
+Gniewkowska
+Kłosowa
+Kolejowa
+Krótka
+Leśna
+Nad Potokiem
+Ogrodowa
+Parkowa
+Piaskowa
+Pocztowa
+Poznańska
+Przy Lesie
+Sosnowa
+Spokojna
+Szkolna
+Środkowa
+Świerkowa
+Toruńska
+Wiśniowa
+Wodna
+Wspólna
+Zakątek
+Zakole
+Żwirowa

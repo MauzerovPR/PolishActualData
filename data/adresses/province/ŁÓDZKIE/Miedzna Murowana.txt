@@ -1,0 +1,14 @@
+Bankowa
+Brzozowa
+Główna
+Kościelna
+Leśna
+Ogrodowa
+Opoczyńska
+Polna
+Słoneczna
+Spacerowa
+Topolowa
+Wysoka
+Zielona
+Złota

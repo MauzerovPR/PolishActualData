@@ -1,0 +1,42 @@
+1 Maja
+11 Listopada
+3 Maja
+Akacjowa
+Brylantowa
+Brzozowa
+Bukowa
+Ceglana
+Cmentarna
+Dębowa
+Diamentowa
+Fabryczna
+Gawczyce
+Jesionowa
+Kasztanowa
+Klonowa
+Kolejowa
+Kościuszki
+Krótka
+Krupna
+Lipowa
+Łączna
+Narutowicza
+Ogrodowa
+Ogrodzieniec
+Okrzei
+Orzechowa
+Osiedle Robotnicze
+Parkowa
+Podmiedze
+Podraszkowie
+Polna
+Szafirowa
+Szkolna
+Szmaragdowa
+Trzcionki
+Wczasowa
+Węgroda
+Widokowa
+Zacisze
+Zielone Wzgórze
+Źródlana

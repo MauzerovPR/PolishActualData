@@ -1,0 +1,106 @@
+1 Maja
+Adama Mickiewicza
+Akacjowa
+Anny Walentynowicz
+Antoniego Józefa Madalińskiego
+Azaliowa
+Bartosza Głowackiego
+Boczna
+Browarna
+Brzozowa
+Cicha
+Dębowa
+Dworcowa
+Fryderyka Chopina
+gen. Józefa Bema
+Generała Stefana Grota-Roweckiego
+Główna
+Górna
+Górnicza
+Grunwaldzka
+Henryka Sienkiewicza
+Hugo Kołłątaja
+Jana Kasprowicza
+Jana Kilińskiego
+Jana Kochanowskiego
+Jana Matejki
+Janusza Kusocińskiego
+Jasna
+Józefa Poniatowskiego
+Juliusza Słowackiego
+Kamieniogórska
+Kazimierza Pułaskiego
+Kazimierza Tetmajera
+Kolejowa
+Kosynierów
+Krakowska
+Królowej Jadwigi
+Krótka
+Kwiatowa
+Lawendowa
+Leśna
+Lipowa
+Ludwika Waryńskiego
+Łączna
+Mała
+Marcina Kasprzaka
+Marii Konopnickiej
+Mikołaja Kopernika
+Mikołaja Reja
+Miła
+Młodzieży Polskiej
+Nadziei
+Nowy Lubominek
+Ogrodowa
+Olimpijska
+Osiedle Górnicze
+Partyzantów
+Piękna
+Piotra Skargi
+Pl. Jana Pawła II
+Pl. Odrodzenia
+Pl. Zwycięstwa
+Pogodna
+Pokoju
+Polna
+Promyka
+Racławicka
+Romualda Traugutta
+Różana
+Rynek
+Rzeźniana
+Słodowa
+Słoneczna
+Sobięcińska
+Spokojna
+Sportowa
+Stanisława Staszica
+Stanisława Wyspiańskiego
+Stefana Żeromskiego
+Strażacka
+Szkolna
+Szybowa
+Średnia
+Św. Barbary
+Świerkowa
+Tadeusza Kościuszki
+Towarowa
+Tunel
+Wałbrzyska
+Warszawska
+Wąska
+Widokowa
+Wincentego Pola
+Wincentego Witosa
+Władysława Broniewskiego
+Władysława Grabskiego
+Władysława Jagiełły
+Władysława Sikorskiego
+Władysława Stanisława Reymonta
+Wojciecha Kossaka
+Wrzosowa
+Wysoka
+Zachodnia
+Zamkowa
+Zielona
+Złota

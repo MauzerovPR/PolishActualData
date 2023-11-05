@@ -1,0 +1,108 @@
+1 Maja
+3 Maja
+9 Maja
+Akacjowa
+Białowicka
+Bogaczowska
+Borówkowa
+Botaniczna
+Budowlańców
+Bukowa
+Cicha
+Dąbrowskiego
+Dębowa
+Do Wodociągów
+Dobra
+Dojazdowa
+Dolina Zielona
+Drzewna
+Dworcowa
+Działkowa
+Energetyków
+Fabryczna
+Gajowa
+Gimnazjalna
+Grabowa
+Grodzka
+Grunwaldzka
+Gwiaździsta
+Henryka Brodatego
+Jasna
+Jodłowa
+Kasztanowa
+Kochanowskiego
+Kolejowa
+Konopnickiej
+Kościelna
+Kościuszki
+Krótka
+Kupiecka
+Lazurowa
+Leśna
+Lipowa
+Łąkowa
+Majowa
+Mała
+Marcinkowskiego
+Mickiewicza
+Miła
+Miodowa
+Młyńska
+Modrzewiowa
+Myśliwska
+Nad Bobrem
+Nad Stawami
+Nadbrzeżna
+Nowa
+Nowowiejska
+Ogrodowa
+Okrężna
+Osiedle Robotnicze
+Parkowa
+Piaskowa
+Plac Wolności
+Pocztowa
+Polna
+Porzeczkowa
+Promykowa
+Prosta
+Reja
+Różana
+Rynek
+Rzemieślnicza
+Składowa
+Słoneczna
+Słowackiego
+Słowicza
+Sosnowa
+Spacerowa
+Spokojna
+Sportowa
+Storczykowa
+Szkolna
+św. Jadwigi
+św. Mikołaja
+Świerkowa
+Tama Kolejowa
+Tęczowa
+Topolowa
+Turkusowa
+Unii Europejskiej
+Warsztatowa
+Warzywna
+Wazów
+Wąska
+Wesoła
+Wędkarzy
+Wiejska
+Willowa
+Winiary
+Witosa
+Wodna
+Wojska Polskiego
+Zacisze
+Zamkowa
+Zdrowa
+Zielona
+Zielonogórska
+Żarska

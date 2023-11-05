@@ -1,0 +1,8 @@
+Bazaltowa
+Granitowa
+Kamienna
+Kwarcowa
+Marmurowa
+Piaskowa
+Torfowa
+Żwirowa

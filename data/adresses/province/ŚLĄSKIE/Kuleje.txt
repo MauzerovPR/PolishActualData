@@ -1,0 +1,9 @@
+Boczna
+Bukowa
+Długa
+Kolejowa
+Kościelna
+Krótka
+Podleśna
+Spokojna
+Szkolna

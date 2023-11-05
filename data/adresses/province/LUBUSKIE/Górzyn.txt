@@ -1,0 +1,14 @@
+Błotna
+Boczna
+Leśna
+Łanowa
+Łąkowa
+Parkowa
+Polna
+Rolnicza
+Słoneczna
+Sosnowa
+Spokojna
+Sportowa
+Wiejska
+Żwirowa

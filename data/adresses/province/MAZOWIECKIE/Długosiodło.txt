@@ -1,0 +1,42 @@
+1 Maja
+4 Września
+Adama Mickiewicza
+Alternatywy
+Bartosza Głowackiego
+Bolesława Chomicza
+Czwórki
+Energetyków
+Folwark
+Grzybowa
+Jagodowa
+Jana Kilińskiego
+Jaśminowa
+Kardynała Stefana Wyszyńskiego
+Kasztanowa
+Królowej Jadwigi
+Krótka
+Księcia Józefa Poniatowskiego
+Leśna
+Obrońców Ojczyzny
+Ostrołęcka
+Piaskowa
+Pocztowa
+Podborze
+Pogodna
+Polna
+Poświętne
+Projektowana
+Pułaskiego
+Słoneczna
+Sosnowa
+Spacerowa
+Spokojna
+Sportowa
+Stanisława Moniuszki
+Strażacka
+Strumykowa
+Świerkowa
+Tadeusza Kościuszki
+Targowa
+Wiosenna
+Wrzosowa

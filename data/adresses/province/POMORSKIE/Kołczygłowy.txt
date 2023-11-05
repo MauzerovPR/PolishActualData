@@ -1,0 +1,39 @@
+3 Maja
+8 Marca
+Adama Mickiewicza
+Brzozowa
+Bukowa
+Cicha
+Dębowa
+Fabryczna
+H. Kołłątaja
+Ignacego Krasickiego
+Jana Kilińskiego
+Jana Kochanowskiego
+Jana Pawła II
+Józefa Piłsudskiego
+Juliana Tuwima
+Juliana Ursyna Niemcewicza
+Juliusza Słowackiego
+Krótka
+Kwiatowa
+Leśna
+Lipowa
+Łąkowa
+Miła
+Na Skarpie
+Ogrodowa
+Piaskowa
+Pogodna
+Polna
+Rzemieślnicza
+Słoneczna
+Słupska
+St. Konarskiego
+St. Staszica
+Szkolna
+Tadeusza Kościuszki
+W. Witosa
+Wąska
+Wolności
+Zielona

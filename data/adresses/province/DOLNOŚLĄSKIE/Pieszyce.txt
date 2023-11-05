@@ -1,0 +1,69 @@
+1 Maja
+3 Maja
+Adama Mickiewicza
+Aleja Alicji i Jana
+Bielawska
+Boczna
+Bolesława Chrobrego
+Bolesława Krzywoustego
+Bolka Świdnickiego
+Botwinowa
+Cicha
+Dolna
+Dworcowa Dolna
+Dworcowa Górna
+Henryka Biernackiego
+Henryka Brodatego
+Henryka Pobożnego
+Henryka Sienkiewicza
+Kazimierza Wielkiego
+Kościelna
+Królowej Jadwigi
+Krótka
+ks. Prałata Franciszka Bieleckiego
+Księdza Emila Pagacza
+Kuźnicka
+Lipowa
+Marii Konopnickiej
+Martwa
+Mieszka I
+Mikołaja Kopernika
+Miodowa
+Modrzewiowa
+Muzyczna
+Nadbrzeżna
+Obywatelska
+Ogrodowa
+Osiedle Górskie
+Parkowa
+Piastowska
+Piotra Własta
+Piskorzowska
+Plac Kombatantów
+Plac Zamkowy
+Pogodna
+Polna
+Poziomkowa
+Przyrodnicza
+Radosna
+Rolna
+Różana
+Rybacka
+Sanatoryjna
+Skowronkowa
+Sosnowa
+Spacerowa
+Sportowa
+Stara
+Stawowa
+Stefana Okrzei
+Świdnicka
+Świerkowa
+Tadeusza Kościuszki
+Tkacka
+Truskawkowa
+Widokowa
+Władysława Hermana
+Władysława Łokietka
+Zamkowa
+Ziemomysła

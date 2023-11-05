@@ -1,0 +1,82 @@
+1 Maja
+11 Listopada
+8 Maja
+Akacjowa
+Aleja 900-lecia
+Aleja Złotej Jesieni
+Bolesława Krzywoustego
+Botaniczna
+Cicha
+Ciemna
+Cmentarna
+Daszyńskiego
+Dębowa
+Dmowskiego
+dr. Władysława Morasiewicza
+Dworcowa
+Fabryczna
+Garażowa
+gen. Władysława Andersa
+Głogowska
+Górna
+Hallera
+Jęczmienna
+Klonowa
+Kolbego
+Kolejowa
+Konopnickiej
+Kopernika
+Korfantego
+Kościelna
+Kożuchowska
+Kręta
+Krótka
+Kusocińskiego
+Lawendowa
+Leśna
+Liliowa
+Lipowa
+Łąkowa
+Majora Sucharskiego
+Makowa
+Mała
+Mickiewicza
+Młyńska
+Mostowa
+Nadbrzeżna
+Narożna
+Narutowicza
+Nowe Miasto
+Nowosolska
+Ogrodowa
+Osiedle Piastowskie
+Osiedle Rybackie
+Osiedlowa
+Paderewskiego
+Papieża Jana Pawła II Wielkiego
+Piaskowa
+Piłsudskiego
+Podgórna
+Polna
+Poprzeczna
+Pszeniczna
+Rataja
+Robotnicza
+Rynek
+Sadowa
+Sienkiewicza
+Słoneczna
+Spacerowa
+Sportowa
+Szeroka
+Szkolna
+Topolowa
+Wąska
+Widok
+Witosa
+Wodna
+Wybickiego
+Wyspiańskiego
+Zbożowa
+Żeromskiego
+Żytnia

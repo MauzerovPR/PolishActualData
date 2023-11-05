@@ -1,0 +1,69 @@
+1 Maja
+Adama Mickiewicza
+Borowska
+Brzozowa
+Bukowa
+Bukowska
+Cicha
+Cynkowa
+Długa
+Dworcowa
+Eugeniusza Puza
+Gospodarcza
+Górnicza
+Grabowa
+Graniczna
+Gwarków
+Henryka Sienkiewicza
+Hutnicza
+Ignacego Krasickiego
+Jodłowa
+Juliusza Słowackiego
+Karola Miarki
+Kolejowa
+Krótka
+ks. Bolesława Zelka
+Leśna
+Lipowa
+Międzygórze
+Młyńska
+Mostowa
+Niepodległości
+Nowa
+Ogrodowa
+Olchowa
+Olkuska
+Parkowa
+Pocztowa
+Polis
+Poprzeczna
+Powstańców Śląskich
+Przemysłowa
+Przeń
+Przymiarki
+Sierszecka
+Składowa
+Skwer
+Sławkowska
+Słoneczna
+Sosnowa
+Spacerowa
+Starczynowska
+Szkolna
+Szybowa
+Tadeusza Kościuszki
+Tłukienka
+Topolowa
+Urzędowa
+Wapienna
+Wiejska
+Wiśniowa
+Władysława Stanisława Reymonta
+Włodzimierza Woźniczki
+Wodąca
+Wodna
+Wojska Polskiego
+Wygiełza
+Wyzwolenia
+Zielona
+Zwycięstwa

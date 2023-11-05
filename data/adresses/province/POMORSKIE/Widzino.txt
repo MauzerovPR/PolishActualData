@@ -1,0 +1,8 @@
+Główna
+Kolejowa
+Krótka
+Krzywa
+Pogodna
+Polna
+Prosta
+Rzeczna

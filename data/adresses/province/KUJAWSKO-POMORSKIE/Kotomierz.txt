@@ -1,0 +1,15 @@
+Bankowa
+Długa
+Koronowska
+Kościelna
+Krótka
+Lipowa
+Miodowa
+Nad Torem
+Nowa
+Pasieczna
+Podgórna
+Podjazdowa
+Polna
+Skośna
+Zdrojowa

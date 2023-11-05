@@ -1,0 +1,9 @@
+Ceramiczna
+Kolejowa
+Krótka
+Leśna
+Ogrodowa
+Osiedle
+Plac Kościelny
+Wiejska
+Żarska

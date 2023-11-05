@@ -1,0 +1,8 @@
+Kolejowa
+Kopalniana
+Leśna
+Ogrodowa
+Polna
+Sadowa
+Słoneczna
+Szkolna

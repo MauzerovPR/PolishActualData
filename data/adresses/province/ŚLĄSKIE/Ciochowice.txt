@@ -1,0 +1,12 @@
+Boczna
+Dworcowa
+Krótka
+Leśna
+Leśniczówka
+Nad Potokiem
+Nowa
+Osiedlowa
+Szkolna
+Toszecka
+Wiejska
+Wysoka

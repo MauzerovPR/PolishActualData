@@ -1,0 +1,47 @@
+1 Maja
+3 Maja
+Akacjowa
+Brzeska
+Chabrowa
+Cisowa
+Cyprysowa
+Dębowa
+Goździkowa
+Gwiaździsta
+Jachtowa
+Jałowcowa
+Jelenia
+Joanny Chmielewskiej
+Jodłowa
+Kapitańska
+Krokusowa
+Kwiatowa
+Lawendowa
+Leśna
+Lipowa
+Marynarska
+Miodowa
+Młyńska
+Modrzewiowa
+Narcyzowa
+Odrzańska
+Ogrodowa
+Piniowa
+Portowa
+Różana
+Rumiankowa
+Rybna
+Sarnia
+Słoneczna
+Sosnowa
+Storczykowa
+Świerkowa
+Willowa
+Wiosenna
+Wiśniowa
+Wolności
+Wołowska
+Wrocławska
+Ziołowa
+Żeglarska
+Żytnia

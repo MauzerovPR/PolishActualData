@@ -1,0 +1,87 @@
+3 Maja
+Adama Asnyka
+Adama Mickiewicza
+Akacjowa
+Boczna
+Bolesława Prusa
+Browarna
+Brzozowa
+Bukowa
+Cegielniana
+Cypriana Kamila Norwida
+Czesława Miłosza
+Daleka
+Dębowa
+Dworcowa
+Elizy Orzeszkowej
+gen. Jarosława Dąbrowskiego
+gen. Józefa Bema
+gen. Kazimierza Grudzielskiego
+Glinica
+Harcerska
+Henryka Sienkiewicza
+Ignacego Krasickiego
+Ignacego Paderewskiego
+Jagodowa
+Jana Kasprowicza
+Jana Kilińskiego
+Jana Kochanowskiego
+Jana Matejki
+Jana Pawła II
+Józefa Młodowicza
+Józefa Rotblata
+Juliusza Słowackiego
+Kcyńska
+Kcyńska Nowe Osiedle
+Klonowa
+Kościelny
+Krótka
+ks. Władysława Mączkowskiego
+Księdza Jana Kątnego
+Leśna
+Lipowa
+Łabiszyńska
+Magnoliowa
+Malinowa
+Marii Dąbrowskiej
+Marii Konopnickiej
+Marii Skłodowskiej-Curie
+Mikołaja Reja
+Młyńska
+Modrzewiowa
+Mostowa
+Nakielska
+Nowa
+Ogrodowa
+Osiedle Cieleckiego
+Pałucka
+Podgórna
+Poprzeczna
+Porzeczkowa
+Powstańców Wielkopolskich
+Poziomkowa
+Ratuszowa
+Rondo Powstańca Wielkopolskiego Walentego Dypczyńskiego
+Różana
+Rynek
+Sędziwoja Pałuki
+Sielska
+Sosnowa
+Sportowa
+Stanisława Wyspiańskiego
+Stefana Żeromskiego
+Szkolna
+św. Marcina
+Świerkowa
+Tadeusza Kościuszki
+Targowa
+Tysiąclecia
+Wiejska
+Winnica
+Wiosenna
+Wisławy Szymborskiej
+Władysława Broniewskiego
+Władysława Reymonta
+Władysława Wiewiórowskiego
+Wolności
+Zamek

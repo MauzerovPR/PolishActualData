@@ -1,0 +1,106 @@
+Agrestowa
+Babiogórska
+Białoniowa
+Borowa
+Brzegowa
+Brzozowa
+Bukowa
+Buławów
+Cicha
+Czereśniowa
+Drzewna
+Dworcowa
+Energetyczna
+Figowa
+Grabowa
+Graniczna
+Jalu Kurka
+Jałowcowa
+Jana Kazimierza
+Janiki
+Janikowa Grapa
+Janoszkowa
+Jaśminowa
+Jesionowa
+Juhasów
+Kamieniec
+Kasztanowa
+Kiełbasów
+Klimczakowa
+Klonowa
+Kołodziejska
+Kowalska
+Leśna
+Limbowa
+Lipowa
+Łączna
+Łobozowa
+Malinowa
+Martoszowa
+Miodowa
+Miziowa
+Modrzewiowa
+Mokra
+Myśliwska
+Nad Krzyżówką
+Nad Sopotnią
+Nad Strumykiem
+Narcyzowa
+Ogrodowa
+Okrężna
+Olszynowa
+Omłotowa
+Orawska
+Osiedlowa
+Pasterska
+Pindlowa
+Plażowa
+Plebańska
+Pod Grapą
+Pod Kiczorą
+Pod Pagórkiem
+Podgórna
+Pogodna
+Polna
+Pomnikowa
+Poprzeczna
+Porzeczkowa
+Powodziowa
+Promienna
+Pszeniczna
+Ptasia
+Pyrgiesów
+Regionalna
+Rolnicza
+Rówienki
+Różana
+Rynek
+Rzeczna
+Składowa
+Słoneczna
+Słowików
+Sosnowa
+Spokojna
+Stara
+Starowiejska
+Stawowa
+Strażacka
+Suchoniowa
+Suska
+Szczęśliwa
+Szkolna
+Szymury
+Ślepa
+Świerkowa
+Tartaczna
+Turystyczna
+U Świętych
+Wąska
+Wesoła
+Widokowa
+Wodna
+Wróblowa
+Wyrodowa
+Zacisze
+Żarnowcowa
+Żywiecka

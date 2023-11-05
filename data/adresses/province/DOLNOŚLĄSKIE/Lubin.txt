@@ -1,0 +1,237 @@
+1 Maja
+Adama Asnyka
+Adama Mickiewicza
+Akacjowa
+Aleja Generała Broni Stanisława Maczka
+Aleja Komisji Edukacji Narodowej
+Aleja Niepodległości
+Aleja Prezydenta Lecha Kaczyńskiego
+Aleksandra Fredry
+Armii Krajowej
+Artura Grottgera
+Baczynowa
+Baligrodzka
+Bankowa
+Biedronkowa
+Bieszczadzka
+Boczna
+Bolesława Chrobrego
+Bolesława Krupińskiego
+Bolesława Prusa
+Bolesława Sztukowskiego
+Bolesławiecka
+Borsucza
+Braci Gierymskich
+Bronisława Malinowskiego
+Brylantowa
+Brzeska
+Brzozowa
+Budowniczych LGOM
+Budziszyńska
+Bukowa
+Cedrowa
+Cedyńska
+Chocianowska
+Cisowa
+Cmentarna
+Cypriana Kamila Norwida
+Dębowa
+Diamentowa
+Elizy Orzeszkowej
+Feliksa Stamma
+Fryderyka Chopina
+Gajowa
+Gen. Józefa Bema
+Generała Stanisława Sosabowskiego
+Generała Władysława Sikorskiego
+Górnicza
+Grabowa
+Granitowa
+Grodzieńska
+Grodzka
+Gwarków
+Haliny Konopackiej
+Henryka Sienkiewicza
+Hugo Kołłątaja
+Hutnicza
+Ignacego Domeyki
+Ignacego Krasickiego
+Ignacego Łukasiewicza
+Ignacego Paderewskiego
+II Brygady Legionów
+Jacka Malczewskiego
+Jagodowa
+Jana Bilińskiego
+Jana Kilińskiego
+Jana Kochanowskiego
+Jana Matejki
+Jana Pawła II
+Jana Sebastiana Bacha
+Janusza Kusocińskiego
+Jarosława Iwaszkiewicza
+Jarzębinowa
+Jastrzębia
+Jaśminowa
+Jaworowa
+Jelenia
+Jerzego Kukuczki
+Jerzego Kuleja
+Jesionowa
+Jeżynowa
+Jodłowa
+Józefa Chełmońskiego
+Józefa Piłsudskiego
+Juliana Tuwima
+Juliusza Kossaka
+Juliusza Słowackiego
+Kalcytowa
+Kaletnicza
+Kalinowa
+Kamienna
+Kamili Skolimowskiej
+Karkonoska
+Karola Szymanowskiego
+Kasztanowa
+Kazimierza Deyny
+Kazimierza Górskiego
+Kazimierza Wielkiego
+Klonowa
+Kolejowa
+Konstytucji 3-go Maja
+Kopalniana
+Kresowa
+Krótka
+Krucza
+Krzemieniecka
+Księcia Ludwika I
+Księginicka
+Kwiatowa
+Legnicka
+Leona Wyczółkowskiego
+Leszczynowa
+Leśna
+Lipowa
+Lisia
+Lotników
+Lwowska
+Łużycka
+Magnoliowa
+Makowa
+Malachitowa
+Malinowa
+Małomicka
+Marii Konopnickiej
+Marii Pawlikowskiej-Jasnorzewskiej
+Marii Skłodowskiej-Curie
+Michała Drzymały
+Miedziana
+Mieszka I
+Mikołaja Kopernika
+Mikołaja Pruzi
+Mikołaja Reja
+Miroszowicka
+Modrzewiowa
+Nefrytowa
+Niedźwiedzia
+Nowogródzka
+Odrodzenia
+Olchowa
+Olgi Boznańskiej
+Onyksowa
+Orla
+Osiedlowa
+Parkowa
+Pawia
+Perłowa
+Piastowska
+Piotra Michałowskiego
+Plac Św. Wojciecha
+Plac Świętej Barbary
+Platanowa
+Platynowa
+Poleska
+Polna
+prof. Józefa Zwierzyckiego
+Prymasa Polski Stefana Wyszyńskiego
+Przemysłowa
+Ptasia
+Ratusz
+Romualda Traugutta
+Rondo 1000-lecia Powstania Królestwa Polskiego
+Rondo im. Ofiar Zbrodni Lubińskiej
+Rondo imienia Przedsiębiorstwa Budowy Kopalń PeBeKa S.A.
+Rotmistrza Witolda Pileckiego
+Rynek
+Rzemieślnicza
+Rzeźnicza
+Sarnia
+Składowa
+Skwer im. Tadeusza Zastawnika
+Skwer Kresów Wschodnich
+Skwer Mistrzów Sportu
+Słoneczna
+Słowiańska
+Sokola
+Sosnowa
+Sowia
+Spacerowa
+Sportowa
+Spółdzielcza
+Srebrna
+Stanisława Moniuszki
+Stanisława Staszica
+Stanisława Wyspiańskiego
+Stanisławowska
+Stary Lubin
+Stawowa
+Stefana Kisielewskiego
+Stefana Okrzei
+Stefana Żeromskiego
+Sudecka
+Sybiraków
+Szafirowa
+Szkolna
+Szpakowa
+Sztygarska
+Szybowa
+Ścinawska
+Śląska
+Świętej Barbary
+Świętej Jadwigi
+Tadeusza Glazóra
+Tadeusza Kościuszki
+Tadeusza Ślusarskiego
+Tarnopolska
+Topolowa
+Towarowa
+Tulipanowa
+Tysiąclecia
+Wiązowa
+Wiertników
+Wierzbowa
+Wiewiórcza
+Wilcza
+Wileńska
+Willowa
+Wiśniowa
+Witolda Lutosławskiego
+Władysława Broniewskiego
+Władysława Komara
+Władysława Łokietka
+Władysława Reymonta
+Wojciecha Kilara
+Wołyńska
+Wójta Henryka
+Wrocławska
+Wronia
+Wrzosowa
+Zacisze
+Zajęcza
+Zamkowa
+Zbigniewa Pietrzykowskiego
+Zielona
+Zielonogórska
+Złota
+Żurawia
+Żwirki i Wigury
+Żytomierska

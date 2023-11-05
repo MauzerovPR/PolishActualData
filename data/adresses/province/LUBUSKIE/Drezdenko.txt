@@ -1,0 +1,113 @@
+1 Maja
+11 Listopada
+Aleja Piastów
+Armii Krajowej
+Bajkowa
+Boczna
+Chabrowa
+Chełm Drezdenecki
+Chrobrego
+Cicha
+Dąbrowskiej
+Dębowa
+Diamentowa
+Długa
+Dworcowa
+Grunwaldzka
+Jasna
+Kasztelańska
+Kochanowskiego
+Kolejowa
+Kołłątaja
+Konopnickiej
+Kopernika
+Kościelna
+Kościuszki
+Krakowska
+Krótka
+Kwiatowa
+Lawendowa
+Lema
+Leśna
+Lipowa
+Lwowska
+Łączna
+Łąkowa
+Makowa
+Malwowa
+Marszałkowska
+Matejki
+Mickiewicza
+Miedziana
+Milicka
+Miodowa
+Młodzieżowa
+Młyńska
+Moniuszki
+Morwowa
+Myśliwska
+Niepodległości
+Norwida
+Nowogrodzka
+Ogrodowa
+Okrężna
+Orlikowa
+Orzeszkowej
+Osiedla Leśnego
+Owocowa
+Parkowa
+Piaskowa
+Pierwszej Brygady
+Piłsudskiego
+Piotra Skargi
+plac Kościelny
+plac Sportowy
+plac Wileński
+plac Wolności
+Podgórna
+Pogodna
+Polna
+Południowa
+Pomorska
+Poniatowskiego
+Poprzeczna
+Portowa
+Poznańska
+Przemysłowa
+Ptasia
+Pułaskiego
+Radosna
+Reja
+Reymonta
+Rondo im. Jana Kilińskiego
+Rondo NSZZ "Solidarność"
+Rzemieślnicza
+Sienkiewicza
+Słoneczna
+Słowackiego
+Sosnowa
+Spokojna
+Sportowa
+Stary Rynek
+Strażacka
+Strzelecka
+Szkolna
+Szpitalna
+Towarowa
+Transportowa
+Warszawska
+Wesoła
+Widokowa
+Wiejska
+Willowa
+Wita Stwosza
+Witosa
+Wschodnia
+Wspólna
+Zachodnia
+Zacisze
+Zamkowa
+Zaułek
+Zielona
+Źródlana
+Żeromskiego

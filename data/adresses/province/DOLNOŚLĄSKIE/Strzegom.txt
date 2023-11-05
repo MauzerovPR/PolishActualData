@@ -1,0 +1,127 @@
+3 Maja
+Adama Mickiewicza
+Agatowa
+Agrestowa
+Aleja Wojska Polskiego
+Ametystowa
+Armii Krajowej
+Bankowa
+Bazaltowa
+Błękitna
+Bohaterów Getta
+Bolesława Limanowskiego
+Bracka
+Brzegowa
+Brzoskwiniowa
+Brzozowa
+Bukowa
+Ceglana
+Cicha
+Czarna
+Czerwonego Krzyża
+Dębowa
+Diamentowa
+Dolna
+Dworcowa
+Familijna
+Fiołkowa
+Fryderyka Chopina
+gen. Henryka Dembińskiego
+gen. Józefa Bema
+generała Władysława Andersa
+Górnicza
+Granitowa
+Gronowska
+Ignacego Jana Paderewskiego
+Jagodowa
+Jana Kochanowskiego
+Jana Matejki
+Jana Pawła II
+Jarosława Dąbrowskiego
+Jaśminowa
+Jeleniogórska
+Kalcytowa
+Kamienna
+Kasztanowa
+Kasztelańska
+Kazimierza Pułaskiego
+Klonowa
+Kolejowa
+Kopalniana
+Koszarowa
+Kościelna
+Krótka
+Księdza Kanonika Marka Żmudy
+Księdza Prałata Stanisława Siwca
+Kwarcowa
+Kwiatowa
+Lawendowa
+Legnicka
+Leopolda Staffa
+Leśna
+Liliowa
+Lipowa
+Malinowa
+Marii Konopnickiej
+marszałka Józefa Piłsudskiego
+Mikołaja Reja
+Milenijna
+Miodowa
+Mordechaja Anielewicza
+Morska
+Mostowa
+Niecała
+Niepodległości
+Ofiar Katynia
+Ogrodowa
+Olszowa
+Parkowa
+Piekarnicza
+Platynowa
+Pogodna
+Polna
+Porzeczkowa
+Potokowa
+Poziomkowa
+Promenada
+Rondo 14 Strzegomskiego Pułku Radioliniowo-Kablowego
+Rondo Błogosławionego Księdza Jerzego Popiełuszki
+Różana
+Rybna
+Rynek
+Rzeźnicza
+Skalna
+Skwer Marii i Lecha Kaczyńskich
+Skwer Sybiraków
+Słoneczna
+Słoneczne Ogrody
+Sosnowa
+Spokojna
+Stanisława Wyspiańskiego
+Stawowa
+Stefana Starzyńskiego
+Strzelnicza
+Szafirowa
+Szarych Szeregów
+Szkolna
+Szmaragdowa
+św. Anny
+św. Jadwigi
+św. Jana
+św. Tomasza
+Świdnicka
+Tadeusza Kościuszki
+Wałbrzyska
+Wałowa
+Wesoła
+Widokowa
+Wincentego Witosa
+Winogronowa
+Władysława Sikorskiego
+Wodna
+Wolska
+Wrzosowa
+Wspólna
+Wydobywcza
+Zielona
+Źródlana

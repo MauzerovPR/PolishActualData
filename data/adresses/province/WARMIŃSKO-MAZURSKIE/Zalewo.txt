@@ -1,0 +1,51 @@
+1 Maja
+29 Stycznia
+Akacjowa
+Częstochowska
+Długa
+Działkowa
+Elbląska
+Ewingi
+Handlowa
+Jesienna
+Jesionowa
+Kasztanowa
+Kilińskiego
+Kolejowa
+Konstantego Ildefonsa Gałczyńskiego
+Kościelna
+Krakowska
+Krasickiego
+Krótka
+Kwiatowa
+Letnia
+Lipcowa
+Łąkowa
+Mickiewicza
+Morąska
+Morwowa
+Mrongowiusza
+Niska
+Ogrodowa
+Parkowa
+Piaskowa
+Plac im. Jana Pawła II
+Polna
+Rolna
+Różana
+Rybacka
+Rzemieślnicza
+Sienkiewicza
+Słoneczna
+Spokojna
+Sportowa
+Szkolna
+Ślusarska
+Targowa
+Tartaczna
+Traugutta
+Wileńskie
+Wiosenna
+Zacisze
+Zielona
+Żeromskiego

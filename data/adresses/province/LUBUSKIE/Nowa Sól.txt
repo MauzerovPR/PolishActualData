@@ -1,0 +1,292 @@
+1 Maja
+8 Maja
+Akacjowa
+Aleja Wolności
+Aleja Zdzisława Malczuka
+Aleksandra Fredry
+Arciszewskiego
+Arkadia
+Asnyka
+Bankowa
+Bawełniana
+Bema
+Bociania
+Boczna
+Bohaterów Getta
+Bolesława Chrobrego
+Bolesława Krzywoustego
+Bolesławy Sidorskiej
+Botaniczna
+Broniewskiego
+Brzozowa
+Bukowa
+Ceglana
+Chałubińskiego
+Chełmońskiego
+Chopina
+Cicha
+Ciemna
+Ciepielowska
+Czarnieckiego
+Czereśniowa
+Czysta
+Dąbrowskiego
+Dębowa
+Długa
+Długosza
+Dolnośląska
+Drzewna
+Drzymały
+Dygasińskiego
+Działkowca
+Ekonomiczna
+Energetyków
+Fabryczna
+Farbiarska
+Feliksa Nowowiejskiego
+Gajowa
+Gałczyńskiego
+Garbarska
+Gdyńska
+gen. S. Grota-Roweckiego
+Gimnazjalna
+Głogowska
+Głowackiego
+Graniczna
+Grażyny Bacewicz
+Grobla
+Grottgera
+Grunwaldzka
+Harcerska
+Henryka Góreckiego
+Henryka Sienkiewicza
+Henryka Wieniawskiego
+Hoża
+Hutnicza
+Inżynierska
+Jagiellońska
+Jagienki
+Jana Brzechwy
+Jana Pawła II
+Janusza Korczaka
+Jaracza
+Jaskółcza
+Jasna
+Jedności Robotniczej
+Jodłowa
+Juliana Tuwima
+Juranda
+K. Szymanowskiego
+K. Wierzyńskiego
+Kaczkowskiego
+Kalinowa
+Kamienna
+Kardynała Stefana Wyszyńskiego
+Karola Kurpińskiego
+Kasprowicza
+Kasprzaka
+Kasztanowa
+Kaszubska
+Kazimierza Kołodzieja
+Kazimierza Wielkiego
+Kilińskiego
+Klonowa
+Kmicica
+Kochanowskiego
+Kołłątaja
+Kombatantów
+Konarskiego
+Konopnickiej
+Konstruktorów
+Konwaliowa
+Kornela Makuszyńskiego
+Korzeniowskiego
+Kosmonautów
+Kossaka
+Kościelna
+Kościuszki
+Kowalska
+Krasińskiego
+Kraszewskiego
+Kręta
+Królowej Jadwigi
+Krótka
+Kruczkowskiego Kazimierza
+Krzywa
+Kujawska
+Kunickiego
+Kupiecka
+Kuśnierska
+Kwiatowa
+Lelewela
+Leszczynowa
+Leśna
+Liliowa
+Lipowa
+Lisia
+Lniana
+Lotników
+Lubuska
+Łabędzia
+Łąkowa
+Łużycka
+Magazynowa
+Makowa
+Mała
+Małopolska
+Marszałka Józefa Piłsudskiego
+Matejki
+Mazowiecka
+Metalowca
+Miarki
+Mickiewicza
+Mieczysława Karłowicza
+Mieszka I
+Miodowa
+Młodych
+Młynarska
+Moniuszki
+Morelowa
+Motoryzacyjna
+Muzealna
+Narutowicza
+Norwida
+Nowa
+Nowsza
+Odlewnika
+Odrzańska
+Ogrodowa
+Okrężna
+Okrzei
+Orkana
+Orzeszkowej
+Osiedle im. Armii Krajowej
+Osiedle Konstytucji 3 Maja
+Osiedle Kopernika
+Osiedle Paderewskiego
+Osiedle Spółdzielcze
+Parafialna
+Park Chrztu Polski
+Parkowa
+Pasieczna
+Piaskowa
+Piastowska
+Plac Floriana
+Plac Solny
+Plac Wyzwolenia
+Plater
+Pocztowa
+Podgórna
+Podwale
+Polna
+Połanieckich
+Południowa
+Pomorska
+Poniatowskiego
+Poprzeczna
+Portowa
+Północna
+Promenada
+Przemysłowa
+Przędzalnicza
+Przyszłości
+Ptasia
+Pułaskiego
+Reja
+Reymonta
+Rolna
+Rondo 100-lecia odzyskania Niepodległości
+Rondo Bpa Wilhelma Pluty
+Rondo DOZAMETU
+Rondo dr Tadeusza Pietka
+Rondo dr. n. med. Władysława Kolbuszewskiego
+Rondo im. Kresowian
+Rondo im. Ojca Medarda
+Rondo ks. Jerzego Popiełuszki
+Rondo PCK
+Rondo Wadima Tyszkiewicza Prezydenta Miasta (2002-2019)
+Rondo Województwa Lubuskiego
+Różana
+Rydla
+Sadowa
+Saperów
+Siemiradzkiego
+Sienna
+Sikorskiego
+Skargi
+Składowa
+Skłodowskiej-Curie
+Skrzetuskiego
+Skwer im. Żołnierzy Niezłomnych
+Słoneczna
+Słonecznikowa
+Słowackiego
+Sobieskiego
+Solidarności
+Solskiego
+Sosnowa
+Spacerowa
+Spokojna
+Staffa
+Starostawska
+Stasia i Nel
+Staszica
+Stawowa
+Stefana Batorego
+Struga
+Syntetyczna
+Szafera
+Szarych Szeregów
+Szczepana Bąka
+Szeroka
+Szkolna
+Śląska
+św. Barbary
+Świerkowa
+Tadeusza Zawadzkiego - Zośki
+Targowa
+Tetmajera
+Topolowa
+Towarowa
+Traugutta
+Tulipanowa
+Ustronie
+W. Witosa
+Wandy
+Warmińska
+Waryńskiego
+Wąska
+Wesoła
+Wiejska
+Wielkopolska
+Wierzbowa
+Wiesława Sautera
+Wilcza
+Wiśniowa
+Witolda Lutosławskiego
+Władysława Łokietka
+Włókniarek
+Wodna
+Wojciecha Kilara
+Wojska Polskiego
+Wołodyjowskiego
+Wrocławska
+Wróblewskiego
+Wrzosowa
+Współczesna
+Wybickiego
+Wyspiańskiego
+Zacisze
+Zagłoby
+Zakątek
+Zamenhofa
+Zamiejska
+Zaułek
+Zielona
+Zielonogórska
+Zjednoczenia
+Zygmunta Starego
+Żabia
+Żeromskiego
+Żurawia
+Żwirki i Wigury

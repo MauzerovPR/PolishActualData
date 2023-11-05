@@ -1,0 +1,13 @@
+Brzozowa
+Dworcowa
+Dworzec
+Kwiatowa
+Leśna
+Ogrodowa
+Okrężna
+Polna
+Sosnowa
+Sportowa
+Spółdzielcza
+Szkolna
+Wielewska

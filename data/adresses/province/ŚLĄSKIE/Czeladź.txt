@@ -1,0 +1,203 @@
+1 Maja
+11 Listopada
+17 Lipca
+21 Listopada
+27 Stycznia
+3 Kwietnia
+3 Szyb
+Adama Asnyka
+Adama Mickiewicza
+Akacjowa
+Aleja Róż
+Alfred
+Alfreda Biedermanna
+Armii Krajowej
+Asfaltowa
+Astrów
+Bażantów
+Betonowa
+Będzińska
+Boczna
+Boguckiego
+Bolesława Pieńkowskiego
+Bolesława Prusa
+Borowa
+Bratków
+Brynicka
+Brzozowa
+Bytomska
+Chmielna
+Ciasna
+Cicha
+Cmentarna
+Cyprysowa
+Czysta
+Daleka
+Dehnelów
+Dębowa
+Dojazd
+Elizy Orzeszkowej
+Francuska
+Fryderyka Chopina
+Gabriela Narutowicza
+Gabrieli Zapolskiej
+Gdańska
+Generała Józefa Hallera
+Górna
+Górnicza
+Graniczna
+Grodziecka
+Handlowa
+Harcerska
+Henryka Czeczotta
+Henryka Sienkiewicza
+Ignacego Jana Skorupki
+Ignacego Krasickiego
+Jagodowa
+Jana Brzechwy
+Jana III Sobieskiego
+Jana Kilińskiego
+Jana Matejki
+Jasna
+Jaśminowa
+Jesienna
+Józefa Bema
+Józefa Mazura
+Józefa Poniatowskiego
+Józefa Sułkowskiego
+Józefa Wybickiego
+Juliana Tuwima
+Juliusza Słowackiego
+Kacza
+Kamienna
+Kamila Cypriana Norwida
+Kamionka
+Karola Wilhelma Scheiblera
+Kasztanowa
+Katowicka
+Kazimierza Promyka
+Kazimierza Pułaskiego
+Klonowa
+Kombatantów
+Konstantego Ciołkowskiego
+Konstytucji 3 Maja
+Kosmonautów
+Kościelna
+Krakowska
+Krótka
+Krzywa
+Lawendowa
+Legionów
+Letnia
+Lipowa
+Lotnicza
+Ludwika Waryńskiego
+Lwowska
+Łączkowa
+Łączna
+Madera
+Malinowa
+Małobądzka
+Marii Curie-Skłodowskiej
+Marii Konopnickiej
+Miasta Auby
+Mieczyków
+Mikołaja Kopernika
+Mikołaja Reja
+Miła
+Miodowa
+Modrzejowska
+Morelowa
+Mysłowicka
+Nadrzeczna
+Nasze Osiedle
+Niecała
+Niepodległości
+Niwa
+Nowa
+Nowopogońska
+Ogrodowa
+Osiedle Dziekana
+Parkowa
+Piaskowa
+Piastowska
+Plac im. Victora Viannay'a
+Płocka
+Podwalna
+Polna
+Poprzeczna
+Powstania Styczniowego
+Powstańców Śląskich
+Prosta
+Przełajska
+Pusta
+Robotnicza
+Rolnicza
+Rondo Czeladzkiego Samorządu
+Rondo im. Jurka Bitschana
+Równoległa
+Rynek
+Rynek Imieniem Stefana Kardynała Wyszyńskiego - Prymasa Polski
+Rynkowa
+Rzemieślnicza
+Sadowa
+Saturnowska
+Siemianowicka
+Skalna
+Skałka
+Składkowskiego
+Słoneczna
+Słowiańska
+Sosnowa
+Spacerowa
+Spokojna
+Sportowa
+Spółdzielcza
+Stanisława Moniuszki
+Stanisława Staszica
+Stanisława Trznadla
+Stanisława Wojciechowskiego
+Stanisława Wyspiańskiego
+Staropogońska
+Stawowa
+Stefana Batorego
+Stefana Okrzei
+Stefana Żeromskiego
+Storczyków
+Strzelecka
+Szarych Szeregów
+Szkolna
+Szpitalna
+Szyb Jana
+Szybikowa
+Ślepa
+Tadeusza Kościuszki
+Topolowa
+Tulipanów
+Walna
+Wapienna
+Warszawska
+Wąska
+Wesoła
+Węglowa
+Widokowa
+Wiejska
+Wincentego Pola
+Wiosenna
+Wiśniowa
+Władysława Broniewskiego
+Władysława Reymonta
+Władysława Sikorskiego
+Wojkowicka
+Wrzosowa
+Wspólna
+Zacisze
+Zamiejska
+Zdzisława Czarnomskiego
+Zielona
+Zimowa
+Związku Orła Białego
+Zwycięstwa
+Żabia
+Żwirki i Wigury
+Żytnia

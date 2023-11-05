@@ -1,0 +1,13 @@
+Asfaltowa
+Boczna
+Brzozowa
+Główna
+Kolejowa
+Kwiatowa
+Lawendowa
+Leśna
+Młyńska
+Pyrzańska
+Świerkowa
+Warszawska
+Wiejska

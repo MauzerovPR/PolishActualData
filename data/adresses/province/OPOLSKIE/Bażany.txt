@@ -1,0 +1,10 @@
+Akacjowa
+Boczna
+Kościelna
+Krótka
+Krzywa
+Leśna
+Łąkowa
+Ogrodowa
+Polna
+Wiejska

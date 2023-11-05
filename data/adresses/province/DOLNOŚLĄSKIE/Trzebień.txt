@@ -1,0 +1,16 @@
+Boczna
+Bolesławiecka
+Brzozowa
+Kolejowa
+Kolorowa
+Kościelna
+Leśna
+Lipowa
+Mostowa
+Parkowa
+Polna
+Przemysłowa
+Spacerowa
+Strażacka
+Świerkowa
+Usługowa

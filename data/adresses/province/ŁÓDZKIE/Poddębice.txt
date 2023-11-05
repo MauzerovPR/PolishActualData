@@ -1,0 +1,79 @@
+1 Maja
+Brzozowa
+Cicha
+Cmentarna
+Deczyńskiego
+Dębowa
+Dojazd
+Gajowa
+Grunwaldzka
+Ignacego Krasickiego
+Jałowcowa
+Jana III Sobieskiego
+Jana Kochanowskiego
+Jesienna
+Kaliska
+Kilińskiego
+Klonowa
+Konopnickiej
+Kosmonautów
+Kościuszki
+Krokusowa
+Krótka
+Krzysztofa Kamila Baczyńskiego
+Kwiatowa
+Leśna
+Lipowa
+Łęczycka
+Łódzka
+Mickiewicza
+Mikołaja Kopernika
+Mikołaja Reja
+Miła
+Młynarska
+Morelowa
+Myśliwska
+Nadrzeczna
+Narutowicza
+Nowa
+Ogrodowa
+Osiedlowa
+Partyzantów
+Parzęczewska
+Piaskowa
+Piękna
+Piotrowskiego
+Pogodna
+Polna
+Południowa
+Poprzeczna
+Północna
+Przejazd
+Przyszłość
+Pułaskiego
+Pułkownika Jerzego Mencla
+Radosna
+Różana
+Rzemieślnicza
+Sienkiewicza
+Słoneczna
+Sosnowa
+Spacerowa
+Spokojna
+Szkolna
+Targowa
+Tulipanowa
+Ustronna
+Wesoła
+Wiejska
+Wierzbowa
+Wiosenna
+Wiśniowa
+Wodna
+Wrzosowa
+Wschodnia
+Wspólna
+Wyzwolenia
+Zacisze
+Zielona
+Złota

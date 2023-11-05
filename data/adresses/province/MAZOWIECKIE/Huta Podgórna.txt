@@ -1,0 +1,13 @@
+Brzozowa
+Jałowcowa
+Krótka
+Leśna
+Panoramiczna
+Pastwiskowa
+Podgórna
+Polna
+Sosnowa
+Środkowa
+Świerkowa
+Wąska
+Wiejska

@@ -1,0 +1,76 @@
+Akacjowa
+Boczna
+Bór
+Cicha
+Dębowa
+Dojazdowa
+Dworska
+Flisacka
+Franciszka Stefczyka
+Gajowa
+Gminna
+Gospodarska
+Gościniec
+Graniczna
+Jurajska
+Kasztanowa
+Kępa
+Klonowa
+Kościelna
+Krakowska
+Krótka
+Krzeszowicka
+Krzywa
+Leśna
+Lipowa
+Łąkowa
+Malownicza
+Mała
+Modrzewiowa
+Na Błonia
+Na Studzienkach
+Na Wzgórzu
+Nad Potokiem
+Nad Wisłą
+Ogrodnicza
+Ogrodowa
+Okrężna
+Parkowa
+Pasieka
+Pod Lasem
+Podgórki
+Południowa
+Poprzeczna
+Promowa
+Prosta
+Przemysłowa
+Ratanice
+Ratanice Nowe
+Rondo Solidarności
+Rozstaje
+Różańcowa
+Rynek
+Skalna
+Skryta
+Skwer Papieski
+Słoneczna
+Sosnowa
+Spokojna
+Sportowa
+Stara Kuźnia
+Starowiślna
+Stawowa
+Tęczowa
+Tyniecka
+Usługowa
+Wadowicka
+Wałowa
+Wędkarska
+Widokowa
+Wierzbowa
+Willowa
+Wiślana
+Zacisze
+Zakamycze
+Zaułek
+Zawiła

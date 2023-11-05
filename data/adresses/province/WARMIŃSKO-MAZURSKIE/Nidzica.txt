@@ -1,0 +1,125 @@
+1 Maja
+11 Listopada
+3 Maja
+Aleja Sprzymierzonych
+Aleja Wojska Polskiego
+Bałtycka
+Barke
+Boczna
+Brzozowa
+Bukowa
+Bursztynowa
+Bystra
+Cegielniana
+Cicha
+Dębowa
+Długa
+Dobra
+Dolna
+Dubieńska
+Działdowska
+Generała Bema
+Górna
+Grunwaldzka
+Ignacego Krasickiego
+Jasna
+Jesionowa
+Józefa Ignacego Kraszewskiego
+Kajki
+Kętrzyńskiego
+Kilińskiego
+Klonowa
+Kochanowskiego
+Kolejowa
+Konopnickiej
+Kopernika
+Kościelna
+Kościuszki
+Krótka
+Krucza
+Krzemowa
+Krzywa
+ks. Jerzego Otello
+Kwiatowa
+Leona Marchlewskiego
+Leśna
+Limanowskiego
+Linki
+Łąkowa
+Mazurska
+Mickiewicza
+Miła
+Miodowa
+Młynarska
+Mokra
+Moniuszki
+Morelowa
+Murarska
+Murzynowskiego
+Narutowicza
+Nowa
+Nowomiejska
+Ogrodowa
+Olsztyńska
+Osińskiego
+Owocowa
+Pawia
+Piaskowa
+Pieniężnego
+Piękna
+Plac Kosmonautów
+Plac ks. Władysława Sudzińskiego
+Plac Lotników
+Plac Pokoju
+Plac Róż
+Plac Wojciecha z Brudzewa
+Plac Wolności
+Platynowa
+Pocztowa
+Pogodna
+Polna
+Porzeczkowa
+Prusa
+Przechodnia
+Przemysłowa
+Radosna
+Rataja
+Ratuszowa
+Robotnicza
+Rondo Bitwy Warszawskiej 1920
+Rondo Mazurskie
+Rondo Myśli
+Rondo Niepodległości
+Rzemieślnicza
+Sienkiewicza
+Słoneczna
+Słowackiego
+Spacerowa
+Spokojna
+Sportowa
+Srebrna
+Steffena
+Szerokopaś
+Śliwkowa
+Świerkowa
+Tatarska
+Towarowa
+Traugutta
+Warmińska
+Warszawska
+Wesoła
+Wilcza
+Wincentego Pola
+Wiosenna
+Wiśniowa
+Władysława Jagiełły
+Wspólna
+Wyborska
+Wyspiańskiego
+Zamkowa
+Zielona
+Złota
+Żeromskiego
+Żurawia
+Żwirowa
+Żywiczna

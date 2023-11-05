@@ -1,0 +1,62 @@
+1 Maja
+Akacjowa
+Antoniego Pawlety
+Arki Bożka
+Boczna
+Borek
+Borówkowa
+Brzozowa
+Cicha
+Dębowa
+Długa
+Dziwna
+Edmunda Strzeleckiego
+Emanuela Smołki
+Gajdowe
+Heleny Modrzejewskiej
+Jagodowa
+Jakuba Kani
+Jana Dzierżona
+Józefa Bema
+Józefa Chłopickiego
+Józefa Dobisa
+Józefa Elsnera
+Karola Koziołka
+Kasztanowa
+Kazimierza Pułaskiego
+Klonowa
+Korfantego
+Krótka
+Kwiatowa
+Leśna
+Lipowa
+Majowa
+Malinowa
+Marii Skłodowskiej
+Marka Prawego
+Miodowa
+Nowa Kolonia
+Nowe Osiedle
+Opaleniec
+Parkowa
+Piękna
+Podleśna
+Poziomkowa
+Słoneczna
+Słonecznikowa
+Sosnowa
+Spokojna
+Stanisława Żółkiewskiego
+Stara Kolonia
+Stawowa
+Strzelecka
+Szkolna
+Św. Wojciecha
+Świętego Józefa
+Tulipanowa
+Wesoła
+Widokowa
+Wiejska
+Wrzosowa
+Wspólna
+Zielona

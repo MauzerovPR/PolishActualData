@@ -1,0 +1,16 @@
+Boczna
+Brodnicka
+Cicha
+Długa
+Kręta
+Krótka
+Leśna
+Łąkowa
+Okrężna
+Pocztowa
+Podgórna
+Prosta
+Przemysłowa
+Spokojna
+Turystyczna
+Ustronna

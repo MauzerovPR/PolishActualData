@@ -1,0 +1,16 @@
+Brzozowa
+Cicha
+Dębowa
+Kolejowa
+Leśna
+Modrzewiowa
+Ogrodowa
+Okrężna
+Parkowa
+Polna
+Południowa
+Północna
+Przemysłowa
+Słoneczna
+Warszawska
+Wiatraczna

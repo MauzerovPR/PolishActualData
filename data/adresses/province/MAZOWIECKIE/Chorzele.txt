@@ -1,0 +1,66 @@
+1 Maja
+11 Listopada
+Adama Mickiewicza
+Akacjowa
+Bagienna
+Bajeczna
+Bolesława Chrobrego
+Brzozowa
+Cmentarna
+dr. Wacława Bendowskiego
+Grunwaldzka
+Jana III Sobieskiego
+Jana Pawła II
+Jodłowa
+Józefa Ignatowskiego
+Karola Szymanowskiego
+Kasztanowa
+Kazimierza Wielkiego
+Klonowa
+Kolejowa
+Kościelna
+Królewska
+Królowej Bony
+Królowej Jadwigi
+Krótka
+Księżycowa
+Leśna
+Macieja Rataja
+Mieszka I
+Młynarska
+Mostowa
+Nadrzeczna
+Nowa
+Ogrodowa
+Olszewska
+Plac Tadeusza Kościuszki
+Pogodna
+Polna
+por. Mieczysława Karczewskiego
+Przechodnia
+Przemysłowa
+Przytulna
+Rondo Brygady Syberyjskiej
+Ruda
+Rzemieślnicza
+Sosnowa
+Spokojna
+Stanisława Komosińskiego
+Stanisława Moniuszki
+Stara Targowica
+Szkolna
+Świerkowa
+Tomasza Kolbego
+Wesoła
+Wiatraczna
+Wierzbowa
+Wincentego Witosa
+Władysława Jagiełły
+Władysława Łokietka
+Zarębska
+Zduńska
+Zuzanny
+Zygmunta I Starego
+Zygmunta III Wazy
+Zygmunta Padlewskiego
+Żabia

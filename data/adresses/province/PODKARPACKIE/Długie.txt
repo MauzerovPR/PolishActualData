@@ -1,0 +1,12 @@
+Dolna
+Górna
+Graniczna
+Kolonia
+Kościelna
+Nowa
+Osiedlowa
+Sanocka
+Spacerowa
+Zachodnia
+Zagumnie
+Zielona

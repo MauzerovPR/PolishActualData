@@ -1,0 +1,41 @@
+1 Maja
+Boczna
+Bolesławska
+Brzeziny
+Długa
+Drzymały
+Dworcowa
+Dworcowa PKP
+Główna
+Hanowiec
+Kopernika
+Krzyżanowska
+Księdza Bonczyka
+Księdza Doktora Weltzla
+Księdza Dzierżona
+Księdza Gregora
+Kwiatowa
+Ludwika Bielaczka
+Miarki
+Mickiewicza
+Młyńska
+Nowa
+Odrzańska
+Ogrodowa
+Parkowa
+Piaskowa
+Polna
+Południowa
+Raciborska
+Różana
+Skwer przy Krzyżu
+Słoneczna
+Sportowa
+Stawowa
+Świętego Jana
+Świętego Urbana
+Wąska
+Wypoczynkowa
+Zachodnia
+Zamkowa
+Żwirowa

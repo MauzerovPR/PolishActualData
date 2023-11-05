@@ -1,0 +1,66 @@
+Akacjowa
+Aleja Amurowa
+Aleja Błękitna
+Aleja Karpiowa
+Aleja Mokra
+Aleja na Górce
+Aleja Okoniowa
+Aleja pod Wałem
+Aleja Sandaczowa
+Aleja Słoneczna
+Aleja Sucha
+Aleja Szczupakowa
+Aleja Turystyczna
+Aleja Wypoczynkowa
+Biwakowa
+Boczna
+Borowikowa
+Brzozowa
+Bukowa
+Cedrowa
+Cicha
+Cisowa
+Dębowa
+Energetyczna
+Grabowa
+Grzybowa
+Harcerska
+Iwaszkiewicza
+Jagodowa
+Jaworowa
+Jesionowa
+Jodłowa
+Kalinowa
+Klonowa
+Kościuszki
+Krótka
+Leśna
+Lipowa
+Malinowa
+Miodowa
+Modrzewiowa
+Muchomorowa
+Nowa
+Ogrodowa
+Opieńkowa
+Opolska
+Pieczarkowa
+Plac von Garnier
+Planetorza
+Pływacka
+Pod Lasem
+Pogodna
+Promenada
+Prosta
+Rzeczna
+Sosnowa
+Spacerowa
+Spokojna
+Stawowa
+Strażacka
+Średnia
+Świerkowa
+Wędkarska
+Wodna
+Żeglarska
+Żużlowa

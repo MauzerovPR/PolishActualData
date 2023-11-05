@@ -1,0 +1,58 @@
+3-go Maja
+Akacjowa
+Antenowa
+Aroniowa
+Brzozowa
+Dębowa
+Długa
+Działkowa
+Jana Pawła II
+Kardynała Wyszyńskiego
+Kasztanowa
+Klonowa
+Kolejowa
+Kościelna
+Kościuszki
+Kownacka
+Krępska
+Krótka
+Kwiatowa
+Leszczynowa
+Leszowa
+Leśna
+Liliowa
+Lipowa
+Łaskarzewska
+Maciejowicka
+Marzysza
+Milanowska
+Miodowa
+Ogrodowa
+Onufrego Błachnio
+Orzechowa
+Osiedlowa
+Pagórkowata
+Park Sybiraków
+Piaskowa
+Podlasie
+Podługi
+Polna
+Poprzeczna
+Projektowana
+Rynek
+Sądowa
+Słoneczna
+Sosnowa
+Spacerowa
+Spokojna
+Targowa
+Wesoła
+Widokowa
+Wiejska
+Wiosenna
+Wrzosowa
+Wspólna
+Zaciszna
+Zielna
+Żelechowska
+Żytnia

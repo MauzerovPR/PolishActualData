@@ -1,0 +1,14 @@
+Boczna
+Główna
+Kolejowa
+Leśna
+Łąkowa
+Ogrodowa
+Parkowa
+Piaskowa
+Podgórna
+Polna
+Poprzeczna
+Szkolna
+Wąska
+Zielony Gaj

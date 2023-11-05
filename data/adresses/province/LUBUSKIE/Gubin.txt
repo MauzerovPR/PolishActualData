@@ -1,0 +1,177 @@
+1 Maja
+3 Maja
+Akacjowa
+Aleje Łużyckie
+Bajkowa
+Barlickiego
+Basztowa
+Batalionów Chłopskich
+Bohaterów
+Bolesława Chrobrego
+Bolesława Krzywoustego
+Bronowicka
+Brzozowa
+Budziszyńska
+Ceglana
+Chabrowa
+Chodkiewicza
+Chopina
+Cmentarna
+Czarnieckiego
+Daszyńskiego
+Dębowa
+Długa
+Doktora Kunickiego
+Dolna
+Drukarska
+Dubois
+Dzika
+Fabryczna
+Gdańska
+Gdyńska
+Generała Bema
+Generała Dąbrowskiego
+Generała Józefa Wybickiego
+Generała Pułaskiego
+Generała Sikorskiego
+Generała Sowińskiego
+Generała Władysława Andersa
+Generała Wysockiego
+Grunwaldzka
+Gubeńska
+Handlowa
+Hoża
+im. Tadeusza Firleja
+Jagiellońska
+Jana Sobieskiego
+Jasna
+Jedności Robotniczej
+Kaliska
+Kasprowicza
+Kasprzaka
+Kasztanowa
+Kinowa
+Klonowa
+Kochanowskiego
+Kołłątaja
+Konopnickiej
+Kopernika
+Kossaka
+Kosynierów
+Koszarowa
+Kościuszki
+Krajobrazowa
+Krakowska
+Krańcowa
+Krasickiego
+Krasińskiego
+Kraszewskiego
+Kresowa
+Królewska
+Krótka
+Krzywa
+Księcia Józefa Poniatowskiego
+Kujawska
+Kwiatowa
+Legnicka
+Lenino
+Leona Wyczółkowskiego
+Leśna
+Lipowa
+Lotnicza
+Lubelska
+Lwowska
+Łąkowa
+Łukowa
+Majdanek
+Malczewskiego
+Mała
+Matejki
+Miedziana
+Miejska
+Miodowa
+Morska
+Mylna
+Niecała
+Nowa
+Obrońców Pokoju
+Ogrodowa
+Okrężna
+Okrzei
+Orla
+Orzeszkowej
+Osiedle Emilii Plater
+Osiedlowa
+Oświęcimska
+Paderewskiego
+Pamiątkowa
+Pańska
+Park Imienia 5 Dywizji
+Parkowa
+Partyzantów
+Piaskowa
+Piastowska
+Piękna
+Pikusia
+Piwna
+Plac im. św. Jana Pawła II
+Plac Katedralny
+Plac Króla Bolesława Chrobrego
+Platanowa
+Podgórna
+Poleska
+Polna
+Poprzeczna
+Poziomkowa
+Prusa
+Przemysłowa
+Przesiedleńców
+Racławicka
+Ratuszowa
+Repatriantów
+Rodziewiczówny
+Rolna
+Rondo Gubińskich Pionierów
+Rondo Niepodległości
+Rondo przy Wyspie
+Roosevelta
+Różana
+Rycerska
+Rydla
+Sadowa
+Sezamkowa
+Słoneczna
+Słowackiego
+Spokojna
+Sportowa
+Stroma
+Szkolna
+Śląska
+Świerkowa
+Tobruk
+Traugutta
+Ukryta
+Ułanów Karpackich
+Waryńskiego
+Wesoła
+Westerplatte
+Widok
+Wieniawskiego
+Wiśniowa
+Wodna
+Wojska Polskiego
+Wołyńska
+Wrońskiego
+Wrzosowa
+Wyspiańskiego
+Wyzwolenia
+Zacisze
+Złota
+Zwycięstwa
+Zygmunta Starego
+Źródlana
+Żelazna
+Żołnierska
+Żołnierzy II Armii Wojska Polskiego
+Żółkiewskiego
+Żwirki i Wigury

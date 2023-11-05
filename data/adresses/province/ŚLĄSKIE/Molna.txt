@@ -1,0 +1,10 @@
+Boczna
+Cegielniana
+Jeżowska
+Kwiatowa
+Łąkowa
+Osiedlowa
+Polna
+Sierakowska
+Tylna
+Wiejska

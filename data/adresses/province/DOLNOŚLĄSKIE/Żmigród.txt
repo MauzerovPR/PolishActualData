@@ -1,0 +1,67 @@
+1 Maja
+Adama Mickiewicza
+Akacjowa
+Andrzeja Kmicica
+Azaliowa
+Bolesława Prusa
+Czereśniowa
+Czesława Miłosza
+Dębowa
+Elizy Orzeszkowej
+Henryka Sienkiewicza
+Ignacego Krasickiego
+Ignacego Olczyka
+Jana Brzechwy
+Janusza Korczaka
+Jarzębinowa
+Jaśminowa
+Juliusza Słowackiego
+Klonowa
+Kolejowa
+Kościelna
+Krokusowa
+Krótka
+Kwiatowa
+Lawendowa
+Lipowa
+Longinusa Podbipięty
+Marii Konopnickiej
+Morelowa
+Obornicka
+Ogrodowa
+Onufrego Zagłoby
+Parkowa
+Polna
+Poprzeczna
+Powstańców Styczniowych
+Poziomkowa
+Poznańska
+Przemysłowa
+Rondo Ofiar Tragedii w Roszarni
+Różana
+Rybacka
+Rzemieślnicza
+Rzeźnicza
+Skwer im. Pawła Beceli
+Skwer Niepodległości
+Skwer Pionierów Oświaty
+Sportowa
+Spółdzielcza
+Stefana Batorego
+Szklana
+Szkolna
+Św. Jana Pawła II
+Tadeusza Kościuszki
+Wąska
+Wiejska
+Wileńska
+Willowa
+Wisławy Szymborskiej
+Władysława Reymonta
+Wojska Polskiego
+Wolności
+Wrocławska
+Wrzosowa
+Zamkowa
+Zesłańców Sybiru
+Zielona

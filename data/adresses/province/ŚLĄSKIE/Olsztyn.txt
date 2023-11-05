@@ -1,0 +1,71 @@
+3 Maja
+Adama Mickiewicza
+Akacjowa
+Amonitowa
+Asnyka
+Botaniczna
+Bukowa
+Cicha
+Czesława Miłosza
+Dębowa
+Fiołkowa
+Górzysta
+Irysowa
+Jana Combika
+Jana Kochanowskiego
+Jarzębinowa
+Jaśminowa
+Jodłowa
+Juliusza Słowackiego
+Karlińskiego
+Karłowatej Sosny
+Kazimierza Wielkiego
+Kolejowa
+Konwaliowa
+Kopernika
+Koralowa
+Kościelna
+Księcia Jerzego Lubomirskiego
+Kuhna
+Leszczynowa
+Leśna
+Mała
+Marii Konopnickiej
+Maurycego
+Morelowa
+Mstowska
+Napoleona
+Narcyzowa
+Niedźwiedzia
+Norwida
+Ogrodowa
+Olchowa
+Paderewskiego
+Paprociowa
+Piaskowa
+Plac im. marszałka Józefa Piłsudskiego
+Pod Wilczą Górą
+Polna
+Poziomkowa
+Prostopadła
+Prusa
+Rondo im. Ojca Świętego Jana Pawła II
+Rowerowa
+Różana
+Sienkiewicza
+Sobieskiego
+Sokola
+Sosnowa
+Storczykowa
+Szkolna
+Świętej Puszczy
+Towarna
+Turystyczna
+Urwista
+Wodociągowa
+Wrzosowa
+Wspólna
+Zachodnia
+Zamkowa
+Zielona
+Żwirki i Wigury

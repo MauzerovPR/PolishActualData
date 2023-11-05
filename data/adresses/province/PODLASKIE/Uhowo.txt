@@ -1,0 +1,21 @@
+1 Maja
+11 Listopada
+Adama Mickiewicza
+Białostocka
+Borowska
+Cicha
+Cmentarna
+Kolejowa
+Kościelna
+Leśna
+Polna
+Przechodnia
+Rzeczna
+Spokojna
+Sportowa
+Strażacka
+Surażska
+Szkolna
+Wesoła
+Widokowa
+Zdrojowa

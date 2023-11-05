@@ -1,0 +1,304 @@
+3 Maja
+33 Pułku Piechoty
+Adama Chętnika
+Adama Mickiewicza
+Akacjowa
+Akademicka
+Aleja Józefa Piłsudskiego
+Aleja Legionów
+Architektów
+Bartnicza
+Bawełniana
+Bazowa
+Beztroska
+Bieliczna
+Bliska
+Błękitna
+Boczna
+Bohdana Winiarskiego
+Bolesława Chrobrego
+Bolesława Prusa
+Browarna
+Brzozowa
+Budowlańców
+Bukowa
+Bursztynowa
+Cegielniana
+Chabrowa
+Chmielna
+Cicha
+Ciepła
+Cisowa
+Dębowa
+Długa
+Dobra
+Drogowców
+Dworcowa
+Dworna
+Działkowa
+Edwarda Ciborowskiego
+Elbląska
+Elektryków
+Fabryczna
+Farna
+Feliksa Bernatowicza
+Forteczna
+Franciszka Szymańskiego
+Fryderyka Chopina
+gen. Mariana Stanisława Raganowicza
+gen. Władysława Sikorskiego
+Geodetów
+Geodetów Ziemi Łomżyńskiej
+Giełczyńska
+Głogowa
+Górna
+Grabowa
+Graniczna
+Grobla Jednaczewska
+Handlowa
+Hanki Bielickiej
+Harcerska
+Henryka Sienkiewicza
+Hipokratesa
+Hugona Kołłątaja
+Informatyków
+Jadwigi Dziekońskiej ps. "Jadzia"
+Jana III Sobieskiego
+Jana z Kolna
+Janusza Korczaka
+Jasna
+Jatkowa
+Jaworowa
+Jednaczewska
+Jesienna
+Jesionowa
+Jędrzeja Śniadeckiego
+Jodłowa
+Józefa Bema
+Juliana Ursyna Niemcewicza
+Juliusza Słowackiego
+Kaczeńców
+Kaktusowa
+Kalinowa
+Kamienna
+Kanalna
+Kanarkowa
+Kanonierska
+Kapucyńska
+Kaszmirowa
+Kasztanowa
+Kasztelańska
+Katyńska
+Kazańska
+Kazimierza Pułaskiego
+Kazimierza Wielkiego
+Kaznodziejska
+Kierzkowa
+Klasztorna
+Klonowa
+Kolegialna
+Kolejowa
+Kolibrowa
+Konarska
+Konrada Wallenroda
+Konstytucji 3 Maja
+kpt. Antoniego Kozłowskiego ps. "Biały"
+kpt. Franciszka Skowronka
+Kraska
+Kręta
+Krokusowa
+Królowej Bony
+Królowej Jadwigi
+Krótka
+Krucza
+Kryształowa
+Krzywa
+Krzywe Koło
+ks. bp. Mikołaja Sasinowskiego
+ks. bp. Stanisława Kostki Łukomskiego
+Ks. Jerzego Popiełuszki
+ks. Kardynała Wyszyńskiego
+Księcia Janusza I
+Księcia Stanisława
+Księżnej Anny
+Księżycowa
+Kurpiowska
+Kwadratowa
+Kwiatowa
+Leona Kaliwody
+Leopolda Staffa
+Leszczynowa
+Leśna
+Lipowa
+Lniarska
+Łagodna
+Łączna
+Łąkowa
+Magazynowa
+Majowa
+Makowa
+Malinowa
+Mała Kraska
+Mariana Wojciecha Śmiarowskiego
+Marii Skłodowskiej Curie
+Marynarska
+Mazowiecka
+Mazurska
+Meblowa
+Mikołaja Kopernika
+Miła
+Miodowa
+mjr Jana Tabortowskiego ps. "Bruzda"
+mjr. Stanisława Cieślewskiego
+Modrzewiowa
+Most Majora Henryka Dobrzańskiego - Hubala
+Nadnarwiańska
+Narodowych Sił Zbrojnych
+Nowa
+Nowogrodzka
+Nowoprojektowana
+Obrońców Łomży
+Ogrodowa
+Opłotki
+Osiedle Bohaterów Monte Cassino
+Owocowa
+Pana Tadeusza
+Parkowa
+Partyzantów
+Pawia
+Perłowa
+Piaski
+Piaskowa
+Piękna
+Piwna
+Plac Niepodległości
+Plac Papieża Jana Pawła II
+Plac Pocztowy
+Plac Tadeusza Kościuszki
+Plac Zielony
+Pocztarska
+Podleśna
+Pogodna
+Poligonowa
+Polna
+Polowa
+Poprzeczna
+por. Kazimierza Żebrowskiego ps. "Bąk"
+por. Łagody
+Porzeczkowa
+Poziomkowa
+Poznańska
+ppłk Stanisława Żochowskiego
+Projektowana
+Promienna
+Prosta
+Przedwiośnie
+Przemysłowa
+Przyjaźni
+Przykoszarowa
+Przytulna
+Pszczela
+Ptasia
+Pułkowa
+Radosna
+Radziecka
+Raginisa
+Romana Dmowskiego
+Rondo Augustyna Gontarskiego
+Rondo Obrońców Westerplatte
+Rondo Przyjaciół Łomży
+Rondo Solidarności
+Rotmistrza Witolda Pileckiego
+Różana
+Rubinowa
+Rybaki
+Rycerska
+Rządowa
+Rzemieślnicza
+Sadowa
+Saperska
+Senatorska
+Słodka
+Słoneczna
+Słonecznikowa
+Słowikowa
+Sosnowa
+Spacerowa
+Spokojna
+Spółdzielcza
+Stacha Konwy
+Stanisława Małachowskiego
+Stanisława Moniuszki
+Stanisława Ogrodnika
+Stanisława Staszica
+Stara
+Stary Rynek
+Stawowa
+Stefana Batorego
+Stefana Żeromskiego
+Strażacka
+Strojna
+Stroma
+Strusia
+Strzelców Kurpiowskich
+Strzelnicza
+Studencka
+Sybiraków
+Sympatyczna
+Szafirowa
+Szczęśliwa
+Szeroka
+Szkolna
+Szlachecka
+Szmaragdowa
+Szosa do Mężenina
+Szosa Zambrowska
+św. Brunona z Kwerfurtu
+Świerkowa
+Talesa z Miletu
+Tęczowa
+Tkacka
+Topolowa
+Torfowa
+Towarowa
+Turkusowa
+Uśmiechu
+Waleriana Łukasińskiego
+Wąska
+Wesoła
+Wiązowa
+Wiejska
+Wierzbowa
+Wincentego Witosa
+Wiosenna
+Wiśniowa
+Witolda Lutosławskiego
+Władysława Broniewskiego
+Władysława Jagiełły
+Władysława Reymonta
+Włókiennicza
+Wojska Polskiego
+Woziwodzka
+Wronia
+Wspólna
+Wyzwolenia
+Zabawna
+Zaciszna
+Zakątek
+Zamiejska
+Zatylna
+Zaułek Cmentarny
+Zawady Przedmieście
+Zawadzka
+Zdrojowa
+Zgody
+Zielna
+Zielona
+Ziołowa
+Zjazd
+Zygmunta Glogera
+Żabia
+Żurawia
+Żwirki i Wigury
+Żwirowa
+Żydowska

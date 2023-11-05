@@ -1,0 +1,48 @@
+3-go Maja
+Aleja Kasztanowa
+Aleja Żeglarska
+Bociania
+Czapla
+Dybowska
+Ełcka
+Fasolkowa
+Jana Henryka Dąbrowskiego
+Jastrzębia
+Jeziorna
+Kolejowa
+Kormoranów
+Kowalska
+Króla Sielaw
+Krótka
+Krucza
+ks. Jerzego Popiełuszki
+Kwiatowa
+Leśna
+Łabędzia
+Mewia
+Michała Kajki
+Mrągowska
+Ogrodowa
+Okrężna
+Orla
+Orzyszowa
+Osiedle "Na Górce"
+Papieża Jana Pawła II
+Plac Handlowy
+Plac Kościelny
+Plac Wolności
+Pod Lasem
+Promenada im. Tadeusza Gołębiowskiego
+Ptasia
+Rybacka
+Słoneczna
+Sowia
+Spacerowa
+Szkolna
+Tadeusza Kościuszki
+Tałcka
+Warszawska
+Wawrzyńca Prusa
+Wileńska
+Złotych Kłosów
+Żurawia

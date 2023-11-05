@@ -1,0 +1,70 @@
+1 Maja
+Alicji
+Boczna
+Borowa
+Brzozowa
+Celna
+Chodury
+Cmentarna
+Damrota
+Dębowa
+Dworcowa
+Działkowa
+Fiołkowa
+Glenska
+Inwalidzka
+Julii
+Kani
+Klasztorna
+Kochanowskiego
+Kolejowa
+Kopernika
+Koraszewskiego
+Korczaka
+Kościuszki
+Krokusowa
+Krótka
+Księdza Klimasa
+Kwiatowa
+Leśna
+Lipcowa
+Łączna
+Miarki
+Mickiewicza
+Miodowa
+Nakielska
+Norwida
+Nowa
+Ogórkowa
+Ogrodowa
+Osiedle Zakładowe
+Osiedlowa
+Pardubicka
+Pasieczna
+Piaskowa
+Pieczarkowa
+Polna
+Poprzeczna
+Powstańców Śląskich
+Różana
+Sienkiewicza
+Skalna
+Słoneczna
+Słonecznikowa
+Słowackiego
+Słowiańska
+Sosnowa
+Ślepa
+Świętego Jacka
+Świętego Marcina
+Świętego Wojciecha
+Tęczowa
+Torowa
+Tulipanowa
+Tuwima
+Wapiennicza
+Wąska
+Wiśniowa
+Wrzosowa
+Zielona
+Żeromskiego

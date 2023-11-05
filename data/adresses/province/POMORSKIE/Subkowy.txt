@@ -1,0 +1,34 @@
+Akacjowa
+Boczna
+Brzozowa
+Cicha
+Dworcowa
+Gdańska
+gen. Władysława Sikorskiego
+Jana Nowaka-Jeziorańskiego
+Jodłowa
+Józefa Piłsudskiego
+Józefa Wybickiego
+Kardynała Wyszyńskiego
+Kociewska
+Kościelna
+Krótka
+Księdza Szylickiego
+Modrzewiowa
+Ogrodowa
+Osiedle imienia Jana Pawła II
+Pałacowa
+Pogodna
+Prosta
+Sadowa
+Słoneczna
+Sosnowa
+Spacerowa
+Spokojna
+Sportowa
+Spółdzielcza
+Świerkowa
+Wodna
+Za Dworcem
+Za Torem
+Zamkowa

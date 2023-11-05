@@ -1,0 +1,27 @@
+Boczna
+Cicha
+Cmentarna
+Dolna
+Gliwicka
+Górna
+Klubowa
+Kolejowa
+Krótka
+Leśna
+Nad Kanałem
+Nad Łąkami
+Nad Zalewem
+Nowa
+Ogrodowa
+Piaskowa
+Plac Rodu Ballestremów
+Plażowa
+Pogodna
+Polna
+Prosta
+Skotnicka
+Słoneczna
+Spokojna
+Wąska
+Wodna
+Wspólna

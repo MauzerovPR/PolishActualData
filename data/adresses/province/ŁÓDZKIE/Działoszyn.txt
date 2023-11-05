@@ -1,0 +1,88 @@
+1000 lecia PP
+Akacjowa
+Armii Krajowej
+Bankowa
+Bolesława Chrobrego
+Brzozowa
+Bugaj
+Cmentarna
+Częstochowska
+Dębowa
+Dmowskiego
+Garbarska
+Grota-Roweckiego
+Grunwaldzka
+Jaśminowa
+Jodłowa
+Jurgielewiczowej
+Klonowa
+Konopnickiej
+Kopernika
+Kościelna
+Kowalska
+Krótka
+Krupy
+Kuśnierska
+Leśna
+Lipowa
+Łąkowa
+Mickiewicza
+Modrakowa
+Modrzewiowa
+Na Stoku
+Nadwarciańska
+Narutowicza
+Niecała
+Obrony Narodowej
+Ogrodowa
+Orzechowa
+Ożegowska
+Paderewskiego
+Parkowa
+Piłsudskiego
+Plac Geodetów
+Plac imienia Jana Pawła II
+Plac Kościuszki
+Plac Rumiankowy
+Plac Wolności
+Podgórna
+Podłęczna
+Pokoju
+Polna
+Północna
+Prosta
+Przemysłowa
+Rotmistrza Witolda Pileckiego
+Rymarska
+Sadowska
+Sienkiewicza
+Sikorskiego
+Skarbczyńskich
+Słoneczna
+Sosnowa
+Sportowa
+Staromiejska
+Starzyńskiego
+Szewska
+Szkolna
+Targowa
+Usługowa
+Wiatrakowa
+Wiatrakowa Góra
+Wiązowa
+Wieluńska
+Wierzbowa
+Wiśniowa
+Władysława Jagiełły
+Władysława Łokietka
+Wodna
+Wojska Polskiego
+Wronia
+Wrzosowa
+Wyzwolenia
+Zachodnia
+Zakładowa
+Zamkowa
+Zielona
+Żeromskiego
+Żurawia

@@ -1,0 +1,11 @@
+Batorówka
+Boczna
+Główna
+Leśna
+Łąkowa
+Polna
+Południowa
+Północna
+Rękorajska
+Strażacka
+Szkolna

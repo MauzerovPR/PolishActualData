@@ -1,0 +1,6 @@
+Główna
+Kolejowa
+Leśna
+Parkowa
+Polna
+Szkolna

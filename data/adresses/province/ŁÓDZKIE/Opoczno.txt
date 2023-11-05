@@ -1,0 +1,185 @@
+1 Maja
+Adama Mickiewicza
+Akacjowa
+aleja Arcybiskupa Zygmunta Zimowskiego
+Aleja Dąbrówki
+Aleja Sportowa
+Armii Andersa
+Armii Krajowej
+Błonie
+Bolesława Chrobrego
+Bolesława Krzywoustego
+Brzozowa
+Bukowa
+Ceramiczna
+Cicha
+Cypriana Kamila Norwida
+Czeremchowa
+Daleka
+Dębowa
+Długa
+Drzymały
+Dworcowa
+Działkowa
+Edmunda Biernackiego
+Fatimska
+Fryderyka Chopina
+Garncarska
+gen. Roweckiego-Grota
+gen. W. Sikorskiego
+Generała Kazimierza Bończy-Załęskiego
+Głogowa
+Grabowa
+Graniczna
+Harcerzy
+Henryka Sienkiewicza
+Ignacego Krasickiego
+Inowłodzka
+J. Piłsudskiego
+Jana Matejki
+Jana Pawła II
+Jana Pawła II
+Janasa
+Jarzębinowa
+Jasnogórska
+Jesionowa
+Jodłowa
+Juliana Tuwima
+Juliusza Słowackiego
+Kalwaryjska
+Kamienna
+Kasztanowa
+Kazimierza Wielkiego
+Klonowa
+Kmicica
+Kolberga
+Kolejowa
+Kołomurna
+Kościelna
+Krokusowa
+Krótka
+ks. bp. J. Chrapka
+ks. Popiełuszki
+ks. Wł. Gąsiorowskiego
+Kuligowska
+Kwiatowa
+Leśna
+Libiszewska
+Licheńska
+Liliowa
+Limanowskiego
+Lipowa
+Ludwika Waryńskiego
+Łagiewnicka
+Łazienna
+Łąkowa
+Majora Hubala
+Majora Żesławskiego
+Marii Curie-Skłodowskiej
+Marii Konopnickiej
+Marka Galińskiego
+Mieszka I
+Mikołaja Kopernika
+Milenijne
+Modrzewiowa
+Mokra
+Morwowa
+Mostowa
+Narcyzowa
+Nowa
+Obwodnica Opoczna im. Czesława Pawlaczka
+Ogrodowa
+Okopowa
+Orła Białego
+Orzechowa
+Osiedle za Wulkanem
+Ostrobramska
+Parkowa
+Partyzantów
+Piaseczna
+Piotrkowska
+Piwna
+Plac Kilińskiego
+Plac Kościuszki
+Plac Strażacki
+Plac Zamkowy
+Plonowa
+Polna
+Powstańców Wielkopolskich
+Północna
+Prymasa Stefana Wyszyńskiego
+Przedszkolna
+Przemysłowa
+R. Dmowskiego
+Robotnicza
+Rolna
+Rondo imienia Żołnierzy Wyklętych
+Rondo ks. Jana Wojtana
+Rotmistrza Henryka Mieroszewskiego
+Różana
+Rynek Milenijny
+Rzeczna
+Siewna
+Skalna
+Skrzetuskiego
+Słoneczna
+Sobieskiego
+Solidarności
+Sosnowa
+Spacerowa
+Spokojna
+Stanisława Kowalskiego
+Stanisława Małachowskiego
+Stanisława Moniuszki
+Stanisława Wyspiańskiego
+Staromiejska
+Staszica
+Stefana Batorego
+Stefana Starzyńskiego
+Stefana Żeromskiego
+Stodolna
+Studzieńska
+Szewska
+Szkolna
+Szpitalna
+św. Bartłomieja
+św. Jadwigi
+św. Jana
+św. Łukasza
+św. Maksymiliana Marii Kolbe
+św. Marii Magdaleny
+św. Marka
+św. Mateusza
+św. Pawła
+św. Piotra
+św. Stanisława
+św. Wojciecha
+Świerkowa
+Targowa
+Torowa
+Towarowa
+Tujowa
+Ułana Józefa Puchały
+Uprawna
+Wałowa
+Wapienna
+Wąska
+Westerplatte
+Wiązowa
+Wiejska
+Wierzbowa
+Wincentego Witosa
+Witolda Pileckiego
+Władysława Łokietka
+Włodzimierza Perzyńskiego
+Włościańska
+Wojciecha Kossaka
+Wołodyjowskiego
+Wrzosowa
+Wymysłów
+Zagłoby
+Zakątna
+Zielna
+Zielona
+Zjazdowa
+Żytnia

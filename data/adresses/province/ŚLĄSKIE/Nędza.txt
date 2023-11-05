@@ -1,0 +1,67 @@
+1 Maja
+Adama Mickiewicza
+Akacjowa
+Boczna
+Borowiec
+Brzozowa
+Dębowa
+Drzymały
+Gliwicka
+Gołębia
+Górnicza
+Jabłoniowa
+Jana III Sobieskiego
+Jana Pawła II
+Jesionowa
+Kasztanowa
+Kolejowa
+Konarskiego
+Kopernika
+Kościelna
+Krótka
+Kwiatowa
+Lecznicza
+Leśna
+Letniskowa
+Lipowa
+Lniana
+Łąkowa
+Modrzewiowa
+Myśliwska
+Nad Suminą
+Nowa
+Ogrodowa
+Osiedlowa
+Piaskowa
+Plac Klemensa Boruty
+Pocztowa
+Polna
+Pomiarowa
+Prosta
+Rogol
+Rolnicza
+Rzeczna
+Rzemieślnicza
+Sadowa
+Sienkiewicza
+Skośna
+Słoneczna
+Sosnowa
+Sportowa
+Spółdzielcza
+Stawowa
+Strażacka
+Topolowa
+Towarowa
+Trawniki
+Tuwima
+Ustronna
+Wąska
+Wiejska
+Wiśniowa
+Zaciszna
+Zamknięta
+Zielona
+Złocista
+Źródlana
+Żwirowa

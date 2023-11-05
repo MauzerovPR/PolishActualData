@@ -1,0 +1,54 @@
+1 Maja
+3 Maja
+Akacjowa
+Azaliowa
+Bajkowa
+Bema
+Blacharska
+Bolesława Chrobrego
+Borowska
+bp. Wilhelma Pluty
+Daliowa
+Dębowa
+Dolanowo
+Drzymały
+gen. J.H. Dąbrowskiego
+Hutnicza
+Jaśminowa
+Kolejowa
+Konopnickiej
+Kościelna
+Kościuszki
+Krótka
+Kwiatowa
+Leśna
+Mickiewicza
+Miła
+Młyńska
+Nadrzeczna
+Ogrodowa
+Okrzei
+Pałacowa
+Piaskowa
+Plac Wolności
+Poniatowskiego
+Poprzeczna
+Pułaskiego
+Różana
+Skwer św. Jana Pawła II
+Skwer Zesłańców Sybiru
+Słoneczna
+Spacerowa
+Spokojna
+Sportowa
+Stefana Batorego
+Strzelecka
+Surzyna
+Syrokomli
+Traugutta
+Wypoczynkowa
+Zacisze
+Zaułek Rybacki
+Żagańska
+Żaków
+Żeromskiego

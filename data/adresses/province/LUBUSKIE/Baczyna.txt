@@ -1,0 +1,25 @@
+Czereśniowa
+Gorzowska
+Jagodowa
+Jaśminowa
+Kolarska
+Kolonia Południowa
+Kolonia Północna
+Kwiatowa
+Lipowa
+Maratońska
+Myśliborska
+Ogrodowa
+Olimpijska
+Osiedle Młodych
+Osiedle Sportowe
+Osiedlowa
+Owocowa
+Piłkarska
+Pocztowa
+Poziomkowa
+Sadowa
+Słoneczna
+Strzelecka
+Szkolna
+Żużlowa

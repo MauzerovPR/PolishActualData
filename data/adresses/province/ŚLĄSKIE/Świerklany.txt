@@ -1,0 +1,73 @@
+3 Maja
+Aleja
+Basztowa
+Błękitna
+Boryńska
+Bratkowa
+Budowlana
+Fiołkowa
+Gajowa
+Gogołowska
+Górna
+Górnośląska
+Granice
+Henryka Pobożnego
+Hutnicza
+Jana III Sobieskiego
+Jana Kazimierza
+Jankowicka
+Jesienna
+Kasztelańska
+Kazimierza Wielkiego
+Korytarzowa
+Kościelna
+Księdza Janika
+Księdza Ligonia
+Kucharzówka
+Leśna
+Letnia
+Łąkowa
+Makowa
+Malarska
+Mieszka I
+Ogrodnicza
+Parytetyczna
+Piekarnicza
+Plebiscytowa
+Pogodna
+Połomska
+Powstańców
+Przemysłowa
+Rajska
+Rolnicza
+Rybacka
+Rybnicka
+Rycerska
+Słoneczna
+Sosnowa
+Spacerowa
+Stawowa
+Stokrotkowa
+Strażacka
+Szerocka
+Szklarnia
+Szkolna
+Szybowa
+Świerkowa
+Tadeusza Kościuszki
+Tęczowa
+Tulipanowa
+Wiejska
+Wiosenna
+Władysława Jagiełły
+Władysława Łokietka
+Władysława Warneńczyka
+Wodzisławska
+Wrzosowa
+Zamkowa
+Zielona
+Zimowa
+Złota
+Zygmunta Starego
+Żeglarska
+Żorska

@@ -1,0 +1,7 @@
+Kolejowa
+Leśna
+Ogrodowa
+Parkowa
+Polna
+Rzeczna
+Szkolna

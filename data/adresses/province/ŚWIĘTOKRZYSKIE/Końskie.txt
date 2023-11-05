@@ -1,0 +1,148 @@
+1 Maja
+16 Stycznia
+3 Maja
+Adama Mickiewicza
+Akacjowa
+Aleja Solidarności
+Armii Krajowej
+Biskupa Antoniego Pawłowskiego
+Browarna
+Brzozowa
+Bursztynowa
+Ceramiczna
+Cicha
+Diamentowa
+Dolna
+Działkowa
+Fabryczna
+Folwarczna
+Gazownicza
+Gimnazjalna
+Gliniana
+Górna
+Graniczna
+Gruntowa
+Grzybowa
+Henryka Sienkiewicza
+Hugo Kołłątaja
+Iwo Odrowąża
+Izabelowska
+Jagodowa
+Jana Długosza
+Jana Kiepury
+Jana Piwnika - Ponurego
+Jarzębinowa
+Jasna
+Jesionowa
+Jodłowa
+Kalinowa
+Kapitana Stoińskiego
+Kardynała Stefana Wyszyńskiego
+Kazanowska
+Kazimierza Pułaskiego
+Kielecka
+Kilińskiego
+Klonowa
+Kolejowa
+Komuny Paryskiej
+Koneckich Odlewników
+Koralowa
+Kościeliska
+Kościelna
+Krakowska
+Kryształowa
+Krzywa
+ks. Jerzego Popiełuszki
+ks. Kazimierza Sykulskiego
+księdza Józefa Granata
+Kuźnicza
+Kwiatowa
+Leśna
+Lipowa
+Łazienna
+Malinowa
+Maratońska
+Marii Konopnickiej
+Marszałka Piłsudskiego
+Mechaniczna
+Metalurgów
+Mieszka I
+Mikołaja Kopernika
+Mikołaja Reja
+Mikołaja Szlifierza
+Miła
+mjr. Hubala
+Młyńska
+Mostowa
+Nadstawna
+Niepodległości
+Niepodległości
+Nowa
+Nowowiejska
+Odlewnicza
+Odludna
+Ogrodowa
+Olimpijska
+Opalowa
+Park Miejski im. Małachowskich
+Partyzantów
+Perłowa
+Piaskowa
+Piłkarska
+Plac Jana Pawła II
+Plac Kościuszki
+Pocztowa
+Polna
+Polskiego Czerwonego Krzyża
+Południowa
+Północna
+Prosta
+Przemysłowa
+Robotnicza
+Romualda Traugutta
+Rondo im. Cichociemnych
+Rondo im. Jana Małachowskiego Kanclerza Wielkiego Koronnego
+Rondo im. Nauczycieli Tajnego Nauczania
+Rondo im. Przemysława Gosiewskiego
+Rondo im. Sylweriusza Jaworskiego
+Różana
+Rubinowa
+Rzeczna
+Słoneczna
+Sosnowa
+Sowia
+Spacerowa
+Spokojna
+Sportowa
+Spółdzielcza
+Stanisława Staszica
+Staromłyńska
+Starowarszawska
+Startowa
+Stefana Żeromskiego
+Strażacka
+Szafirowa
+Szmaragdowa
+Targowa
+Towarowa
+Turkusowa
+Waldemara Szwieca-Robota
+Warszawska
+Warsztatowa
+Wąska
+Wilcza
+Wincentego Kadłubka
+Wioślarska
+Wiśniowa
+Wjazdowa
+Wojska Polskiego
+Wrzosowa
+Wschodnia
+Zachodnia
+Zamkowa
+Zielona
+Związku Walki Zbrojnej
+Zwycięstwa
+Źródlana
+Żużlowa
+Żwirowa

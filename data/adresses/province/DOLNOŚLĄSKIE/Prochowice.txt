@@ -1,0 +1,63 @@
+1 Maja
+Akacjowa
+Aleja Jana Gembarowskiego
+Antoniego Rymszy
+Ciepła
+Garncarska
+Henryka Pobożnego
+Jagiellońska
+Jaworowska
+Karola Miarki
+Kasztanowa
+Klonowa
+Kochanowskiego
+Kolejowa
+Kościuszki
+Krakowska
+Kresowa
+Krótka
+Legnicka
+Leśna
+Lwowska
+Łąkowa
+Magnoliowa
+Mała
+Mickiewicza
+Mieszka I
+Młyńska
+Morelowa
+Niepodległości
+Ogrodowa
+Okrężna
+Piastów
+Plac Kopernika
+Pocztowa
+Polna
+Powstańców Styczniowych
+Powstańców Śląskich
+Powstańców Warszawy
+Powstańców Wielkopolskich
+Pożarnicza
+Przechodnia
+Przemysłowa
+Przysiółek Chwalkowice
+Reymonta
+Rogowska
+Rumiankowa
+Rynek
+Sienkiewicza
+Skwer Jana Pawła II
+Słoneczna
+Słowackiego
+Sosnowa
+Spacerowa
+Sybiraków
+Śląska
+Średnia
+Warszawska
+Wesoła
+Wojska Polskiego
+Wolności
+Wrocławska
+Zakątna
+Zamkowa

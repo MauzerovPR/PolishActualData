@@ -1,0 +1,202 @@
+3 Maja
+6 Batalionu
+Adama Mickiewicza
+Akacjowa
+Aleja Dębowa
+Anny
+Balonowa
+Bankowa
+Bażantowa
+Błonie
+Bocheńska
+Boczna
+Bohaterów Getta
+Bohaterów Westerplatte
+Borówkowa
+Brzeska
+Brzezinki
+Brzozowa
+Chrustowa
+Chwalców
+Cmentarna
+Czerwonych Beretów
+Długa
+Dr Rudolfa Diesla
+Droga Królewska
+Eugeniusza Kwiatkowskiego
+Fabryczna
+Flisaków
+Franciszka Książka
+Franciszka Ziemby
+Generała Waleriana Czumy
+Generała Włodzimierza Potasińskiego
+Górala
+Grabska
+Graniczna
+Grunwaldzka
+Grzybowa
+Heleny Modrzejewskiej
+Ignacego Daszyńskiego
+Ignacego Łukasiewicza
+Jagiellońska
+Jagodowa
+Janusza Korczaka
+Jasna
+Jodłowa
+Karola
+Kasztanowa
+Kątek
+Kątowa
+Klonowa
+Kolejowa
+Komandosów
+Krakowska
+Krucza
+Krzywa
+Księcia Witolda
+Księżycowa
+Kusocińskiego
+Kwiatowa
+Lawendowa
+Leśna
+Lipowa
+Litewska
+Lotnicza
+Ludowa
+Ludwika Solskiego
+Łanowa
+Łąkowa
+Magnolii
+Malinowa
+Mariana Lutosławskiego
+Marudy
+Masztowa
+Mikołaja Kopernika
+Mjr Mieczysława Malinowskiego
+Młyńska
+Moczydło
+Modrzewiowa
+Mokra
+Myśliwska
+Na Grobli
+Na Tamie
+Nagietkowa
+Nawigatorów
+Niepołomicka
+Nowa
+Oficerska
+Ogrodowa
+Okrężna
+Olchowa
+Opłotki
+Oriona
+Orzechowa
+Osiedle Błoto
+Osiedle Kaptarz
+Osiedle Królowej Bony
+Osiedle Robotnicze
+Osiedle Suszówka
+Osiedlowa
+Park Miejski imienia Andrzeja Wimmera
+Parkowa
+Partyzantów
+Piaskowa
+Piękna
+Pilotów
+Pionierów
+Plac Kazimierza Wielkiego
+Plac Zwycięstwa
+Ples
+Pleska Sadyba
+Pleski Zakątek
+plut. Gerarda Makosza
+Płaszowska
+Pociągów Pancernych
+Pod Gwiazdami
+Podlasie
+Podlesie
+Podłęska
+Podoficerska
+Podwale
+Pogodna
+Polna
+Poręby
+Portowa
+Powiśle
+Poziomkowa
+Prosta
+Przyjazna
+Radosna
+Robotnicza
+Rolnicza
+Rondo gen. Waleriana Czumy
+Rondo Marszałka Józefa Piłsudskiego
+Rondo św. Karola Boromeusza
+Rotmistrza Witolda Pileckiego
+Różana
+Rumiankowa
+Rynek
+Sadowa
+Saperów
+Sąsiedzka
+Siostry Elżbiety Czackiej
+Skarbowa
+Słoneczna
+Smutna
+Sosnowa
+Spadochroniarzy
+Spokojna
+Sportowa
+Spółdzielcza
+Staniątecka
+Stawowa
+Stefana Batorego
+Stefana Roweckiego
+Stroma
+Strzelców
+Strzelecka
+Suszówka
+Syriusza
+Szałwiowa
+Szeroka
+Szewska
+Szkolna
+Ścieżka Głogowa
+Śliczna
+Świerkowa
+Tadeusza Kościuszki
+Targowa
+Topolowa
+Torfowa
+Torowa
+Trudna
+Ułanów
+Wałowa
+Wąska
+Wesoła
+Wiejska
+Wielicka
+Wiesława Kłuska
+Wincentego Witosa
+Wiślana
+Wiśniowa
+Władysława Sikorskiego
+Władysława Wimmera
+Wodna
+Wojciecha
+Wojska Polskiego
+Wroniarka
+Wrzosowa
+Wspólna
+Wygodna
+Wyzwolenia
+Zabierzowska
+Zabłocie
+Zacisze
+Zagrody
+Zakole
+Zamkowa
+Zawiła
+Zbożowa
+Zielona
+Ziołowa

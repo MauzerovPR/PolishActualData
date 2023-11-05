@@ -1,0 +1,52 @@
+3 Maja
+Adama Mickiewicza
+Błonie
+Boczna
+Bolesława Prusa
+Brzozowa
+Cicha
+Cypriana Kamila Norwida
+Dębowa
+Długa
+Generała Józefa Bema
+Generała Tadeusza Kościuszki
+Generała Władysława Sikorskiego
+Henryka Sienkiewicza
+Ignacego Paderewskiego
+Jaśminowa
+Juliusza Słowackiego
+Kasztanowa
+Klonowa
+Kolejowa
+Krótka
+Księdza Jerzego Popiełuszki
+Kutnowska
+Kwiatowa
+Leśna
+Lipowa
+Łąkowa
+Łęczycka
+Malinowa
+Marii Konopnickiej
+Mazowiecka
+Ogrodowa
+Parkowa
+Plac Wolności
+Płocka
+Polna
+Południowa
+Poznańska
+Przemysłowa
+Różana
+Słoneczna
+Stanisława Moniuszki
+Targowa
+Toruńska
+Wąska
+Wiosenna
+Władysława Broniewskiego
+Wrzosowa
+Wspólna
+Zachodnia
+Zakątna
+Zielona

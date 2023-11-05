@@ -1,0 +1,13 @@
+Centawska
+Dworcowa
+Kolejowa
+Leśna
+Nowa
+Parkowa
+Polna
+Powstańców Śląskich
+Stara Cegielnia
+Stawowa
+Szkolna
+Toszecka
+Wiejska

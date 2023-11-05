@@ -1,0 +1,14 @@
+Boczna
+Dębowa
+Kolejowa
+Krótka
+Krzywa
+Leśna
+Lipowa
+Malinowa
+Mokra
+Ogrodowa
+Polna
+Sportowa
+Sucha
+Warszawska

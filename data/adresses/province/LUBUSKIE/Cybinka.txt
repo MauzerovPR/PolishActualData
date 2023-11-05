@@ -1,0 +1,44 @@
+1 Maja
+2 Lutego
+Akacjowa
+Białkowska
+Chopina
+Cmentarna
+Daszyńskiego
+Dąbrowskiego
+Grunwaldzka
+Inwestycyjna
+Jagodowa
+Kaliska
+Kilińskiego
+Kolejowa
+Kombatantów RP
+Kościelna
+Kościuszki
+Krakowska
+Krośnieńska
+Krótka
+Leśna
+Lwowska
+Małoodrzańska
+Matejki
+Mickiewicza
+Niecała
+Ogrodowa
+Paderewskiego
+Papieska
+Plac Kultury
+Plac Limanowskiego
+Polna
+Robotnicza
+Sienkiewicza
+Słoneczna
+Słowackiego
+Słubicka
+Sosnowa
+Staszica
+Szkolna
+Traugutta
+Wileńska
+Wincentego Witosa
+Wojska Polskiego

@@ -1,0 +1,8 @@
+Kolejowa
+Majowa
+Ogrodowa
+Polna
+Strażacka
+Włodowska
+Zamkowa
+Żarecka

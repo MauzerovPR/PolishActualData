@@ -1,0 +1,50 @@
+Akacjowa
+Brzegowa
+Brzozowa
+Cegielniana
+Cisowa
+Dworcowa
+Grobla
+Grodzka
+Jadwigi
+Jałowcowa
+Jodłowa
+Kasztanowa
+Katarzyny
+Kościelna
+Kuligowska
+Międzychodzka
+Międzyrzecka
+Młyńska
+Modrzewiowa
+Olchowa
+Orla
+Orli Kąt
+Parkowa
+Pasieka
+Plac Magdaleński
+Plac Zamielno
+Powstańców Wielkopolskich
+Poznańska
+Rekreacyjna
+Różana
+Rynek
+Słoneczna
+Sosnowa
+Stefana Batorego
+Stokowska
+Strażacka
+Szarzecka
+Świechocińska
+Świerkowa
+Świętego Wojciecha
+Topolowa
+Trzcielska
+Wierzbowa
+Władysława Sikorskiego
+Wybudowanie
+Wypoczynkowa
+Zajeziorna
+Zamkowa
+Żurawia
+Żwirowa

@@ -1,0 +1,99 @@
+3-go Maja
+Adama Asnyka
+Adama Mickiewicza
+Akacjowa
+Bałtycka
+Boczna
+Bolesława Chrobrego
+Brzask
+Bursztynowa
+Chabrowa
+Cicha
+Cmentarna
+Czesława Miłosza
+Długa
+Dworcowa
+Ernesta Wejhera
+Fiołkowa
+Gdańska
+gen. Tadeusza Kościuszki
+gen. Władysława Sikorskiego
+Henryka Dąbrowskiego
+Henryka Sienkiewicza
+Jana Brzechwy
+Jantarowa
+Jarosława Iwaszkiewicza
+Jasna
+Jaśminowa
+Juliusza Słowackiego
+Kanałowa
+Kochanowskiego
+Kolejowa
+Krótka
+Kwiatowa
+Lawendowa
+Łąkowa
+Makowa
+Marii Konopnickiej
+Michała Drzymały
+Mikołaja Kopernika
+Mikołaja Reja
+Mleczna
+Morska
+Nasienna
+Nowa
+Obrońców Westerplatte
+Ogrodowa
+Okopowa
+Orzeszkowej
+Osiedle im. Kardynała Stefana Wyszyńskiego
+Osiedle na Wspólnej
+Osiedle nad Tugą
+Osiedle Wisławy Szymborskiej
+Osiedle Zacisze
+Plac Wolności
+Podmiejska
+Polna
+Portowa
+Przechodnia
+Przejazd
+Przemysłowa
+Pszenna
+Robotnicza
+Romualda Traugutta
+Rondo im. Księdza Prałata Romana Kłonieckiego
+Rondo im. Starosty Zbigniewa Piórkowskiego
+Rondo Jana Pawła II
+Rondo Marszałka Macieja Płażyńskiego
+Rondo Osadników Żuławskich
+Różana
+Rynek
+Rzeczna
+Sadowa
+Skwer Fryderyka Chopina
+Słoneczna
+Sportowa
+Stanisława Lema
+Starocińska
+Stefana Żeromskiego
+Szkolna
+Tczewska
+Towarowa
+Tuwima
+Urocza
+Wałowa
+Warszawska
+Wąska
+Wesoła
+Wiejska
+Wierzbowa
+Willowa
+Wiosenna
+Witolda Gombrowicza
+Władysława Broniewskiego
+Wrzosowa
+Zagonowa
+Zaułek
+Zielona
+Zygmunta Krasińskiego
+Żuławska

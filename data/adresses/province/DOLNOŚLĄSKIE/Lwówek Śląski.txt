@@ -1,0 +1,117 @@
+10 Dywizji
+Adama Asnyka
+Adama Mickiewicza
+Agatowa
+Betleja
+Bolesława Chrobrego
+Bolesława Prusa
+Browarna
+Budowlanych
+Chabrowa
+Cicha
+Cypriana Kamila Norwida
+Dębowa
+Dworcowa
+Działkowa
+Elizy Orzeszkowej
+Emilii Plater
+Fryderyka Chopina
+Górna
+Graniczna
+Gryfowska
+Gustawa Morcinka
+Henryka Brodatego
+Henryka Sienkiewicza
+Ignacego Daszyńskiego
+Ignacego Krasickiego
+Jakuba Jaśkiewicza
+Jana III Sobieskiego
+Jana Kilińskiego
+Jana Matejki
+Jana Pawła II
+Jasna
+Jastrzębia
+Józefa Piłsudskiego
+Juliusza Słowackiego
+Kamienna
+Karola Szymanowskiego
+Kasztanowa
+Kombatantów
+Kościelna
+Kręta
+Krótka
+Krzywa
+Kwiatowa
+Legionów
+Leśna
+Łąkowa
+Malinowskiego
+Malownicza
+Marii Konopnickiej
+Murarska
+Myśliwska
+Nowy Świat
+Obrońców Pokoju
+Ogrodowa
+Osiedlowa
+Oświęcimska
+Pałacowa
+Parkowa
+Partyzantów
+Piekarska
+Piękna
+Plac Lwóweckich Gwarków
+Płakowicka
+Podgórska
+Polna
+Polskiego Czerwonego Krzyża
+Potokowa
+Przyjaciół Żołnierza
+Pszczela
+Ptasia
+Romualda Traugutta
+Rybna
+Rzeczna
+Sadowa
+Siergieja Krawczyńskiego
+Skwer im. Napoleona I Bonaparte
+Skwer im. Żołnierzy Wyklętych
+Skwer Imienia Aleksandra Hrabiego Fredry
+Skwer Miast Partnerskich
+Słoneczna
+Słowicza
+Spacerowa
+Spokojna
+Spółdzielcza
+Stanisława Staszica
+Stogryna
+Stroma
+Struga
+Strzelecka
+Szkolna
+Szpitalna
+Tadeusza Kościuszki
+Targowa
+Tarnopolska
+Tęczowa
+Topolowa
+Torowa
+Warsztatowa
+Wąska
+Widnica
+Widokowa
+Wiejska
+Władysława Łokietka
+Władysława Reymonta
+Władysława Sikorskiego
+Wojska Polskiego
+Wolności
+Wyzwolenia
+Zagajnik
+Zamkowa
+Zbożowa
+Zielona
+Złotoryjska
+Zwycięzców
+Żwirki i Wigury
+Żytnia

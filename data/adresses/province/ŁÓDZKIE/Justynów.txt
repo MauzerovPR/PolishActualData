@@ -1,0 +1,72 @@
+1 Maja
+Adama Mickiewicza
+Akacjowa
+Andrzeja Struga
+Bartnicza
+Bedońska
+Bukowa
+Cicha
+Cienista
+Długa
+Dobra
+Dzikiej Róży
+Główna
+Górna
+Graniczna
+Hulanka
+Ignacego Daszyńskiego
+Ignacowska
+Jałowcowa
+Janusza Korczaka
+Jeżynowa
+Jordanowska
+Juliusza Słowackiego
+Kolejowa
+Kresowa
+Kręta
+Krótka
+Krzywa
+ks. Kanonika Bronisława Ciesielskiego
+Kwiatowa
+Lawendowa
+Leśna
+Letniskowa
+Ludowa
+Łąkowa
+Łódzka
+Makowa
+Malinowa
+Marcina Kasprzaka
+Mieszka I
+Modra
+Niezapominajki
+Nowa
+Ogrodowa
+Orla
+Orzechowa
+Piaskowa
+Piękna
+Plażowa
+Podgórna
+Polna
+Południowa
+Porzeczkowa
+Północna
+Przyrodnicza
+Przytorze
+Robotnicza
+Rubinowa
+Rzemieślnicza
+Słoneczna
+Spacerowa
+Stanisława Moniuszki
+Stanisława Staszica
+Tulipanowa
+Wczasowa
+Wesoła
+Wiosenna
+Władysława Reymonta
+Wspólna
+Wypoczynkowa
+Zachodnia
+Zielona

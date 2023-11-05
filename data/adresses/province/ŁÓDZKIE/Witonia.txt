@@ -1,0 +1,29 @@
+Akacjowa
+Byszewska
+Centralna
+Cicha
+Dworcowa
+Główna
+Górna
+Klonowa
+Królewska
+Krótka
+Kutnowska
+Lipowa
+Łęczycka
+Ogrodowa
+Plac Witolda Zglenickiego
+Polna
+Północna
+Promienna
+Słoneczna
+Spokojna
+Spółdzielcza
+Starowiejska
+Stefana Starzyńskiego
+Szkolna
+Tęczowa
+Torowa
+Wieczorowa
+Wschodnia
+Zielona

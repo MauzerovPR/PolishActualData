@@ -1,0 +1,8 @@
+Boczna
+Dworska
+Folwarczna
+Główna
+Parkowa
+Polna
+Szkolna
+Zaułek

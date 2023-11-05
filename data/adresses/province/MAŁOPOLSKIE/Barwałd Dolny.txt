@@ -1,0 +1,17 @@
+Długa
+Górska
+Graniczna
+Kolejowa
+Kościelna
+Łąkowa
+Parkowa
+Piaskowa
+Polna
+Rodzinna
+Rolna
+Słoneczna
+Spokojna
+Szkolna
+Wadowicka
+Widokowa
+Wiejska

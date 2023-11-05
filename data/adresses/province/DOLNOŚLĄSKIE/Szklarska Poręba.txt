@@ -1,0 +1,105 @@
+1 Maja
+11 Listopada
+Adama Mickiewicza
+Armii Krajowej
+Batalionów Chłopskich
+Bolesława Prusa
+Bronka Czecha
+Brzozowa
+Caritas
+Cicha
+Demokratów
+Dolna
+Dworcowa
+Elizy Orzeszkowej
+Franciszkańska
+Fryderyka Chopina
+gen. Władysława Sikorskiego
+Gimnazjalna
+Górna
+Granitowa
+Gustawa Morcinka
+Hugona Kołłątaja
+Hutnicza
+Izerska
+Jakuszyce
+Jana Kasprowicza
+Jana Kilińskiego
+Jana Matejki
+Jedności Narodowej
+Jeleniogórska
+Juliusza Naumowicza
+Juliusza Słowackiego
+Kazimierza Przerwy-Tetmajera
+Klimatyczna
+Kolejowa
+Kornela Makuszyńskiego
+Krasickiego
+Krótka
+ks. kard. Stefana Wyszyńskiego
+ks. Piotra Skargi
+Leśna
+Ludowa
+Ludwika Waryńskiego
+Macieja Abramowicza
+Macieja Rataja
+Mała
+Marii Konopnickiej
+Mikołaja Kopernika
+Muzealna
+Narciarska
+Objazdowa
+Obrońców Pokoju
+Odrodzenia
+Oficerska
+Orla Skała
+Osiedle Grottgera
+Osiedle Huty
+Osiedle Janosika
+Osiedle Klimczoka
+Osiedle Orle
+Osiedle Podgórze
+Parkowa
+Partyzantów
+Piastowska
+Podsudecka
+Potokowa
+Sanatoryjna
+Schronisko Hala Szrenicka
+Schronisko Kamieńczyk
+Schronisko na Szrenicy
+Schronisko Pod Łabskim Szczytem
+Schroniskowa
+Skwer im. dr. Przemysława Wiatera
+Skwer Obrońców Granic
+Skwer Twórców Radiowej Trójki
+Słoneczna
+Słoneczna Polana
+Spokojna
+Sportowy
+Stanisława Moniuszki
+Stefana Okrzei
+Stefana Żeromskiego
+Stroma
+Sudecka
+Szklana
+Szosa Czeska
+Szpitalna
+Świerkowa
+Tadeusza Kościuszki
+Turystyczna
+Urocza
+Wesoła
+Wiejska
+Wiosenna
+Wlastimila Hofmana
+Władysława Broniewskiego
+Władysława Grabskiego
+Wojska Polskiego
+Wolności
+Wrzosowa
+Wysoka
+Wzgórze Paderewskiego
+Zdrojowa
+Zielona
+Zygmunta Krasińskiego

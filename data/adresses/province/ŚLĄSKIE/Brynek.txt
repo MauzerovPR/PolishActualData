@@ -1,0 +1,18 @@
+Boczna
+Cegielnia
+Dworcowa
+Grabowa
+Iglasta
+Kasztanowa
+Kolejowa
+Liściasta
+Łączna
+Orzechowa
+Osiedle Pod Dębami
+Park
+Pyskowicka
+Tarnogórska
+Wiejska
+Wspólna
+Zakładowa
+Zamkowa

@@ -1,0 +1,8 @@
+Kolejowa
+Łąkowa
+Morska
+Polna
+Spacerowa
+Spokojna
+Wiejska
+Żarnowiecka

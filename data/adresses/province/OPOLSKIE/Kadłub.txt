@@ -1,0 +1,18 @@
+Barwinek
+Boczna
+Dworcowa
+Graniczna
+Kolejowa
+Krótka
+Leśna
+Młyńska
+Okólna
+Piaskowa
+Polna
+Powstańców Śląskich
+Strzelecka
+Widokowa
+Wodna
+Wolności
+Zamkowa
+Zielona

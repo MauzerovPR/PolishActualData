@@ -1,0 +1,76 @@
+1 Maja
+Adama Mickiewicza
+Akacjowa
+Aleja Janusza Korczaka
+Aleja Złotych Dębów
+Aleksandra Puszkina
+Armii Krajowej
+Bolesława Chrobrego
+Bolesława Krzywoustego
+Brzozowa
+Bukowa
+Ceramiczna
+Chemików
+Cicha
+Dębowa
+Dworcowa
+Fabryczna
+Fiołkowa
+gen. Władysława Sikorskiego
+Górnicza
+Henryka Brodatego
+Henryka Pobożnego
+Hutnicza
+Jarzębinowa
+Jaworowa
+Jesienna
+Jesionowa
+Jodłowa
+Juliusza Słowackiego
+Kasztanowa
+Kazimierza Wielkiego
+Klonowa
+Kręta
+Krótka
+ks. Mariana Cembrowskiego
+Księżnej Jadwigi Śląskiej
+Kwiatowa
+Lipowa
+Magazynowa
+Michała Kołodki
+Mieszka I
+Mikołaja Kopernika
+Modrzewiowa
+Nadbrzeżna
+Ogrodowa
+Parkowa
+Piastowska
+Plac Wolności
+Pogodna
+Polna
+Przemysłowa
+Rondo Orderu Uśmiechu
+Różana
+Rybacka
+Rzemieślnicza
+skwer im. Carla Friedricha von Kulmiza
+Słoneczna
+Słowiańska
+Spokojna
+Sportowa
+Stanisława Wyspiańskiego
+Strefowa
+Stumetrówka
+Szkolna
+Świerkowa
+Tarnawska
+Topolowa
+Wiejska
+Wierzbowa
+Wiosenna
+Władysława Łokietka
+Władysława Talowskiego
+Wojska Polskiego
+Wspólna
+Zamkowa
+Zygmunta Krasińskiego

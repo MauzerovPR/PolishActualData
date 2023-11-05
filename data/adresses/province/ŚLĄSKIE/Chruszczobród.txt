@@ -1,0 +1,60 @@
+1 Maja
+3 Maja
+Adama Mickiewicza
+Batalionów Chłopskich
+Boczna
+Bolesława Prusa
+Ciasna
+Cmentarna
+Cypriana Kamila Norwida
+Dworcowa
+Elizy Orzeszkowej
+Fiołkowa
+Fryderyka Chopina
+Gawronówka
+Jagodowa
+Jana Kochanowskiego
+Jana Matejki
+Jana Sobieskiego
+Józefa Bema
+Juliana Tuwima
+Juliusza Słowackiego
+Kamienna
+Krakowska
+Królewska
+Krótka
+Krzywa
+Kwiatowa
+Leśna
+Łazowska
+Łysa Góra
+Marii Konopnickiej
+Mikołaja Reja
+Myśliwska
+Nowa
+Ogrodowa
+Ościenna
+Piastów
+Piotra Ściegiennego
+Podgórna
+Polna
+Powiatowa
+Regionalna
+Rolna
+Rumiankowa
+Rzeczna
+Słoneczna
+Sportowa
+Stanisława Staszica
+Stawowa
+Szpakowa
+Tadeusza Kościuszki
+Topolowa
+Wesoła
+Wiejska
+Wincentego Witosa
+Wiśniowa
+Władysława Broniewskiego
+Wypoczynkowa
+Zielona
+Złota

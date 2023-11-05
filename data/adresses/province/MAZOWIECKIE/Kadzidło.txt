@@ -1,0 +1,126 @@
+1 Maja
+11 Listopada
+Akacjowa
+Aleja Kazimierza Sulewskiego
+Aleja Plutonowego Wincentego Kamińskiego
+Aleja Tygodnika Powszechnego
+Aleja Zwycięstwa
+Armii Krajowej
+Bajkowa
+Baśniowa
+Batalionów Chłopskich
+Błękitna
+Brzozowa
+Bursztynowa
+Chętnika
+Cicha
+Czereśniowa
+Czesława Miłosza
+Deszczowa
+Dębowa
+Diamentowa
+Doktora Psarskiego
+Ekologiczna
+Elizy Orzeszkowej
+Fryderyka Chopina
+Generała Bema
+Handlowa
+Heleny Modrzejewskiej
+Henryka Wieniawskiego
+Jagodowa
+Jana Ignacego Paderewskiego
+Jana Kochanowskiego
+Janusza Korczaka
+Jarosława Iwaszkiewicza
+Jaśminowa
+Juranda
+Kalinowa
+Kameliowa
+Karola Szymanowskiego
+Karola Wojtyły
+Kompozytorów
+Konwaliowa
+Kopernika
+Kościuszki
+ks. Mieszki
+ks. Władysława Skierkowskiego
+Księdza Suchcickiego
+Kurpiowska
+Lawendowa
+Leśna
+Lokalna
+Lwowska
+Łąkowa
+Malinowa
+Marii Konopnickiej
+Marszałka Józefa Piłsudskiego
+Mickiewicza
+Miętowa
+Moniuszki
+Morelowa
+Myśliwska
+Nowa
+Ogrodowa
+Ostrobramska
+Parkowa
+Partyzantów
+Perłowa
+Piaskowa
+Piękna
+Platynowa
+Pogodna
+Polna
+Poziomkowa
+Prusa
+Regionalna
+Różana
+Rubinowa
+Sienkiewicza
+Skwer Artystów Kurpiowskich
+Skwer Henryka Lenarciaka
+Skwer im. Księdza Prałata Konstantego Rejchla
+Skwer Jarosława Gizińskiego
+Skwer ks. Stanisława Tworkowskiego
+Skwer Matki
+Skwer Pamięci Męczeństwa Kresowian
+Skwer Rotmistrza Witolda Pileckiego
+Skwer Szczodrobowa
+Skwer Zespołu Folklorystycznego Kurpianka Kadzidło
+Słodka
+Słoneczna
+Słowackiego
+Solidarności
+Sosnowa
+Spacerowa
+Spokojna
+Sportowa
+Stacha Konwy
+Strzelców Kurpiowskich
+Szkolna
+Śliwowa
+Świerkowa
+Tadeusza Zawadzkiego
+Targowa
+Tatarska
+Tęczowa
+Trasa Mazurska
+Trzcinowa
+Ustronna
+Warszawska
+Wesoła
+Wiejska
+Wierzbowa
+Wileńska
+Wincentego Witosa
+Wisławy Szymborskiej
+Wiśniowa
+Wrzosowa
+Wspólna
+Zacisze
+Zbigniewa Herberta
+Zgody
+Zielona
+Zygmunta Padlewskiego
+Źródlana
+Żołnierzy Września
+Żytnia

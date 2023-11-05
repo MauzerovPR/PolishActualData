@@ -1,0 +1,8 @@
+Gliwicka
+Górna
+Kolejowa
+Leśna
+Ogrodowa
+Polna
+Toszecka
+Wiejska

@@ -1,0 +1,68 @@
+Akacjowa
+Bankowa
+Boczna
+Ceglana
+Cmentarna
+Felczerska
+Floriańska
+Garbarska
+Garncarska
+Gen. Wł. Andersa
+Gen. Władysława Sikorskiego
+Gliniana
+Grodzka
+Henryka Sienkiewicza
+Janusza Kusocińskiego
+Jeleniogórska
+Kolejowa
+Krajobrazowa
+Krótka
+Kwiatowa
+Letnia
+Lipowa
+Lubańska
+Lwowska
+Lwówecka
+Łąkowa
+Malownicza
+Młyńska
+Nad Stawami
+Ogrodowa
+Oldzańska
+Osiedle 7 Dywizji
+Osiedle Horyzont
+Panoramiczna
+Parkowa
+Partyzantów
+Plac Kościelny
+Polna
+Przedszkolaków
+Przemysłowa
+Rolna
+Rybna
+Rynek
+Rzeczna
+Rzepakowa
+Sanatoryjna
+Słoneczna
+Spacerowa
+Spokojna
+Spółdzielcza
+Stefana Żeromskiego
+Storczykowa
+Strzelnicza
+Szkolna
+Targowa
+Tęczowa
+Tulipanowa
+Uczniowska
+Wąska
+Widokowa
+Wiosenna
+Wiśniowa
+Wojska Polskiego
+Za Kwisą
+Zakątek
+Zaułek
+Zielona
+Źródlana

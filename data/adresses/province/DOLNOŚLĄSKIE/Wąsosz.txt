@@ -1,0 +1,44 @@
+1 Maja
+700 Lecia
+Aleja Niepodległości
+Azaliowa
+Boczna
+Bolesława Chrobrego
+Chabrowa
+Jana Karola Franka
+Jaśminowa
+Junaków
+Kalinowa
+Kilińskiego
+Kolejowa
+Korczaka
+Kościelna
+Krótka
+Krzywa
+Lawendowa
+Łąkowa
+Makowa
+Mickiewicza
+Mieszka I
+Narutowicza
+Nowa
+Ogródkowa
+Parafialna
+Plac Kościelny
+Plac Wolności
+Pocztowa
+Polna
+Powstańców Styczniowych
+Przemysłowa
+Rawicka
+Rumiankowa
+Rzemieślnicza
+Sienkiewicza
+Skwer im. Jana Pawła II
+Słoneczna
+Sosnowa
+Św. Jana Pawła II
+Wierzbowa
+Zacisze
+Zamkowa
+Zygmunta Bartkowiaka

@@ -1,0 +1,49 @@
+1 Maja
+Adama Mickiewicza
+Adama Naruszewicza
+Aleja Andrzeja Krzyształowicza
+Bakaliowa
+Bandosa
+Bialska
+Biskupa Jana Łosowicza
+Bolesława Chrobrego
+Bolesława Prusa
+Brzeska
+Cicha
+Czesława Tańskiego
+Dolna
+Dominikańska
+Elizy Orzeszkowej
+Gabriela Narutowicza
+Garbarska
+Henryka Sienkiewicza
+Juliusza Słowackiego
+Kazimierza Jagiellończyka
+Kąpielowa
+Kolonia
+Krótka
+Kwiatowa
+Łąkowa
+Marii Konopnickiej
+Marszałka Józefa Piłsudskiego
+Nadrzeczna
+Nowa
+Ogrodowa
+Parkowa
+Partyzantów
+Pilarki
+Podborna
+Polna
+Popław
+Przechodnia
+Przemysłowa
+Siedlecka
+Stanisława Moniuszki
+Starocerkiewna
+Staroklasztorna
+Szkolna
+Tadeusza Kościuszki
+Topolowa
+Walentego Skalskiego
+Wiejska
+Zamkowa

@@ -1,0 +1,60 @@
+Aleja I
+Aleja II
+Azaliowa
+Berberysowa
+Boczna
+Bolesława Prusa
+Borowinowa
+Bór I
+Bór II
+Brzozowa
+Darwina
+Dębowa
+Główna
+Górna
+Graniczna
+Grzebłowiec
+Handlowa
+Ignacego Łukasiewicza
+Jesienna
+Jeziorna
+Józefa Krzyżanowskiego
+Juliana Tuwima
+Kolejowa
+Krótka
+Kryniczanka
+Letnia
+Lipowa
+Melioracyjna
+Mikołaja Kopernika
+Parkowa
+PCK
+Polna
+Południowa
+Poprzeczna
+Powstańców Śląskich
+Robotnicza
+Rolna
+Róż
+Rzemieślnicza
+Siedlecka
+Solankowa
+Sołecka
+Spokojna
+Staropolanka
+Stawowa
+Stefana Żeromskiego
+Szkolna
+Św. Anny
+Św. Jerzego
+Uzdrowiskowa
+Warzywna
+Wiosenna
+Wisławy Szymborskiej
+Wiślna
+Wita Stwosza
+Wojciecha Korfantego
+Wypoczynkowa
+Zielona
+Zimowa
+Źródlana

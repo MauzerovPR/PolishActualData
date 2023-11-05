@@ -1,0 +1,9 @@
+Boczna
+Krótka
+Kuźnia
+Polna
+Rolna
+Szkolna
+Wojska Polskiego
+Zamknięta
+Zielona

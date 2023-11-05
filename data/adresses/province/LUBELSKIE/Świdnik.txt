@@ -1,0 +1,256 @@
+3 Maja
+Akacjowa
+Al. NSZZ "Solidarność"
+Al. Wojska Polskiego
+Aleja Armii Krajowej
+Aleja Jana Pawła II
+Aleja Lotników Polskich
+Alfreda Bondosa
+Andrzeja Struga
+Antoniego Gruszczyńskiego
+Anyżowa
+Bankowa
+Bartłomieja Kopera
+Bartosza Głowackiego
+Barwna
+Bażantowa
+Bławatkowa
+Błękitna
+Bohaterów Westerplatte
+Bolesława Leśmiana
+Bolesława Prusa
+Bolesława Stachonia
+Bronisława Czecha
+Bronisława Malinowskiego
+Bronisława Ratajczaka
+Brzegowa
+Brzozowa
+Budowlana
+Bukowa
+Cedrowa
+Chabrowa
+Chemiczna
+Chryzantemowa
+Cicha
+Cisowa
+Cypriana Kamila Norwida
+Cyprysowa
+Czeremchowa
+Czereśniowa
+Deotymy
+Dębowa
+Dobra
+Dojazdowa
+Drewniana
+Drzymały
+Dworcowa
+Dywizjonu 303
+Działkowca
+Dziewanny
+Elektryczna
+Elizy Orzeszkowej
+Fabryczna
+Fiołkowa
+Fryderyka Szopena
+Gajowa
+gen. Franciszka Kleeberga
+gen. J. Hallera
+gen. L. Okulickiego
+gen. M. Smorawińskiego
+gen. S. Maczka
+gen. S. Roweckiego "Grota"
+gen. Tadeusza Góry
+Głogowa
+Gospodarcza
+Gościnna
+Grabowa
+Gwarna
+Harcerska
+Henryka Gontarza
+Henryka Sienkiewicza
+Henryka Strumińskiego
+Honorowych Dawców Krwi
+Hotelowa
+Hugo Kołłątaja
+Jagodowa
+Jana Kilińskiego
+Jana Kochanowskiego
+Jana Matejki
+Jana Pawła II
+Janusza Kasperka
+Janusza Kusocińskiego
+Janusza Sidło
+Jarzębinowa
+Jaśminowa
+Jaworowa
+Jerzego Kukuczki
+Jesionowa
+Jeżynowa
+Jodłowa
+Józefa Franczaka ps. "Laluś"
+Juliana Tuwima
+Juliusza Słowackiego
+Jutrzenki
+Kaczeńcowa
+Kalinowa
+Kamili Skolimowskiej
+Kardynała Stefana Wyszyńskiego
+Kasztanowa
+Klonowa
+Klubowa
+Kminkowa
+Kolejowa
+Kolonijna
+Kolorowa
+Koło
+Konstytucji 3 Maja
+Konwaliowa
+Kosynierów
+Krańcowa
+Krępiecka
+Kręta
+Króla Jana III Sobieskiego
+Króla Pole
+Krzysztofa Kamila Baczyńskiego
+ks. Jerzego Popiełuszki
+ks. Kanonika Jana Hryniewicza
+ks. Piotra Ściegiennego
+Kuźnicza
+Kwiatowa
+Kwiatów Polnych
+Lawendowa
+Lazurowa
+Legionów Polskich
+Leszczynowa
+Leśna
+Lipowa
+Lotnicza
+Magnoliowa
+Makowa
+Malinowa
+Mała
+Marii Curie-Skłodowskiej
+Marii Konopnickiej
+Marszałka Józefa Piłsudskiego
+Mechaniczna
+Mełgiewska
+Metalowa
+Metalurgiczna
+Mickiewicza
+Miętowa
+Mikołaja Kopernika
+Mikołaja Reja
+Miła
+Miły Zakątek
+Miodowa
+Modrzewiowa
+Morwowa
+Nadleśna
+Narzędziowa
+Niecała
+Niepodległości
+Nowa
+Ogrodowa
+Olchowa
+Olimpijczyków
+Orzechowa
+Parcelowa
+Parkowa
+Partyzantów
+Perłowa
+Piasecka
+Piękna
+Pionierska
+Poligonowa
+Polna
+Poprzeczna
+Poziomkowa
+Prezydenta Lecha Kaczyńskiego
+Przechodnia
+Przemysłowa
+Przy Lesie
+Przyjazna
+Racławicka
+Radość
+Rejkowizna
+Reymonta
+Romana Dmowskiego
+Romana Szczerbakiewicza
+Romantyczna
+Romualda Traugutta
+Rondo Zygmunta Puławskiego
+Rondo Żołnierzy Wyklętych
+rotmistrza Witolda Pileckiego
+Różana
+Rubinowa
+Ruciana
+Rumiankowa
+Sąsiedzka
+Serdeczna
+Skośna
+Skwer im. prof. Zyty Gilowskiej
+Słoneczna
+Słonecznikowa
+Słowików
+Sosnowa
+Spacerowa
+Spadochroniarzy
+Spokojna
+Sportowa
+Spółdzielcza
+Srebrna
+Stanisława Kamińskiego
+Stanisława Marusarza
+Stanisława Skalskiego
+Stanisława Skarżyńskiego
+Stanisława Staszica
+Stanisława Wyspiańskiego
+Stokrotki Polnej
+Storczykowa
+Strażacka
+Sympatyczna
+Szafirowa
+Szeroka
+Szklarniana
+Szkolna
+Szmaragdowa
+Szymona Konarskiego
+Środkowa
+św. Brata Alberta
+Świdnicki Lipiec 80
+Świerkowa
+Świt
+Tadeusza Kościuszki
+Tadzia Jasińskiego
+Targowa
+Tatarakowa
+Tęczowa
+Topolowa
+Turkusowa
+Turystyczna
+Tymiankowa
+Tysiąclecia
+Unijna
+Urocza
+Wandy Rutkiewicz
+Waniliowa
+Warsztatowa
+Wąska
+Wesoła
+Widok
+Widokowa
+Wiejska
+Willowa
+Wincentego Pola
+Wincentego Witosa
+Wiosenna
+Wiśniowa
+Władysława Jagiełły
+Wrzosowa
+Zacisze
+Zielona
+Złota
+Zuchów
+Zygmunta Majewskiego
+Zygmunta Puławskiego
+Żwirki i Wigury

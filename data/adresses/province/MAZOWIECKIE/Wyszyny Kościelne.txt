@@ -1,0 +1,16 @@
+Boczna
+Cicha
+Dworska
+Główna
+Kolejowa
+Kościelna
+Krótka
+Leśna
+Mazowiecka
+Parkowa
+Polna
+Słoneczna
+Spacerowa
+Szkolna
+Wiatraczna
+Wiejska

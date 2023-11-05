@@ -1,0 +1,12 @@
+Boczna
+Cicha
+Dworcowa
+Kolejowa
+Krótka
+Lipowa
+Mostowa
+Polna
+Rybacka
+Spokojna
+Stawowa
+Żarowska

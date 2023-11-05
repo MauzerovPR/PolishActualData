@@ -1,0 +1,209 @@
+1 Maja
+17 Stycznia
+3 Maja
+Adama Asnyka
+Adama Kucharzyka
+Adama Mickiewicza
+Adeli i Marcina Mastejów
+Albina Pietrusa
+Alojzego Metzgera
+Antoniego Bogdanowicza
+Antoniego Koralewskiego
+Armii Krajowej
+Basztowa
+Bednarska
+Biecka
+Bieszczadzka
+bł. Karoliny Kózkówny
+Bławatna
+Bohaterów Monte Cassino
+Bolesława Prusa
+bp. Józefa Sebastiana Pelczara
+Bryły
+Brzyszczki
+Ceramiczna
+Cicha
+Dolna
+dr. Zbigniewa Przybyszowskiego
+Dworcowa
+Działkowa
+Eugeniusza Kwiatkowskiego
+Fabryczna
+Farna
+Floriańska
+Franciszkańska
+Fryderyka Chopina
+Gajowa
+Gądki
+gen. Grota-Roweckiego
+Generała Józefa Hallera
+Gołębia
+Gorajowicka
+Górska
+Graniczna
+Grunwaldzka
+Hankówka
+Harcerska
+Henryka Sienkiewicza
+Hubalczyków
+Hugona Kołłątaja
+Hugona Steinhausa
+Hutnicza
+Igielna
+Ignacego Łukasiewicza
+Ignacego Paderewskiego
+Ignacego Pinkasa
+Jagodowa
+Jana i Jędrzeja Śniadeckich
+Jana III Sobieskiego
+Jana Kasprowicza
+Jana Kilińskiego
+Jana Kochanowskiego
+Jana Nowotnego
+Jana Pawła II
+Jodłowa
+Józefa Ducala
+Józefa Ignacego Kraszewskiego
+Józefa Krzyżowskiego
+Juliusza Jankisza
+Juliusza Słowackiego
+Kaczorowy
+Karmelicka
+Karola Szajnochy
+Kasztanowa
+Kazimierza Wielkiego
+Klasztorna
+Klonowa
+Kolejowa
+Kornela Ujejskiego
+Krajowicka
+Krakowska
+Krótka
+Krzysztofa Kamila Baczyńskiego
+Krzywa
+ks. Alfreda Solarskiego
+ks. Jana Potępy
+ks. Józefa Tischnera
+ks. Piotra Skargi
+ks. Stanisława Bełcha
+ks. Stanisława Kołtaka
+ks. Stanisława Konarskiego
+Kwiatowa
+Lawendowa
+Leśna
+Letnia
+Lichtarz
+Lipowa
+Lwowska
+Łąkowa
+Madejewskich
+Mała
+Mariana Wojdyły
+Marii Konopnickiej
+Marii Skłodowskiej-Curie
+Marszałka Józefa Piłsudskiego
+Meblowa
+Miasteczko Ruchu Drogowego im. Ryszarda Libuchy
+Mikołaja Kopernika
+Mikołaja Reja
+mjr. Henryka Dobrzańskiego
+Młynarska
+Na Kotlinę
+Nadbrzeżna
+Naftowa
+Niegłowicka
+Nowa
+Obrońców Westerplatte
+Ogrodowa
+Okrężna
+Olchowa
+Partyzantów
+Piasta Kołodzieja
+Plac Inwalidów Wojennych
+Plażowa
+płk. Józefa Modrzejewskiego
+płk. Leopolda Lisa-Kuli
+Pod Skałą
+Podwale
+Podzamcze
+Pogodna
+Polna
+Polnych Kwiatów
+Polskiego Czerwonego Krzyża
+Prezydenta Ignacego Mościckiego
+Produkcyjna
+Prosta
+Przemysłowa
+Rafineryjna
+Robotnicza
+Rolnicza
+Rondo imienia Adama Lazarowicza
+Rondo Imienia ks. Kazimierza Wojciechowskiego
+Rondo Solidarności
+Równia
+Różana
+Rudolfa Weigla
+Rynek
+Rzeczna
+Rzemieślnicza
+s. Hiacynty Joanny Luli
+Skalna
+Skwer Świętego Antoniego
+Słoneczna
+Sobniowska
+Sokoła
+Spacerowa
+Sportowa
+Stanisława Kadyiego
+Stanisława Moniuszki
+Stanisława Pawłowskiego
+Stanisława Pigonia
+Stanisława Staszica
+Stanisława Wyspiańskiego
+Starowiejska
+Stary Rynek im. Bartłomieja z Jasła
+Stawna
+Stefana Żeromskiego
+Stroma
+Szkolna
+Śnieżna
+Środkowa
+św. Faustyny Kowalskiej
+św. Jana z Dukli
+Tadeusza Czackiego
+Tadeusza Kościuszki
+Tadeusza Rejtana
+Tadeusza Sroczyńskiego
+Targowa
+Teofila Aleksandra Lenartowicza
+Towarowa
+Uczestników Akcji Pensjonat
+Ulaszowice
+Urocza
+Wałowa
+Wąwozy
+Wesoła
+Widokowa
+Wiejska
+Wierzbowa
+Wileńska
+Wincentego Pola
+Wincentego Witosa
+Wiosenna
+Wisławy Szymborskiej
+Wiśniowa
+Władysława Jagiełły
+Władysława Mendysa
+Władysława Reymonta
+Władysława Sikorskiego
+Wodna
+Wojska Polskiego
+Za Bursą
+Zawiszy Czarnego
+Zawodzie
+Zielona
+Zygmunta Bałuka
+Zygmunta Krasińskiego
+Zyndrama z Maszkowic
+Żniwna
+Żwirki i Wigury

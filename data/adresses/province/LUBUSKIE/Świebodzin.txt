@@ -1,0 +1,141 @@
+1 Maja
+3 Maja
+30 Stycznia
+Akacjowa
+Aleja 700-lecia
+Apartamentowa
+Boczna
+Bramkowa
+Brukowa
+Brzozowa
+Bursztynowa
+Cegielniana
+Chopina
+Cicha
+Cisowa
+Diamentowa
+Dożynkowa
+dr Genowefy Abłażej
+Dworska
+Działkowa
+Garbarska
+gen. Sikorskiego
+Głogowska
+Głowackiego
+Górna
+Gronowa
+Grottgera
+Grzybowa
+Henryka Sienkiewicza
+J. Piłsudskiego
+Jagiellońska
+Jaśminowa
+Jeziorowa
+Jodłowa
+Kamienna
+Kawaleryjska
+Kilińskiego
+Kolejowa
+Konarskiego
+Kościelna
+Kościuszki
+Kozia
+Krasińskiego
+Kręta
+Krótka
+Kupiecka
+Lipowa
+Łąki Zamkowe
+Łąkowa
+Łęgowska
+Łęgowski
+Łukowa
+Łużycka
+Mała
+Małomłyńska
+Marynarska
+Matejki
+Mickiewicza
+Międzyrzecka
+Młyńska
+Modrzewiowa
+Moniuszki
+Na Skarpie
+Nowa
+Ogrodowa
+Okrężna
+Opałowa
+Osiedle Dębowe Wzgórze
+Osiedle Kopernika
+Osiedle Łużyckie
+Osiedle Południowe
+Osiedle Słoneczne
+Osiedle Wichrowe Wzgórze
+Osiedle Żaków
+Osiedlowa
+Paderewskiego
+Parkowa
+Partyzancka
+Plac Browarniany
+Plac Dworcowy
+Plac Jana Pawła II
+Plac Wolności
+Podgórna
+Podmiejska
+Polna
+Poprzeczna
+Poznańska
+Północna
+Prosta
+Przy Torze
+Pułaskiego
+Rondo im. Rotmistrza Witolda Pileckiego
+Rondo Kresowe
+Rondo Księdza Prałata Sylwestra Zawadzkiego
+Rondo Ofiar Wołynia
+Rondo Solidarności
+Rondo Wileńskie
+Rondo Wolności
+Rynkowa
+Sadowa
+Skrajna
+Słoneczna
+Słowackiego
+Słowiańska
+Sobieskiego
+Sosnowa
+Spokojna
+Stroma
+Strumykowa
+Strzelecka
+Studencka
+Sukiennicza
+Sulechowska
+Szafirowa
+Szkolna
+Szmaragdowa
+Szpitalna
+Średnia
+św. Andrzeja Boboli
+św. Kazimierza Królewicza
+św. Stanisława Kostki
+Świerkowa
+Topolowa
+Turkusowa
+Ułańska
+W Ogrodach
+Wałowa
+Widok
+Wiejska
+Willowa
+Winna Góra
+Wodociągowa
+Wojska Polskiego
+Wschodnia
+Za Groblą
+Zachodnia
+Zacisze
+Zamkowa
+Zielona
+Związkowa
+Żaków

@@ -1,0 +1,15 @@
+Brzozowa
+Fabryczna
+Górnicza
+Hutnicza
+Kielecka
+Kopcowa
+Leśna
+Partyzantów
+Piaskowa
+Północna
+Spokojna
+Strażacka
+Szkolna
+Wąska
+Zielona

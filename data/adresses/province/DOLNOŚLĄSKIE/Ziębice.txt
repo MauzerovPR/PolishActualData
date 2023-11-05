@@ -1,0 +1,87 @@
+1 Maja
+Adama Mickiewicza
+Boczna
+Bohaterów Getta
+Bolesława Chrobrego
+Browarna
+Cicha
+Dębowa
+Gabriela Narutowicza
+Garbarska
+Gazowa
+Gliwicka
+Górna
+Graniczna
+Grunwaldzka
+Ignacego Jana Paderewskiego
+Ignacego Mościckiego
+Jagiellońska
+Jelenia
+Józefa Klemensa Piłsudskiego
+Józefa Lompy
+Juliusza Słowackiego
+Klasztorna
+Klonowa
+Kolejowa
+Kolonia Górnik
+Kościelna
+Krótka
+Księdza Wacława Gacka
+Leśna
+Łąkowa
+Mała
+Mokra
+Murarska
+Nadrzeczna
+Ogrodowa
+Okrężna
+Oławska
+Osiedle Mikołaja Kopernika
+Osińska
+Otmuchowska
+Paczkowska
+Parkowa
+Piaskowa
+Piastowska
+Piastów Ziębickich
+Pilichowska
+Plac im. Jana Pawła II
+Plac im.Jana Pawła II
+Plac Strażacki
+Plac Szpitalny
+Plac Wolności
+Pocztowa
+Podmiejska
+Podwale
+Polna
+Przemysłowa
+Pusta
+Różana
+Rynek
+Rzemieślnicza
+Rzeźnicza
+Sezamkowa
+Sienna
+Skwer Przyjaźni Miast Siostrzanych
+Skwer Zesłańców Sybiru
+Słoneczna
+Spacerowa
+Sportowa
+Spółdzielcza
+Stanisława Oziębłowskiego
+Stawowa
+Stefana Starzyńskiego
+Stolarska
+Środkowa
+Świerkowa
+Tadeusza Kościuszki
+Wałowa
+Wąska
+Widokowa
+Wincentego Witosa
+Władysława Łokietka
+Wojska Polskiego
+Wrocławska
+Zamkowa
+Zawiszy
+Zielona

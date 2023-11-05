@@ -1,0 +1,131 @@
+3 Maja
+Aleja 1 Maja
+Aleja Wojska Polskiego
+Andrzeja "Balona" Tarasiewicza
+Antonowska
+Armii Krajowej
+Batorego
+Bema
+Białostocka
+Boczna
+Bohaterów Westerplatte
+Daszyńskiego
+Dąbrowskiego
+Drzymały
+Działkowa
+Emilii Plater
+Fryderyka Chopina
+Gdańska
+Generała Józefa Zajączka
+Generała Orlicz Dreszera
+Gimnazjalna
+Górna
+Grodzieńska
+Hetmańska
+Jagiełły
+Jarzębinowa
+Jasna
+Jeziorna
+Kajki
+Kasztanowa
+Kasztelańska
+Kazimierza Wielkiego
+Kętrzyńskiego
+Kilińskiego
+Klonowa
+Kolejowa
+Kombatantów
+Konarskiego
+Konopnickiej
+Kopernika
+Koszarowa
+Królowej Jadwigi
+Krótka
+Krzywa
+Kwiatowa
+Łąkowa
+Łuczańska
+Mazurska
+Mickiewicza
+Mikołaja Reja
+Moniuszki
+Myśliwska
+Nadbrzeżna
+Nowogródzka
+Nowowiejska
+Obwodowa
+Ogrodowa
+Okrzei
+Olsztyńska
+Orzechowa
+Osiedle XXX-lecia Wolnych Wyborów
+Owsiana
+Park Marcina Gerssa
+Pasaż Portowy
+Perkunowska
+Piaskowa
+Pionierska
+Plac Dworcowy
+Plac Grunwaldzki
+Plac Marszałka Józefa Piłsudskiego
+Plac Targowy
+Pocztowa
+Polna
+Pomorska
+Przejściowa
+Przemysłowa
+Przyszłość
+Rajska
+Rolnicza
+Rondo 15 Giżyckiej Brygady Zmechanizowanej im. Zawiszy Czarnego
+Rondo im. św. Jana Pawła II
+Rondo Polskich Dzieci Wojny
+Rondo Praw Kobiet
+Rondo Solidarności
+Róży Wiatrów
+Rybacka
+Sadowa
+Sienkiewicza
+Sikorskiego
+Skwer Dubieński
+Skwer im. Premiera Tadeusza Mazowieckiego
+Skwer im. Żołnierzy AK i Zesłańców Sybiru
+Słoneczna
+Słowackiego
+Słowiańska
+Smętka
+Sportowa
+Staszica
+Stefana Żeromskiego
+Struga
+Suwalska
+Sybiraków
+Szantowa
+Szarych Szeregów
+Szkolna
+św. Brunona
+Świderska
+Tadeusza Kościuszki
+Topolowa
+Traugutta
+Trocka
+Turystyczna
+Tuwima
+Unii Europejskiej
+Warmińska
+Warszawska
+Warzywna
+Wesoła
+Wiejska
+Wilanowska
+Wileńska
+Wincentego Witosa
+Wiśniowa
+Wodna
+Wodociągowa
+Wrzosowa
+Wspólna
+Zakole
+Zielona
+Żeglarska
+Żwirowa

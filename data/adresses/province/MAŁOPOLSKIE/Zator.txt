@@ -1,0 +1,91 @@
+26-go Stycznia
+Adama Mickiewicza
+Aleja 1 Maja
+Aleja 3 Maja
+Aleja Fryderyka Chopina
+Aleja Kasztanowa
+Andrychowska
+Armii Krajowej
+Blich
+Brzozowa
+Bugajska
+Centralna
+Chrzanowska
+Cicha
+Diamentowa
+Dolina Karpia
+Elizy Orzeszkowej
+Energylandia
+gen. Władysława Sikorskiego
+Generała Józefa Hallera
+Gliwicka
+Górnicza
+Graniczna
+Grunwaldzka
+Henryka Sienkiewicza
+Jacka Kuronia
+Jagiellońska
+Jana Pawła II
+Jaśminowa
+Jerzego Remera
+Juliusza Słowackiego
+Kolejowa
+Kongresowa
+Krakowska
+Królewska
+Krótka
+Księcia Janusza
+Księcia Kazimierza
+Księcia Wacława
+Księcia Władysława
+Księstwa Zatorskiego
+Kwiatowa
+Leszka Palimąki
+Łączki
+Malinowa
+Marii Konopnickiej
+Marii Skłodowskiej-Curie
+Mieszka Cieszyńskiego
+Mikołaja Kopernika
+Młyńska
+Mostowa
+Nad Skawą
+Nadrzeczna
+Nowa
+Ogrodowa
+Oświęcimska
+Parkowa
+Pawła z Zatora
+Piastowska
+Plac Jana Matejki
+Plac Marszałka Józefa Piłsudskiego
+Plac Tadeusza Kościuszki
+Polna
+Porozumień Sierpniowych
+Potockich
+Romana Rybarskiego
+Różana
+Rycerska
+Rynek
+Słoneczna
+Sosnowa
+Spadzista
+Stanisława Staszica
+Stanisława Wyspiańskiego
+Stawowa
+Strefowa
+Stroma
+Szkolna
+św. Rocha
+Tadeusza Kościuszki
+Wadowicka
+Wąska
+Wiejska
+Wisławy Szymborskiej
+Władysława Grabskiego
+Władysława Reymonta
+Włodzimierza Puchalskiego
+Wojska Polskiego
+Wszystkich Świętych
+Zamkowa
+Żwirki i Wigury

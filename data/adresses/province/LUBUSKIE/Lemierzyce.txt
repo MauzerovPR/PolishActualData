@@ -1,0 +1,10 @@
+Boczna
+Ciesielska
+Dworcowa
+Kościuszki
+Krzywa
+Leśna
+Łąkowa
+Polna
+Śródmiejska
+Wodna

@@ -1,0 +1,71 @@
+1 Maja
+Akacjowa
+Aleja Krakowska
+Błońska
+Bronisława Reszki
+Brzozowa
+Cmentarna
+Dębowa
+Długa
+Dolna
+Działkowa
+Fiołkowa
+Górna
+Grójecka
+Jabłoniowa
+Jodłowa
+Juliana Stępkowskiego
+Kazimierza Dobrowolskiego
+Klonowa
+Kolejowa
+Komornicka
+Kotorydzka
+Kółkowa
+Krótka
+ks. Czesława Oszkiela
+Lawendowa
+Leśna
+Liliowa
+Lipowa
+Magnolii
+Malinowa
+Miła
+Miodowa
+mjr. Edwarda Ziółkowskiego
+Młynarska
+Modrzewiowa
+Mszczonowska
+Nektarowa
+Niecała
+Niezapominajki
+Nowa
+Ogrodowa
+Orzechowa
+Osiedle Tarczynianka
+Osiedle Ustronie
+Owocowa
+Platanowa
+Pocztowa
+Pogodna
+Polna
+Poprzeczna
+Północna
+Różana
+Rynek
+Sadowa
+Słoneczna
+Sosnowa
+Sportowa
+Stanisława Czarneckiego
+Szarych Szeregów
+Szkolna
+Średnia
+Świerkowa
+Tulipanowa
+Warszawska
+Wąska
+Władysława Gawarskiego
+Wrzosowa
+Zatylna
+Zawilec
+Żytnia

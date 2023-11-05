@@ -1,0 +1,40 @@
+1 Maja
+3 Maja
+Akacjowa
+Aleja Sybiraków
+Ceramików
+Dębowa
+Fabryczna
+Górna
+Iłowiańska
+Kolejowa
+Kombatantów
+Konopnickiej
+Kościelna
+Kościuszki
+Krótka
+Leśna
+Łąkowa
+Matejki
+Mickiewicza
+Młyńska
+Ogrodowa
+Okrzei
+Partyzantów
+Plac Wolności
+Polna
+Robotnicza
+Sikorskiego
+Skwer Seniora
+Sportowa
+Strzelecka
+Traugutta
+Wąska
+Witosa
+Wojska Polskiego
+Wzniesienie
+Zacisze
+Zgorzelecka
+Zielona
+Żagańska
+Żeromskiego

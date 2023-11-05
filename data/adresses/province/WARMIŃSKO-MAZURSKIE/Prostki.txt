@@ -1,0 +1,19 @@
+1 Maja
+15 Lipca
+Dębowa
+Dworcowa
+Ełcka
+Kolejowa
+Krótka
+Lipowa
+Marii Konopnickiej
+Ogrodowa
+Osiedle Leśne
+Polna
+Rzemieślnicza
+Sadowa
+Sportowa
+Szkolna
+Świerkowa
+Wąska
+Zielona

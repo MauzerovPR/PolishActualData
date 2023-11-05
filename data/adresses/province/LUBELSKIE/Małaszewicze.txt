@@ -1,0 +1,26 @@
+Boczna
+Ciasna
+Cicha
+Długa
+Jasna
+Kolejarzy
+Kolejarzy Południe
+Kościelna
+Krótka
+Leśna
+Miła
+Nowa
+Ogrodowa
+Parkowa
+Piękna
+Podleśna
+Polna
+Robotnicza
+Słoneczna
+Spacerowa
+Spokojna
+Stacyjna
+Wesoła
+Wiejska
+Wrzosowa
+Wspólna

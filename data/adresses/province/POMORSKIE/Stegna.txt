@@ -1,0 +1,57 @@
+Bałtycka
+Boczna
+Brzozowa
+Bukowa
+Bursztynowa
+Cegielniana
+Cicha
+Cisewo
+Dębowa
+Dworcowa
+Elbląska
+Gdańska
+Grunwaldzka
+Jabłoniowa
+Jagiełły
+Jana Długosza
+Jana Heweliusza
+Jaśminowa
+Konwaliowa
+Kopernika
+Kościuszki
+Krótka
+Kwiatowa
+Lawendowa
+Leśna
+Letniskowa
+Lipowa
+Mahoniowa
+Mennonitów
+Morska
+Nowa
+Nowodworska
+Obozowa
+Ogrodowa
+Okólna
+Plażowa
+Polna
+Południowa
+Pomorska
+Powstańców Warszawy
+Północna
+Romana Dmowskiego
+Rondo Błogosławionego Jana Pawła II
+Rycerska
+Sikorskiego
+Słoneczna
+Spacerowa
+Sportowa
+Świerkowa
+Wąska
+Wczasowa
+Wojska Polskiego
+Wrzosowa
+Zacisze
+Zielna
+Zielona
+Żuławska

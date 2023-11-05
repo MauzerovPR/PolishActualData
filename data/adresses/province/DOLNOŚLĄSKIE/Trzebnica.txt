@@ -1,0 +1,144 @@
+1 Maja
+3 Maja
+Adama Asnyka
+Adama Mickiewicza
+Agrestowa
+Akacjowa
+Aleksandry
+Alpejska
+Armii Krajowej
+Bartosza Głowackiego
+Błonia Trzebnickie
+Błotnista
+Bolesława Chrobrego
+Borówkowa
+Brama Trębaczy
+Brzoskwiniowa
+Bukowa
+Chabrowa
+Cicha
+Cypriana Kamila Norwida
+Czereśniowa
+Drukarska
+Elizy Orzeszkowej
+Fiołkowa
+Fryderyka Chopina
+gen. Grota-Roweckiego
+gen. Józefa Bema
+gen. Leopolda Okulickiego
+gen. Władysława Andersa
+gen. Władysława Sikorskiego
+Gliniana
+Grabowa
+Graniczna
+Grunwaldzka
+Harcerska
+Henryka Brodatego
+Henryka Pobożnego
+Henryka Sienkiewicza
+Ignacego Daszyńskiego
+Ignacego Paderewskiego
+Jagodowa
+Jana Kilińskiego
+Jana Matejki
+Jana Olszewskiego
+Jana Pawła II
+Janusza Korczaka
+Jarzębinowa
+Jaśminowa
+Jędrzejowska
+Juliusza Słowackiego
+Kazimierza Wielkiego
+Klasztorna
+Kolejowa
+Kosmonautów
+Kościelna
+Krakowska
+Krótka
+ks. Dziekana Wawrzyńca Bochenka
+Kwiatowa
+Lawendowa
+Ledowa
+Leśna
+Letnia
+Lipowa
+Łączna
+Łąkowa
+Malinowa
+Marcinowska
+Marii Dąbrowskiej
+Marii Konopnickiej
+Marii Leszczyńskiej
+marsz. Józefa Piłsudskiego
+Milicka
+Miodowa
+Młynarska
+Morelowa
+Mostowa
+Na Wzgórzach
+Nowa
+Obornicka
+Obrońców Pokoju
+Ogrodowa
+Oleśnicka
+Orzechowa
+Owocowa
+Parkowa
+Piastowska
+Piotra Włostowica
+Piwniczna
+Plac Pionierów Ziemi Trzebnickiej
+Pogodna
+Polna
+Porzeczkowa
+Poziomkowa
+Prusicka
+Przemysłowa
+Rondo 4 czerwca 1989 r.
+Rondo Chirurgów Trzebnickich
+Rondo Miast Partnerskich-Kitzingen-Winniki
+Rondo Unii Europejskiej
+Rondo Żołnierzy Wyklętych
+Rotmistrza Witolda Pileckiego
+Różana
+Rynek
+Sadowa
+Samarytańska
+Siostry Hilgi Brzoski
+Skwer Szczepana Siekierki
+Słoneczna
+Solna
+Spokojna
+Sportowa
+Stanisława Moniuszki
+Stanisława Piaskowskiego
+Stawowa
+Stefana Żeromskiego
+Szarych Szeregów
+Świętej Jadwigi
+Świętojańska
+Tadeusza Kościuszki
+Teatralna
+Truskawkowa
+Wałowa
+Wąska
+Wesoła
+Węgrzynowska
+Widokowa
+Wincentego Witosa
+Winna
+Wiosenna
+Wiśniowa
+Władysława Broniewskiego
+Władysława Jagiełły
+Władysława Łokietka
+Władysława Stanisława Reymonta
+Wojciecha Drzymały
+Wojska Polskiego
+Wrocławska
+Wrzosowa
+Zaułek Kupiecki
+Zielona
+Zielone Wzgórze
+Zielonego Dębu
+Żołnierzy Września

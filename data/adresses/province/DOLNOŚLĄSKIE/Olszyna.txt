@@ -1,0 +1,22 @@
+1 Maja
+3 Maja
+Adama Asnyka
+Adama Mickiewicza
+Fryderyka Chopina
+Górna
+Henryka Sienkiewicza
+Kamienna
+Kardynała Stefana Wyszyńskiego
+Kolejowa
+Ks. Józefa Zarembskiego
+Legnicka
+Marii Skłodowskiej-Curie
+Osiedle
+Parkowa
+Piękna
+Plac Meblarzy Olszyńskich
+Polna
+Rzeczna
+Szkolna
+Wolności
+Źródlana

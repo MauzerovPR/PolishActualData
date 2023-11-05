@@ -1,0 +1,72 @@
+3 Maja
+Asfaltowa
+Cegielniana
+Chopina
+Cicha
+Czarnoleśna
+Czarny Las
+Dąbrowa
+Dworcowa
+Florianek
+Głazówka
+Górale
+Górna
+Górnicza
+Harcerska
+Jubileuszowa
+Karola Miarki
+Kawalerii
+Kolejowa
+Kolonia Woźnicka
+Kopernika
+Korfantego
+Kościuszki
+Koziegłowska
+Krakowska
+Krótka
+Krzyżowa
+Księdza Antosza
+Księdza Kiebla
+Kwiatowa
+Leśna
+Ligonia
+Lompy
+Łakoty
+Łąkowa
+Miła
+Miodowa
+Młyńska
+Modrzewiowa
+Moniuszki
+Niegolewka
+Nowa
+Obrony Narodowej
+Ogrodowa
+Piaskowa
+Piechoty
+Podleśna
+Pogodna
+Polna
+Powstańców
+Pułaskiego
+Rolnicza
+Rynek
+Sadowa
+Skalna
+Skrzesówka
+Słoneczna
+Solarnia
+Spokojna
+Sportowa
+Statek
+Strzelców
+Sulów
+Szkolna
+Śliwa
+Świętego Antoniego
+Tarnogórska
+Ułanów
+Wojskowa
+Wolności
+Woźnicka
+Źródlana

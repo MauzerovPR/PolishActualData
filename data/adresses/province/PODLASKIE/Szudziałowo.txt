@@ -1,0 +1,14 @@
+Bankowa
+Centralna
+Działkowa
+Górna
+Kościelna
+Krótka
+Kryńska
+Owocowa
+Sokólska
+Spacerowa
+Sportowa
+Spółdzielcza
+Szkolna
+Wiosenna

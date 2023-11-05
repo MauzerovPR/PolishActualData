@@ -1,0 +1,33 @@
+Boczna
+Brzeska
+Dylągówka
+Grodzka
+Józefa Kozuba
+Karola Bernackiego
+Krakowska
+Królewska
+Lipowska
+Małopolska
+Maszkienicka
+Nadbrzeżna
+Osiedle Kolejowe
+Osiedle na Piaskach
+Osiedle Ostoja
+Pielgrzymkowa
+Podgórska
+Podmiejska
+Radosna
+Skwer Jana Pawła II
+Skwer Pamięci im. Rotmistrza Witolda Pileckiego
+Sportowa
+Staropolska
+Strumykowa
+Szczęśliwa
+Szkolna
+Środkowa
+Św. Anny
+Św. Prokopa
+Wincentego Witosa
+Wschodnia
+Zachodnia
+Zamłynie

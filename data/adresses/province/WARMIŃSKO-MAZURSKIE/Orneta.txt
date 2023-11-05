@@ -1,0 +1,81 @@
+1 Maja
+Akacjowa
+Aleja Wojska Polskiego
+Braniewska
+Browarna
+Cicha
+Dąbrowskiego
+Dolna
+Drzymały
+Dworcowa
+Elbląska
+Fryzjerska
+Gdańska
+gen. Franciszka Barstcha
+Henryka Dobosza
+Jana Bażyńskiego
+Jana Pawła II
+Jarzębinowa
+Jaśminowa
+Kardynała Stefana Wyszyńskiego
+Klonowa
+Kombatantów RP i Byłych Więźniów Politycznych
+Kopernika
+Kościelna
+Kościuszki
+Krośnieńska
+Krzywa
+ks. Jerzego Popiełuszki
+Kwiatowa
+Leśna
+Litewska
+Mazurska
+Mickiewicza
+Miodowa
+mjr. Henryka Sucharskiego
+Młynarska
+Morąska
+Mostowa
+Ogrodowa
+Olsztyńska
+Osiedle Dąbrowskiego
+Owocowa
+Parkowa
+Piaskowa
+Pieniężnego
+Pionierów
+Plac Wolności
+Podgórna
+Podleśna
+Pogodna
+Polna
+Przedsiębiorcza
+Przemysłowa
+Radosna
+Rondo 700-lecia Ornety
+Rondo Braniewskie
+Rondo Związku Harcerstwa Polskiego
+Rozjazdowa
+Rybna
+Rycerska
+Sadowa
+Sienkiewicza
+Skwer im. Księdza Kanonika Jana Szulborskiego
+Słoneczna
+Sosnowa
+Spokojna
+Sportowa
+Sybiraków
+św. Andrzeja
+św. Jana
+Świerkowa
+Towarowa
+Warmińska
+Wodna
+Wspólna
+Zamkowa
+Zarzeczna
+Zaułek Ciasny
+Zaułek Klasztorny
+Zielona
+Żelazna

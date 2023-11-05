@@ -1,0 +1,58 @@
+1 Maja
+1 Stycznia
+3 Maja
+30 Czerwca
+Adama Mickiewicza
+Biłgorajska
+Brama Korchowska
+Cerkiewna
+Cicha
+Czesława Kryszkiewicza
+Dolna
+Floriana Słąki
+Handlowa
+Henryka Sienkiewicza
+Jasna
+Jaśminowa
+Józefa Krzysztofa Gizy
+Klonowa
+Kosynierów
+Kościelna
+Krzywa
+Lawendowa
+Lubaczowska
+Marii Konopnickiej
+Męczenników Majdanka
+Nadrzeczna
+Nadstawna
+Nowa
+Ogrody
+Partyzantów
+Podwale
+Pogodna
+Polna
+Promyk
+Przedmieście Błonie
+Przedmieście Bukowskie
+Przedmieście Płuskie Wschód
+Przedmieście Płuskie Zachód
+Przedmieście Różanieckie
+Rynek
+Skwer Gryfa
+Słoneczna
+Spokojna
+Spółdzielcza
+Stanisława Tarnowskiego
+Strażacka
+Stroma
+Szkolna
+św. Jana Pawła II
+Tadeusza Kościuszki
+Targowa
+Wały Tarnogrodzkie
+Wesoła
+Władysława Reymonta
+Wojska Polskiego
+Wójtostwo
+Zacisze
+Zielona

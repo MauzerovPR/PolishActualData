@@ -1,0 +1,31 @@
+1 Maja
+3 Maja
+Adama Mickiewicza
+Akacjowa
+Andersena
+Chełmońskiego
+Cicha
+Dworcowa
+Gdyńska
+Gierymskiego
+Górnośląska
+Jerzego Kukuczki
+Kolejowa
+Konopnickiej
+Książęca
+Księdza Skorupki
+Leśmiana
+Miodowa
+Ogrodowa
+Orzeszkowej
+Parkowa
+Polskiego Związku Ludowego
+Pomorska
+Poznańska
+Słowackiego
+Stefanii Cygańskiej
+Warszawska
+Wojska Polskiego
+Wybickiego
+Wyspiańskiego
+Zamkowa

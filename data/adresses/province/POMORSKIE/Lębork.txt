@@ -1,0 +1,250 @@
+1 Maja
+3 Maja
+8 Maja
+Abrahama
+Akacjowa
+Aleja Wolności
+Aleksandra Majkowskiego
+Architektów
+Armii Krajowej
+Artura Grottgera
+Artylerzystów
+B. Czecha
+Bartosza Głowackiego
+Basztowa
+Batalionów Chłopskich
+Batalionu Zośka
+Beniowskiego
+Błękitna
+Bohaterów Monte Cassino
+Bohaterów Westerplatte
+Bolesława Krzywoustego
+Bolesława Prusa
+Brzozowa
+Cegielniana
+Ceramiczna
+Ceynowy
+Chabrowa
+Chłopska
+Chojnicka
+Chopina
+Cichociemnych Spadochroniarzy AK
+Cisowa
+Curie-Skłodowskiej
+Czołgistów
+Dąbrowskiego
+Derdowskiego
+Dębowa
+Drętowo
+Drzymały
+Dworcowa
+Dygasińskiego
+Dywizjonu 303
+Edwarda Bieszki
+Emilii Plater
+F. Stamma
+Franciszkańska
+Gajowa
+Gdańska
+gen. Stanisława Sosabowskiego
+Generała Bema
+Generała Sikorskiego
+Generała Stanisława Maczka
+Gierymskiego
+Gliniana
+Górników
+Graniczna
+Grodzieńska
+Grudziądzka
+Grunwaldzka
+Gryfa Pomorskiego
+H. Konopackiej
+H. Marusarzówny
+Handlowa
+Harcerzy
+Henryka Arctowskiego
+Henryka Łasaka
+Hutnicza
+Ignacego Domeyki
+Ignacego Paderewskiego
+im. Mieczysława Michalskiego
+Inżynierów
+J. Kusocińskiego
+Jagiellońska
+Jagodowa
+Jana Długosza
+Jana Pawła II
+Jana Styki
+Janusza Korczaka
+Jerzego Kukuczki
+Jesionowa
+Jeżynowa
+Jodłowa
+Józefa Wybickiego
+Juliana Tuwima
+Juliana Węgrzynowicza
+Kadetów
+Kanałowa
+Kardynała Stefana Wyszyńskiego
+Kartuska
+Kasztanowa
+Kaszubska
+Kazimierza Wielkiego
+Kellera
+Kilińskiego
+Klonowa
+Kolejarzy
+Kolonia
+Komuny Paryskiej
+Korzenna
+Kossaka
+Kościuszki
+Krótka
+ks. Szczepana Gracza
+Kujawska
+Kwiatowa
+L. Teligi
+Legionów Polskich
+Leopolda Staffa
+Leśna
+Lipowa
+Lotników
+Lubelska
+Ludwika Waryńskiego
+Lwowska
+Łączna
+Łowicka
+Majora Henryka Sucharskiego
+Malczewskiego
+Malinowa
+Małopolska
+Małoszycka
+Marcina Kasprzaka
+Marcinkowskiego
+Marii Konopnickiej
+Matejki
+Mazowiecka
+Mazurska
+Michała Mostnika
+Mieczysława Stryjewskiego
+Miejski im. Bolesława Chrobrego
+Mieszka I
+Miętowa
+Mikołaja Reja
+Miodowa
+Mireckiego
+Młynarska
+Modrzewiowa
+Moniuszki
+Mściwoja II
+Myśliwska
+Na Stoku
+Nadmorska
+Niepodległości
+o. Lucjusza Chodukiewicza
+Obrońców Wybrzeża
+Ogrodowa
+Okrzei
+Olimpijczyków
+Olsztyńska
+Opolska
+Orląt Lwowskich
+Orlińskiego
+Orzeszkowej
+Osiedle Leśne
+Piecewo
+Piękna
+Pilotów
+Pionierów
+Piotra Skargi
+Piotra Wysockiego
+plac imienia Franciszka Szczypiora
+Plac Kopernika
+Plac Młodzieży
+Plac Piastowski
+Plac Pokoju
+Plac Spółdzielczy
+Podchorążych
+Podhalańska
+Polna
+Polskich Marynarzy
+Pomorska
+Portowa
+Powstania Styczniowego
+Powstańców Warszawy
+Poziomkowa
+Poznańska
+Przemysłowa
+Przymurna
+Przyzamcze
+Pułaskiego
+Pułkownika Stanisława Dąbka
+Robotnicza
+Rodła
+Romualda Traugutta
+Rondo Bitwy Warszawskiej 1920 roku
+Rondo Danuty Siedzikówny "Inki"
+Rondo Generała Józefa Hallera
+Rondo Ignacego Paderewskiego
+Rondo ks. Jerzego Popiełuszki
+Rondo Lecha Bądkowskiego
+Rondo Marszałka Józefa Piłsudskiego
+Rondo Miasta Wołkowysk
+Roszarnicza
+Różyckiego
+rtm. Witolda Pileckiego
+Rzemieślnicza
+Sandomierska
+Saperów
+Sienkiewicza
+Sieroszewskiego
+Skarżyńskiego
+Skoczylasa
+Skwer 7 Harcerskiej Drużyny Czerwonych Beretów
+Słoneczna
+Słowackiego
+Słupska
+Solna
+Spokojna
+Sportowa
+Spółdzielcza
+Stanisława Mikołajczyka
+Staromiejska
+Staszica
+Strzelców Podhalańskich
+Sudecka
+Syrokomli
+Szarych Szeregów
+Śląska
+Targowa
+Tatrzańska
+Tczewska
+Techników
+Topolowa
+Toruńska
+Warszawska
+Weterynaryjna
+Wicka Rogali
+Wiejska
+Wielkopolska
+Wierzbowa
+Wileńska
+Wincentego Witosa
+Wita Stwosza
+Witkacego
+Władysława IV
+Władysława Łokietka
+Wojska Polskiego
+Wrocławska
+Wróblewskiego
+Wrzosowa
+Wyczółkowskiego
+Wyspiańskiego
+Zawiszy Czarnego
+Zielona
+Zofii Nałkowskiej
+Zofii Witkowskiej
+Zwarowska
+Zwycięstwa
+Żeromskiego
+Żwirki i Wigury

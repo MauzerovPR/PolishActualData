@@ -1,0 +1,37 @@
+1-go Maja
+30-go Lipca
+3-go Maja
+Akacjowa
+Armii Krajowej
+Dębowa
+Franciszka Stefczyka
+Górna
+Graniczna
+Henryka Sienkiewicza
+Jana Henryka Dąbrowskiego
+Jana Kilińskiego
+Jana Pawła II
+Józefa Zamoyskiego
+Kawały
+Krótka
+Leśna
+Myśliwska
+Nadrzeczna
+Nauczycielska
+Orzechowa
+Parkowa
+Piaskowa
+Polna
+Przemysłowa
+Romualda Traugutta
+Rynek
+Słoneczna
+Spacerowa
+Spółdzielcza
+Starowiejska
+Strażacka
+Szkolna
+Tadeusza Kościuszki
+Targowa
+Zygmunta Starego
+Żwirowa

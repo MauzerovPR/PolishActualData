@@ -1,0 +1,142 @@
+1 Maja
+3 Maja
+Andrzeja Haniaczyka
+Andrzeja Pilcha
+Babiogórska
+Biszczaków
+Boczna
+Bolesława Prusa
+Borówkowa
+Brzegowa
+Bugaj
+Chopina
+Chyżnik
+Czesława Miłosza
+Długa
+Do Gojki
+Do Jeziora
+Do Pasieki
+Doktora Pawlaka
+Drogowców
+Energetyków
+Eugeniusza Sterculi
+Galasowa
+Gawłowa
+Gazowa
+Gęstych Domów
+Górska
+Guzówka
+Handlowa
+Ignacego Mościckiego
+Ignacego Paderewskiego
+Ignacego Suwady
+Jana Krala
+Jana Pawła II
+Jana Piekarczyka
+Jodłowa
+Jurowa
+Kamieniec
+Kaniowa
+Kasprowicza
+Kępowa
+Kochanowskiego
+Konopnickiej
+Kopernika
+Kościelna
+Kościuszki
+Kozubek
+Krakowska
+Kralowa
+Kręta
+Krótka
+Ks. Antoniego Sikory
+Ks. Eugeniusza Sikory
+ks. Ferdynanda Machaja
+Ks. Karola Knaperka
+Ks. Marcina Jabłońskiego
+ks. Stanisława Góreckiego
+ks. Stefana Joniaka
+Księdza Boguckiego
+Księdza Juliana Łyska
+Kurzaków
+Leśna
+Lichosytowa
+Lotników
+Łąkowa
+Łyżniakowa
+Magurska
+Marii Burtan
+Marty Jabłońskiej
+Matejki
+Matki Teresy z Kalkuty
+Mickiewicza
+Mików
+Moniuszki
+Na Równi
+Na Skarpie
+Nadwodnia
+Niepodległości
+Nowa
+Nowakowa
+Ogrodowa
+Olejarska
+Orawska
+Orkana
+Osiedlowa
+Oskwarkowa
+Otrębowa
+Panowa
+Park 1000-lecia
+Partyzantów
+Pasterska
+Pełtników
+Pezdkowa
+Pierogów
+Piotra Borowego
+Piusa Jabłońskiego
+Plac Dworcowy
+Podhalańska
+Pogranicza
+Polna
+Potokowa
+Przemysłowa
+Puchałowa
+Reja
+Reymonta
+Samolejowa
+Sarkowa
+Sienkiewicza
+Słoneczna
+Słowacka
+Sobieskiego
+Sosnowa
+Spiska
+Spokojna
+Spółdzielców
+Stasiowa
+Staszica
+Stroma
+Subówka
+Szałasowa
+św. Brata Alberta
+Świerkowa
+Targowa
+Tatrzańska
+Tetmajera
+Urocza
+Wąska
+Wdówkowa
+Wendelina Dziubka
+Wertelowska
+Wicaniówka
+Widokowa
+Wilsona
+Wincentego Jabłonowskiego
+Wojska Polskiego
+Wolności
+Wspólna
+Za Potokiem
+Zacisze
+Zagrodowa
+Zielona
+Źródlana

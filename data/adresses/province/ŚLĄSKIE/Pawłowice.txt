@@ -1,0 +1,58 @@
+1 Maja
+3 Maja
+Aleja Lipowa
+Astrów
+Biskupa Pawłowskiego
+Bratków
+Brukowa
+Dobra
+Gospodarcza
+Górka
+Górnicza
+Granica
+Grzybowa
+Katowicka
+Klonowa
+Kolonia Studzieńska
+Kręta
+Krucza
+Lebiodowiec
+Leśna
+Łączna
+Mały Rynek
+Miarki
+Mickiewicza
+Młyńska
+Myśliwska
+Nowa
+Ogrodowa
+Orzechowa
+Pieczarkowa
+Poligonowa
+Polna
+Poprzeczna
+Prosta
+Przemysłowa
+Pszczyńska
+Pukowca
+Radosna
+Rolników
+Rybacka
+Skowronków
+Spacerowa
+Sportowa
+Stawowa
+Strumieńska
+Strzyżyków
+Szkolna
+Tartaczna
+Wąska
+Wesoła
+Wodzisławska
+Wojska Polskiego
+Wrzosowa
+Wspólna
+Wyzwolenia
+Zamkowa
+Zapłocie
+Zjednoczenia

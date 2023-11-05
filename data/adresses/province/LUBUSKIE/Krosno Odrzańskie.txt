@@ -1,0 +1,101 @@
+1 Maja
+11 Listopada
+4 Dywizji Zmechanizowanej
+Akacjowa
+Baczyńskiego
+Bankowa
+Bartosza Głowackiego
+Bobrowa
+Bohaterów Wojska Polskiego
+Bolesława Chrobrego
+Bolesława Krzywoustego
+Bolesława Śmiałego
+Brzozowa
+Bulwar św. Jana Pawła II
+Cicha
+Cypriana Kamila Norwida
+Czarnieckiego
+Dąbrowskiego
+Dworcowa
+Działkowca
+Edisona
+Emilii Plater
+Fryderyka Chopina
+gen. Franciszka Kleeberga
+gen. Tadeusza Kutrzeby
+Grobla
+Gubińska
+Henryka Brodatego
+Henryka Głogowskiego
+Henryka Pobożnego
+Ignacego Łukasiewicza
+Jana Matejki
+Jaskółcza
+Józefa Bojarskiego
+Kamienna
+Katastralna
+Kazimierza Jagiellończyka
+Kazimierza Odnowiciela
+Kazimierza Wielkiego
+Kilińskiego
+Konopnickiej
+Kosynierów
+Kościelna
+Kościuszki
+Lipowa
+Mennicza
+Metalowców
+Mickiewicza
+Mieszka I
+Mikołaja Kopernika
+Młyńska
+Mnichów
+Moniuszki
+Murna
+Nadodrzańska
+Newtona
+Ogrodowa
+Osiedle Północne
+Paderewskiego
+Parkowa
+PCK
+Piastów
+Pionierów
+plac Unii Europejskiej
+Pocztowa
+Podgórna
+Polna
+Poprzeczna
+Poznańska
+Prądzyńskiego
+Prusa
+Pułaskiego
+rondo Zesłańców Sybiru
+Rybaki
+Sienkiewicza
+Słoneczna
+Słowackiego
+Słubicka
+Spokojna
+Srebrna Góra
+Szkolna
+Szosa Poznańska
+św. Jadwigi Śląskiej
+Świerkowa
+Trakt Książęcy
+Wakacyjna
+Wąska
+Wesoła
+Widok
+Wiejska
+Wierzbowa
+Winnica
+Władysława Jagiełły
+Władysława Łokietka
+Wodna
+Wolności
+Wyspiańskiego
+Zacisze
+Zamkowa
+Zygmunta Starego
+Żeromskiego

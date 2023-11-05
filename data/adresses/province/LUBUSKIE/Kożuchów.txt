@@ -1,0 +1,99 @@
+1 Maja
+22 Lipca 1807
+3 Maja
+9 Maja 1950
+Anny Haller
+Bolesława Krzywoustego
+Bolesława Prusa
+Chabrowa
+Chopina
+Czesława Miłosza
+Daszyńskiego
+Diamentowa
+Drzymały
+Dworcowa
+Elektryczna
+Garbarska
+Głogowska
+Głowackiego
+Górska
+Grota-Roweckiego
+Henryka Sienkiewicza
+Hoża
+Inwestycyjna
+Jastrzębia
+Jaśminowa
+Kacza
+Kącik Szczęścia
+Klasztorna
+Kolonia Górska
+Kolonia Moniuszki
+Kolonia Zielonogórska
+Kolorowa
+Konopnickiej
+Koszarowa
+Kościelna
+Kościuszki
+Kraszewskiego
+Kręta
+Krótka
+Krucza
+Kwiatowa
+Lawendowa
+Legnicka
+Liliowa
+Limanowskiego
+Lisia
+Literacka
+Marcinkowskiego
+Mickiewicza
+Młynarska
+Moniuszki
+Nowa
+Nowogrodzka
+Nowosolna
+Obywatelska
+Ogrodnicza
+Okrzei
+Osiedle Kolejowe
+Osiedlowa
+Parkowa
+Piaskowa
+Plac Ewangelicki
+Plac Jedności Robotniczej
+Plac Kopernika
+Plac Matejki
+Plac Targowy
+Plac Zwycięstwa
+Polna
+Rataja
+Rondo im. 13 Pułku Zmechanizowanego
+Różana
+Rynek
+Słoneczna
+Słonecznikowa
+Słowackiego
+Sokola
+Sowia
+Spacerowa
+Spokojna
+Sportowa
+Spółdzielcza
+Storczykowa
+Szprotawska
+Topolowa
+Towarowa
+Traugutta
+Tulipanowa
+Wesoła
+Wisławy Szymborskiej
+Władysława Reymonta
+Wolności
+Zacisze
+Zajęcza
+Zbigniewa Herberta
+Zielona
+Zielonogórska
+Zygmuntowska
+Żagańska
+Żeromskiego

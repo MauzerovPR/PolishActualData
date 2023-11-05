@@ -1,0 +1,327 @@
+1 Maja
+3 Maja
+3 Pułku Strzelców Podhalańskich
+Adama Asnyka
+Akacjowa
+Aleja Jana Pawła II
+Aleja Legionów
+Aleja Piłsudskiego
+Aleja Wolności
+Aleksandra Fredry
+Armii Krajowej
+Astrów
+Azaliowa
+Beskidzka
+Bielów
+Bielska
+Bluszczowa
+Bławatkowa
+Boczna
+Bohaterów Września
+Bolesława Chrobrego
+Bolesława Krzywoustego
+Bracka
+Bratkowa
+Browar Kolonia
+Browarna
+Brzozowa
+Bukowa
+Bzowa
+Chabrowa
+Chmielna
+Cicha
+Cisowa
+Cypriana Kamila Norwida
+Cyprysowa
+Dębowa
+Długa
+Do Kopca
+Dworcowa
+Działy Zadzielskie
+Ernesta Malinowskiego
+Fabryczna
+Feliksa Kazimierza Potockiego
+Fiołkowa
+Folwark
+Franciszka Kleeberga
+Futrzarska
+Gabrieli Zapolskiej
+Gajka
+Garbarska
+Głogowa
+Góra Burgałowska
+Górska
+Grabowa
+Graniczna
+Granitowa
+Grapa
+Grobla
+Grojec
+Grunwaldzka
+Grunwaldzki
+Gwiezdna
+Habdasówka
+Habsburgów
+Handlowa
+Harenda
+Hetmana Jana Tarnowskiego
+Irysowa
+Isep
+Jagiellońska
+Jana
+Jana III Sobieskiego
+Jana Karola Chodkiewicza
+Jana Kasprowicza
+Jana Kazimierza
+Jana Sowińskiego
+Jana Zamoyskiego
+Jasna
+Jaśminowa
+Jaworowa
+Jodłowa
+Kabaty
+Kalinowa
+Kamienna
+Kasztanowa
+Kawalerów Orderu Uśmiechu
+Kazimierza Tetmajera
+Kazimierza Wielkiego
+Kątowa
+Kilińskiego
+Klonowa
+Kochanowskiego
+Kocurowska
+Kolejowa
+Kolista
+Komisji Edukacji Narodowej
+Komonieckiego
+Komorowskich
+Konopnickiej
+Konstantego Ildefonsa Gałczyńskiego
+Konwaliowa
+Kopernika
+Kościuszki
+Krakowska
+Krasińskiego
+Kraszewskiego
+Krokusowa
+Królowej Jadwigi
+Krótka
+Krzysztofa Kamila Baczyńskiego
+Krzywa
+ks. Prałata Stanisława Słonki
+ks. Zdzisława Dzidka
+Kwiatowa
+Lawendowa
+Lelewela
+Leopolda Staffa
+Leśnianka
+Letniskowa
+Liliowa
+Lucjana Rydla
+Ludna
+Łagodna
+Łączki
+Łączna
+Łąkowa
+Łęgowa
+Magnoliowa
+Makowa
+Malownicza
+Mała
+Marii Dąbrowskiej
+Marii Skłodowskiej-Curie
+Matejki
+Michała
+Mickiewicza
+Mieczykowa
+Mieszka I
+Miła
+Mleczarska
+Młyn
+Młyńska
+Mochnackiego
+Modrzewiowa
+Moszczanicka
+Na Oklu
+Na Stoku
+Nad Dworem
+Nad Jeziorem
+Nad Koszarawą
+Nad Łękawką
+Nad Markiem
+Nad Stawem
+Nad Witem
+Nadrzeczna
+Narcyzowa
+Niezapominajki
+Nimasów
+Niwy
+Nowa
+Objazdowa
+Oczkowska
+Ogrodowa
+Okopowa
+Okrężna
+Omastówka
+Orląt Lwowskich
+Orzechowa
+Osiedle 700-lecia
+Osiedle Kabaty
+Osiedle Kopernika
+Osiedle Młodych
+Osiedle na Wzgórzu
+Osiedle Parkowe
+Osiedle pod Grapą
+Osiedle Reymonta
+Osiedle Szkolne
+Osiedle Zgoda
+Osiedlowa
+Owocowa
+Paderewskiego
+Partyzantów
+Pawlusie
+PCK
+Piaskowa
+Piastowska
+Piernikarska
+Pierwiosnkowa
+Pierwogóra
+Piękna
+Pilnikarska
+Piotra Skargi
+Plac Mariacki
+Plażowa
+Plebańska
+Pod Górą
+Pod Jemiołą
+Pod Lasem
+Pod Łyską
+Pod Szkołą
+Podgórska
+Podlesie
+Podmiejska
+Podtorze
+Podwale
+Pogodna
+Pola Lisickich
+Polna
+Południowa
+Poniatowskiego
+Poprzeczna
+Potoczna
+Powstańców Śląskich
+Półkole
+Prosta
+Przebiśniegowa
+Przemysłowa
+Przyjaciół
+Pszczelna
+Reja
+Rekreacyjna
+Reymonta
+Rolnicza
+Rondo im. Michała Caputy
+Rondo im. Michała Jeziorskiego
+Rondo im. por. Leonarda Rybarskiego
+Rondo im. ppłk. dypl. Władysława Steblika
+Rondo im. Rodziny Sapińskich
+Rondo im. Rodziny Żywieckich Habsburgów
+Rondo im. Rotmistrza Witolda Pileckiego
+Rondo im. Tadeusza Jänicha
+Rondo im. Zofii Rączka
+Rozwojowa
+Różana
+Rychwałdzka
+Rynek
+Rzeczna
+Rzeźnicza
+Sadowa
+Sarni Stok
+Sasankowa
+Scalona
+Sempołowskiej
+Sezamowa
+Sienkiewicza
+Skowronkowa
+Skwer Narodowych Sił Zbrojnych
+Słoneczna
+Słonecznikowa
+Słowackiego
+Słowicza
+Sosnowa
+Spacerowa
+Spadzista
+Spokojna
+Sportowa
+Sporyska
+Stanisława Maczka
+Stanisława Sosabowskiego
+Stanisława Żółkiewskiego
+Stawowa
+Stawy
+Stefana Batorego
+Stefana Czarnieckiego
+Stefana Grota Roweckiego
+Stokowa
+Stokrotkowa
+Stolarska
+Storczykowa
+Strażacka
+Stroma
+Strzelców Karpackich
+Suska
+Szewska
+Szkolna
+Ślemieńska
+Śliwkowa
+Śliżowy Potok
+Świerkowa
+Świętego Huberta
+Świętego Wita
+Świętokrzyska
+Tadeusza Bora-Komorowskiego
+Tartaczna
+Topolowa
+Tulipanowa
+Turystyczna
+Wakacyjna
+Wałowa
+Wapienna
+Wąska
+Wczasowa
+Wesoła
+Węglowa
+Wichrowa
+Widokowa
+Wierchy
+Wierzbowa
+Wietrzna
+Wiklinowa
+Wincentego Witosa
+Wiosenna
+Wiśniowa
+Władysława Andersa
+Władysława Łokietka
+Władysława Warneńczyka
+Wodna
+Wrzosowa
+Wschodnia
+Wspólna
+Wypoczynkowa
+Wyspiańskiego
+Wyzwolenia
+Za Górą
+Za Łyską
+Za Wodą
+Zabłocka
+Zacisze
+Zamkowa
+Zaspowa
+Zawiszy Czarnego
+Zielona
+Zygmunta Andrzeja Heinricha
+Żeglarska
+Żeromskiego
+Żonkilowa
+Żwirowa

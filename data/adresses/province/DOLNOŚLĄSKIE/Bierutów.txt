@@ -1,0 +1,65 @@
+1 Maja
+Adama Mickiewicza
+Boczna
+Browarna
+Ceglana
+Czereśniowa
+Dworcowa
+Elizy Orzeszkowej
+Emilii Plater
+gen. Józefa Bema
+gen. Władysława Sikorskiego
+Henryka Dąbrowskiego
+Jana Kilińskiego
+Jana Kochanowskiego
+Jasna
+Jesionowa
+Józefa Piłsudskiego
+Juliana Tuwima
+Juliusza Słowackiego
+Kasztanowa
+Kazimierza Pułaskiego
+Kijowicka
+Klonowa
+Kolejowa
+Koszarowa
+Kościelna
+Krótka
+Kruszowicka
+Lipowa
+Malinowa
+Marii Konopnickiej
+Młyńska
+Mostowa
+Namysłowska
+Nowa
+Ogrodowa
+Oleśnicka
+Osiedle
+Parkowa
+Plac Kościelny
+Pogodna
+Polna
+Północna
+Promienna
+Przyjaciół Żołnierza
+Rynek
+Rzemieślnicza
+Sądowa
+Skwer Księdza Prałata Jana Gabora
+Słoneczna
+Solnicka
+Spacerowa
+Stanisława Moniuszki
+Stefana Żeromskiego
+św. Jana
+Tadeusza Kościuszki
+Tęczowa
+Towarowa
+Wincentego Witosa
+Wiśniowa
+Wodna
+Wrocławska
+Zamkowa
+Zielona
+Zygmunta Krasińskiego

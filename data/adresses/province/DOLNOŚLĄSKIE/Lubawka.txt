@@ -1,0 +1,61 @@
+Aleja Wojska Polskiego
+Anielewicza
+Boczna
+Browarna
+Brzozowa
+Celna
+Ciasna
+Cmentarna
+Długosza
+Dolna
+Domy Kolejowe
+Drzymały
+Dworcowa
+Garbarska
+Gazowa
+Górska
+Graniczna
+Jagiellońska
+Jedwabna
+Kamiennogórska
+Karkonoska
+Kombatantów
+Komunalna
+Kościuszki
+Krótka
+Krucza
+Leśna
+Lipowa
+Łączna
+Mickiewicza
+Morska
+Nadbrzeżna
+Nowa Kolonia
+Ogrodowa
+Piastowska
+Piaszczysta
+Plac Jana Pawła II
+Plac Wolności
+Pocztowa
+Podgórze
+Podlesie
+Polna
+Potokowa
+Przyjaciół Żołnierza
+Sienkiewicza
+Sportowa
+Sudecka
+Szeroka
+Szkolna
+Szymrychowska
+Świerkowa
+Tkacka
+Torowa
+Wąska
+Węglowa
+Wiejska
+Wietrzna
+Wodna
+Wysoka
+Zakopiańska
+Zielona

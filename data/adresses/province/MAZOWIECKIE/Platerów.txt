@@ -1,0 +1,25 @@
+3 Maja
+Boczna
+Brzozowa
+Cerkiewna
+Cicha
+Dubianka
+Dworcowa
+Kościelna
+Krzywa
+Leśna
+Marynki
+Nowa
+Orzechowa
+Pocztowa
+Polna
+Prosta
+Rolnicza
+Siedlecka
+Słoneczna
+Sosnowa
+Spokojna
+Środkowa
+Wierzbowa
+Włościańska
+Zachodnia

@@ -1,0 +1,23 @@
+Adama Mickiewicza
+Boczna
+Dolna
+Fabryczna
+Henryka Pobożnego
+Ignacego Paderewskiego
+Krótka
+Leśna
+Marii Konopnickiej
+Nowa
+Ogrodowa
+Parkowa
+Podmiejska
+Polna
+Powiatowa
+Robotnicza
+Słoneczna
+Sportowa
+Stefana Żeromskiego
+Szeroka
+Tadeusza Kościuszki
+Wesoła
+Zielona

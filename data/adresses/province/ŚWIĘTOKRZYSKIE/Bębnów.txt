@@ -1,0 +1,16 @@
+Główna
+Kościelna
+Leśna
+Lipowa
+Ogrodowa
+Polna
+Południowa
+Północna
+Słoneczna
+Spokojna
+Strażacka
+Warszawska
+Wrzosowa
+Wschodnia
+Zachodnia
+Zielona

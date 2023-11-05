@@ -1,0 +1,257 @@
+1 Maja
+1 PLM Warszawa
+11 Listopada
+30 Lipca
+7 Pułku Ułanów Lubelskich
+Adama Asnyka
+Adama Mickiewicza
+Akacjowa
+Andrzeja Struga
+Armii Krajowej
+Arynowska
+Aureliusza Chróścielewskiego
+Bagnista
+Bankowa
+Batalionów Chłopskich
+Błonie
+Boczna
+Bohaterów Monte Cassino
+Bolesława Chrobrego
+Bolesława Limanowskiego
+Bolesława Prusa
+Braci Śniadeckich
+Bratnia
+Budowlana
+Bulwarna
+Chabrowa
+Chochołowska
+Cicha
+Cienista
+Dąbrówki
+Dębowa
+Dolna
+dr. Jana Huberta
+Dźwigowa
+Elizy Orzeszkowej
+Elwiro Michała Andriollego
+Emilii Plater
+Feliksa Rawskiego
+Florencja
+Franciszka Żwirki
+Fryderyka Chopina
+Gabriela Narutowicza
+Gdańska
+gen. Józefa Bema
+gen. Kazimierza Sosnkowskiego
+gen. Leopolda Okulickiego
+gen. Stanisława Maczka
+gen. Władysława Andersa
+gen. Władysława Sikorskiego
+Gnieźnieńska
+Górki
+Grabowa
+Graniczna
+Grzybowa
+Heleny Modrzejewskiej
+Henryka Sienkiewicza
+Henryka Wieniawskiego
+Hipolita Konopki
+Ignacego Daszyńskiego
+Ignacego Krasickiego
+Ignacego Paderewskiego
+Jagiellońska
+Jana Długosza
+Jana Heweliusza
+Jana III Sobieskiego
+Jana Kochanowskiego
+Jana Łupińskiego
+Jana Matejki
+Jana Pawła II
+Janka Paruzela
+Janusza Korczaka
+Janusza Kusocińskiego
+Jasna
+Jaśminowa
+Jerzego Skarżyńskiego
+Józefa Chełmońskiego
+Józefa Chłopickiego
+Józefa Mireckiego
+Józefa Piłsudskiego
+Józefa Sylwestrowicza
+Juliana Grobelnego
+Juliana Grzeszaka
+Juliana Tuwima
+Juliusza Słowackiego
+Karpacka
+Karpatczyków
+Kasztanowa
+Kaszubska
+Kazimierza III Wielkiego
+Klonowa
+Kolejowa
+Kołbielska
+Kołowa
+Konstantego Rudzkiego
+Konstytucji 3 Maja
+Kosmiczna
+Kościelna
+Kresowa
+Królewiecka
+Królowej Jadwigi
+Krótka
+ks. Stanisława Brzóski
+Kwiatowa
+Lawendowa
+Leśna
+Letniskowa
+Licealna
+Lipowa
+Litewska
+Ludowa
+Łąkowa
+Majątkowa
+Majowa
+Malinowa
+Mała
+Małopolska
+Marcina Borelowskiego
+Mariana Benki
+Mariana Langiewicza
+Marii Dąbrowskiej
+Marii Grochowskiej
+Marii Konopnickiej
+Mazowiecka
+Mazurska
+Michaliny Szczepankowskiej
+Mieczysława Ługowskiego
+Mieszka I
+Mikołaja Kopernika
+Mikołaja Reja
+Miła
+Miodowa
+Mleczarska
+Most Jana Himilsbacha
+Mrozowska
+Nadrzeczna
+Nowy Świat
+Obrońców Tobruku
+Obwodu Armii Krajowej "Mewa-Kamień"
+Ogrodowa
+Olsztyńska
+Osiedlowa
+Oskara Kolberga
+Park Dernałowiczów
+Parkowa
+Piaskowa
+Piasta
+Piękna
+Plac Dworcowy
+Plac Jana Kilińskiego
+Plac Lotników Polskich
+Plac Stary Rynek
+płk. Zygmunta Chmieleńskiego
+Polowa
+Pomorska
+por. Ludwika Wolańskiego
+por. Władysława Klimaszewskiego
+Powstańców Warszawy
+ppłk. Mariana Skrzyneckiego
+Przemysłowa
+Rodziny Łubieńskich
+Rodziny Popielów
+Rodziny Sażyńskich
+Romualda Traugutta
+Rondo Bitwy Warszawskiej 1920 r.
+Rondo Generała Józefa Hallera
+Rondo Haliny Chorobińskiej
+Rondo Jana Mizikowskiego
+Rondo Juliana Ceglińskiego
+Rondo Konstantego Laszczki
+Rondo Księdza Jana Sikory
+Rondo Księdza Jerzego Popiełuszki
+Rondo Księdza Józefa Dziąga
+Rondo Marka Nojszewskiego
+Rondo Michała Sławińskiego
+Rondo NSZZ "Solidarność"
+Rondo Porucznika Stanisława Maciejewskiego
+Rondo Rajmunda Giersza
+Rondo Romana Dmowskiego
+Rondo rotmistrza Witolda Pileckiego
+Rondo Sybiraków
+Rondo Zygmunta Glogera
+Rondo Żołnierzy Wyklętych
+Różana
+Sędomierska
+Siedlecka
+Siennicka
+Skwer 600-lecia
+Skwer Dawnych Motocykli
+Skwer Generała Zygmunta Piaseckiego
+Skwer Prezydenta Ryszarda Kaczorowskiego
+Skwer Władysława Bartoszewskiego
+Słoneczna
+Sosnowa
+Spacerowa
+Spokojna
+Sportowa
+Spółdzielcza
+Stanisława Mińskiego
+Stanisława Moniuszki
+Stanisława Staszica
+Stanisława Wigury
+Stanisława Wyspiańskiego
+Stanisławowska
+Stankowizna
+Stefana Batorego
+Stefana Czarnieckiego
+Stefana Kardynała Wyszyńskiego
+Stefana Okrzei
+Stefana Żeromskiego
+Sudecka
+Szarych Szeregów
+Szczecińska
+Szczepana Redy
+Szkolna
+Szpitalna
+Śląska
+Świętokrzyska
+Tadeusza Kościuszki
+Tadeusza Smoleńskiego
+Targowa
+Tartaczna
+Tatrzańska
+Topolowa
+Toruńska
+Urocza
+Walerego Wróblewskiego
+Warszawska
+Warszawskie Przedmieście
+Wenecka
+Wesoła
+Widok
+Wiejska
+Wielkiej Orkiestry Świątecznej Pomocy
+Wielkopolska
+Wierzbowa
+Wincentego Witosa
+Wiśniowa
+Władysława Broniewskiego
+Władysława Gucewicza
+Władysława Łokietka
+Władysława Reymonta
+Wrzosowa
+Wspólna
+Zachodnia
+Zacisze
+Zawiszy
+Zbigniewa Mirosza
+Zgoda
+Zielna
+Zielona
+Ziemowita
+Zofii Kalinowskiej
+Zofii Nałkowskiej
+Zuzanny Małaszczyckiej
+Zygmunta Kazikowskiego
+Zygmuntowska
+Żwirowa

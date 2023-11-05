@@ -1,0 +1,18 @@
+Bankowa
+Batalionów Chłopskich
+Leśna
+Myśliwska
+Nadrzeczna
+Ogrodowa
+Plac Białych Orłów
+Polna
+Południowa
+Północna
+Sanitariuszek
+Siedlecka
+Sosnowa
+Sportowa
+Stefana Skoczylasa
+Szkolna
+Tadeusza Kościuszki
+Wilanowska

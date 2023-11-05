@@ -1,0 +1,75 @@
+1 Maja
+10 Marca
+11 Listopada
+A. Mickiewicza
+Abrahama
+Aleja św. Jakuba
+Aleja św. Mikołaja
+Bałtycka
+Błękitna
+Bolesława Chrobrego
+Brzozowa
+Dojazdowa
+E. Plater
+Eugeniusza Kwiatkowskiego
+Generała Bema
+Genewska
+Grunwaldzka
+H. Sucharskiego
+Hieronima Derdowskiego
+Ignacego Paderewskiego
+Jachtowa
+Jagiellońska
+Jaśminowa
+Józefa Chełmońskiego
+Kościelna
+Krótka
+Kwiatowa
+Leonida Teligi
+Leśna
+Lęborska
+Łąkowa
+M. Reja
+Matejki
+Mieczysława Niedziałkowskiego
+Mieszka I
+Mikołaja Kopernika
+Miła
+Morska
+Nad Ujściem
+Nadmorska
+Nowęcińska
+Obrońców Westerplatte
+Ogrodowa
+Okrzei
+Olszewskiego
+Parkowa
+Piastów
+Piekarska
+Piotra Wysockiego
+Piwna
+Plac Dworcowy
+Pocztowa
+Pogodna
+Powstańców Warszawy
+Rąbka
+Rondo Ludzi Morza
+Rondo Praw Kobiet
+Sienkiewicza
+Słowińska
+Sosnowa
+Spokojna
+Sportowa
+Stefana Starzyńskiego
+Szkolna
+Tadeusza Kościuszki
+Topolowa
+Turystyczna
+Tysiąclecia
+Władysława Grabskiego
+Wojska Polskiego
+Wspólna
+Wybrzeże
+Zawiszy Czarnego
+Zielona
+Zygmunta Wróblewskiego

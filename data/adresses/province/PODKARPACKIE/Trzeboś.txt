@@ -1,0 +1,10 @@
+Dolna
+Dworzysko
+Górna
+Kościelna
+Księżycowa
+Leśna
+Mościny
+Podlas
+Sportowa
+Widokowa

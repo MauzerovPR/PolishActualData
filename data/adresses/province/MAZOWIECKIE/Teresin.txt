@@ -1,0 +1,44 @@
+1 Maja
+15 Sierpnia
+3 Maja
+Akacjowa
+Aleja ks. Druckiego-Lubeckiego
+Aleja XX-lecia
+Baśniowa
+Brata Cherubina Pawłowicza
+Dębowa
+Długa
+Działkowa
+Gajowa
+Graniczna
+Guzowska
+Kaska
+Kasztanowa
+Krótka
+Książęca
+Kwiatowa
+Lazurowa
+Lipowa
+Nadrzeczna
+Pocztowa
+Poprzeczna
+Przemysłowa
+Różana
+Rynkowa
+Skwer Niepodległości
+Słowikowa
+Spacerowa
+Sportowa
+Szkolna
+Szymanowska
+Świętokrzyska
+Teresińska
+Tęczowa
+Torowa
+Trakt św. Jana Pawła II
+Warszawska
+Wąska
+Wiśniowa
+Wrzosowa
+Załamana
+Zielona

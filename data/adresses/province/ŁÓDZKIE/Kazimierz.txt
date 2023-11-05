@@ -1,0 +1,42 @@
+3 Maja
+Aleksandrowska
+Aroniowa
+Brzozowa
+Bytnara
+Działkowa
+Hallera
+Kilińskiego
+Konwaliowa
+Kościuszki
+Krótka
+Krzywa
+Kwiatowa
+Leśna
+Letniskowa
+Malownicza
+Marii Konopnickiej
+Norwida
+Osiedlowa
+Paderewskiego
+Pogodna
+Polna
+Południowa
+Północna
+Promyka
+Przedszkolna
+Rekreacyjna
+Rzeczna
+Sienkiewicza
+Słoneczna
+Słowackiego
+Sosnowa
+Spacerowa
+Sportowa
+Szkolna
+św. Ledóchowskiej
+Wiejska
+Wiśniowa
+Wodna
+Wschodnia
+Wypoczynkowa
+Zachodnia

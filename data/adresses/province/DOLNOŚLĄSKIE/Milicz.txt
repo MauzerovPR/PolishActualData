@@ -1,0 +1,115 @@
+1 Maja
+11 Listopada
+Adama Mickiewicza
+Akacjowa
+Aleja Lipowa
+Aleja Niepodległości
+Aleja Piastów
+Aleja Spacerowa
+Aleja Strażacka
+Aleja Wodniaków
+Armii Krajowej
+Boczna
+Brzozowa
+Budowlana
+Bulwar św. Jana Pawła II
+Chabrowa
+Cicha
+Cmentarna
+Czereśniowa
+Dębowa
+Długa
+Dojazdowa
+Dworcowa
+Działkowa
+Eugenii Tracewskiej
+Fiołkowa
+Garncarska
+gen. Stefana Grota-Roweckiego
+Grunwaldzka
+Grzybowa
+Jarosława Dąbrowskiego
+Jasna
+Jaworowa
+Kamienna
+Kasztanowa
+Kasztelańska
+Kazimierza Pułaskiego
+Klonowa
+Kobiałka
+Kolejowa
+Kombatantów
+Konwaliowa
+Końcowa
+Kory Jackowskiej
+Kościelna
+Krotoszyńska
+Krótka
+Krucza
+Krzywa
+ks. Eugeniusza Waresiaka
+Kuźnicza
+Kwiatowa
+Lawendowa
+Leśna
+Lotnicza
+Lwowska
+Łabędzia
+Łąkowa
+Łowiecka
+Magazynowa
+Makowa
+marsz. Józefa Piłsudskiego
+Mikołaja Kopernika
+Miodowa
+Modrzewiowa
+Mostowa
+Nektarowa
+Nowowiejska
+Odrodzenia
+Ogrodowa
+Okrężna
+Osadnicza
+Osiedle
+Parkowa
+Piaskowa
+Polna
+Polska
+Poprzeczna
+Powstańców Wielkopolskich
+Poziomkowa
+Praw Kobiet
+Przemysłowa
+Pszczela
+Rawicka
+Rondo imienia Orląt Lwowskich
+Rynek
+Rzeczna
+Rzemieślnicza
+Składowa
+Skwer im. Stanisława Jacha
+Skwer Żołnierzy Wyklętych
+Słoneczna
+Spółdzielcza
+Stawna
+Strzelecka
+Sułowska
+Sycowska
+Szewska
+Świerkowa
+Tadeusza Kościuszki
+Topolowa
+Trzebnicka
+Wałowa
+Wesoła
+Wierzbowa
+Wincentego Witosa
+Wiśniowa
+Wodociągowa
+Wojciecha Korfantego
+Wojska Polskiego
+Wrocławska
+Zaciszna
+Zamkowa
+ZHP
+Zielona

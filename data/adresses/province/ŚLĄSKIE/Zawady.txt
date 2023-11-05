@@ -1,0 +1,25 @@
+Boczna
+Czereśniowa
+Częstochowska
+Dworcowa
+Gwiezdna
+Jasna
+Kolejowa
+Kornela Makuszyńskiego
+Kręta
+Krótka
+Kwiatowa
+Nadrzeczna
+Piwna
+Pogodna
+Południowa
+Rolnicza
+Sosnowa
+Spacerowa
+Spokojna
+Szkolna
+Turystyczna
+Wczasowa
+Wesoła
+Wypoczynkowa
+Zawadzka

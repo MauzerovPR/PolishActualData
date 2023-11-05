@@ -1,0 +1,98 @@
+1 Maja
+11 Listopada
+3 Maja
+Adama Asnyka
+Adama Mickiewicza
+Bielawki
+Bohaterów Czerwca 1956 r.
+Bolesława Leśmiana
+Bolesława Prusa
+Brzozowa
+Bukowa
+Cicha
+Cypriana Kamila Norwida
+Dojazdowa
+dr. Wł. Cholewińskiego
+dr. Wł. Franciszka Dłutka
+Dworcowa
+Elizy Orzeszkowej
+Garncarska
+Gdańska
+gen. Władysława Sikorskiego
+Gustawa Sommera
+Jana Brzechwy
+Jana Kilińskiego
+Jana Pawła II
+Józefa Piłsudskiego
+Juliana Tuwima
+Juliusza Słowackiego
+Karczówka
+Kępa
+Kolorowa
+Konstantego Ildefonsa Gałczyńskiego
+Kostrzał
+Koszarowa
+ks. Antoniego Podlesia
+ks. Cz. Lissowskiego
+ks. Czesława Chojeckiego
+Kwiatowa
+Lipnowska
+Lipowa
+Lisiny
+Łączna
+Malinowa
+Marii Konopnickiej
+Mikołaja Reja
+Miła
+Mleczarska
+Mławska
+Młyńska
+Nadrzeczna
+Nowa
+Nowe Osiedle
+Nowy Rynek
+Ogrodowa
+Osiedle Sportowe
+Park im. Marszałka Józefa Piłsudskiego
+PCK
+Piaski
+Podgórna
+Podmiejska
+Pogodna
+Polna
+Powstania Styczniowego
+Radosna
+Rondo Solidarności
+Rynek
+Rzeźnicza
+Sadowa
+Sienkiewicza
+Skwer 100 - lecia Odzyskania Niepodległości
+Skwer Św. Jana Chrzciciela
+Skwer Żołnierzy Wyklętych
+Słoneczna
+Spacerowa
+Spokojna
+Sportowa
+Stefana Żeromskiego
+Strażacka
+Tadeusza Kościuszki
+Toruńska
+Wacława Malanowskiego
+Warszawska
+Wesoła
+Wichrowa
+Wiejska
+Wilcza Łapa
+Willowa
+Wiśniowa
+Władysława Reymonta
+Wodna
+Wojska Polskiego
+Wójtostwo
+Wspólna
+Zacisze
+Zduńska
+Zielona
+Zofii Nałkowskiej
+Żytnia

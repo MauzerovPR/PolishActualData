@@ -1,0 +1,43 @@
+1 Maja
+11 Listopada
+3 Maja
+Betoniarzy
+Czereśniowa
+Elbląska
+Kajki
+Kościelna
+Krzywa
+Kwiatowa
+Limanowskiego
+Linki
+Łączna
+Mickiewicza
+Miodowa
+Morcinka
+Odrodzenia
+Ogrodowa
+Okrzei
+Osiedle im. Ignacego Krasickiego
+Osiedle im. Władysława Jagiełły
+Osiedle Jana Pawła II
+Pionierska
+Plac Kościuszki
+Plac Wolności
+Pogodna
+Porzeczkowa
+Promienna
+Przemysłowa
+Przytulna
+Reja
+Różana
+Słoneczna
+Słowackiego
+Spokojna
+Tadeusza Zawadzkiego "Zośki"
+Traugutta
+Westerplatte
+Wiśniowa
+Wojska Polskiego
+Zaciszna
+Żeromskiego
+Żurawia

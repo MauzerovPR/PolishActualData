@@ -1,0 +1,51 @@
+600 Lecia
+Akacjowa
+Anielewicza
+Armii Krajowej
+Chłodna
+Cicha
+Cmentarna
+Czerwona Góra
+Dębowa
+Dolna
+Generała Bema
+Górki
+Grottgera
+Grunwaldzka
+Jakubowskiego
+Kazimierza Wielkiego
+Kilińskiego
+Klonowa
+Kochanowskiego
+Kolejowa
+Kościelna
+Kościuszki
+Krótka
+Leszczynowa
+Mała
+Moniuszki
+Na Skarpie
+Na Stoku
+Ogrodowa
+Osiedle Biała Wyżna
+Parkowa
+Pocztowa
+Przedmieście
+Równie
+Rynek
+Rzeźnicka
+Słoneczna
+Sośnie Dolne
+Sośnie Górne
+Spokojna
+Strzylawki
+Szkolna
+Topolowa
+Turystyczna
+Wąska
+Węgierska
+Wiejska
+Wyspiańskiego
+Zacisze
+Zdrojowa
+Zielona

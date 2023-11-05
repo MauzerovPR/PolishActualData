@@ -1,0 +1,80 @@
+1 Maja
+11 Listopada
+Adama Mickiewicza
+Akacjowa
+Aleksandrowska
+Armii Krajowej
+Boczna
+Bolesława Prusa
+Brzozowa
+Bukowa
+Bursztynowa
+Ciepła
+Czysta
+Dębowa
+Fabryczna
+Fryderyka Chopina
+gen. Władysława Sikorskiego
+Grunwaldzka
+Handlowa
+Henryka Sienkiewicza
+Jana Sobieskiego
+Jana z Kolna
+Jesionowa
+Juliusza Słowackiego
+kard. Stefana Wyszyńskiego
+Kasztanowa
+Klonowa
+Kolejowa
+Kolonia Janowo
+Kolonia pod Rupinem
+Kolonia Wścieklice
+Kolonia Zabiele
+Konstytucji 3 Maja
+Kościelna
+Krótka
+Ks. J. L. Grajewskiego
+Księcia Janusza I
+Lipowa
+Łabno Duże
+Łabno Małe
+Łazienna
+Łąkowa
+Marii Dąbrowskiej
+Marii Konopnickiej
+marsz. Józefa Piłsudskiego
+Mikołaja Kopernika
+Ogrodowa
+Pastorczyk
+Pl. Wolności
+Polna
+Przemysłowa
+Rondo Jana z Kolna
+Sadowa
+Senatorska
+Składowa
+Słoneczna
+Sosnowa
+Sportowa
+Stanisława Krupki
+Stanisława Milewskiego
+Stanisława Staszica
+Stefana Okrzei
+Stefana Żeromskiego
+Strażacka
+Szkolna
+Szmaragdowa
+św. Floriana
+św. Jana Pawła II
+Świerkowa
+Tadeusza Kościuszki
+Targowa
+Teofila Kubraka
+Towarowa
+Wesoła
+Wincentego Witosa
+Wojska Polskiego
+Zacisze
+Zakole
+Zielona
+Żurawia

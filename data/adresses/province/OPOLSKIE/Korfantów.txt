@@ -1,0 +1,48 @@
+3 Maja
+Adama Mickiewicza
+Aleksandra Fredry
+Bolesława Prusa
+Cmentarna
+Cypriana Kamila Norwida
+Długa
+Dolna
+Działkowa
+Fabryczna
+Gabrieli Zapolskiej
+Grodzka
+Jana Kilińskiego
+Józefa Ignacego Kraszewskiego
+Juliusza Słowackiego
+Kościuszki
+Krótka
+Kwiatowa
+Lipowa
+Łąkowa
+Marii Dąbrowskiej
+Marii Konopnickiej
+Na Grobli
+Niemodlińska
+Nowa
+Nyska
+Ogrodowa
+Opolska
+Parkowa
+Piastowska
+Plac Wolności
+Poprzeczna
+Powstańców Śląskich
+Prudnicka
+Rynek
+Rzemieślnicza
+Sienkiewicza
+Spacerowa
+Stawowa
+Szkolna
+Targowa
+Ulianówka
+Władysława Reymonta
+Wyzwolenia
+Zielna
+Zygmunta Krasińskiego
+Zygmunta Rumla
+Żeromskiego

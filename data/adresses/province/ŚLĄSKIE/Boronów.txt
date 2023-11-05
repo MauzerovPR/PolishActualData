@@ -1,0 +1,45 @@
+3 Maja
+Boczna
+Chabrowa
+Cieszowska
+Częstochowska
+Dolna
+Dworcowa
+Grabińska
+Jaśminowa
+Koszęcińska
+Krótka
+Księdza Adamka
+Kwiatowa
+Leśna
+Ligonia
+Lompy
+Łąkowa
+Młyńska
+Morelowa
+Mostowa
+Nadrzeczna
+Niwska
+Nowa
+Ogrodowa
+Piaskowa
+Pogodna
+Polna
+Poprzeczna
+Powstańców Śląskich
+Poznańska
+Reymonta
+Sienkiewicza
+Słowackiego
+Smolna
+Smołki
+Sosnowa
+Sportowa
+Szkolna
+Tylna
+Wiśniowa
+Wojciecha Korfantego
+Wojska Polskiego
+Wolności
+Wyspiańskiego
+Zielona

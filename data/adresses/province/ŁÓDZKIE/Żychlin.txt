@@ -1,0 +1,59 @@
+1 Maja
+3 Maja
+Adama Mickiewicza
+Aleje Racławickie
+Aleksandra Orłowskiego
+Bartosza Głowackiego
+Bolesława Prusa
+Chabrowa
+Cicha
+Cmentarna
+Dobra
+Dobrzelińska
+Dolna
+Fabryczna
+Gabriela Narutowicza
+Graniczna
+Henryka Dąbrowskiego
+Henryka Sienkiewicza
+Ignacego Krasickiego
+inż. Zygmunta Okoniewskiego
+Jana Kilińskiego
+Jaśminowa
+Juliana Tuwima
+Juliusza Słowackiego
+Kolejowa
+Konwaliowa
+Krótka
+Księdza Ściegiennego
+Kwiatowa
+Ludwika Waryńskiego
+Łąkowa
+Łukasińskiego
+Mała
+Marii Konopnickiej
+Mikołaja Reja
+Młyńska
+Norberta Barlickiego
+Nowa
+Ogrodowa
+Osiedle Romualda Traugutta
+Plac 29 Listopada
+Plac Jana Pawła II
+Plac Wolności
+Polowa
+Pomorska
+Przeskok
+Romualda Traugutta
+Różana
+Sannicka
+Spacerowa
+Stefana Żeromskiego
+Śląska
+Tadeusza Kościuszki
+Wacława Blizińskiego
+Wiejska
+Wrzosowa
+Wspólna
+Zdrojowa
+Złota

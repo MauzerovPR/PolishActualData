@@ -1,0 +1,21 @@
+Boczna
+Brukowa
+Brzezinowa
+Dworska
+Głogowa
+Jaworowa
+Leśna
+Nowodworska
+Osiedle Palarzówka
+Prosta
+Równa
+Skalna
+Skośna
+Skrajna
+Sosnowa
+Strażacka
+Wąska
+Zabytkowa
+Zakole
+Zjazdowa
+Żywiecka

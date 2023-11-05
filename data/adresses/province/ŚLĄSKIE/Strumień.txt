@@ -1,0 +1,69 @@
+1 Maja
+Anny Bernd
+Azaliowa
+Brodeckiego
+Cicha
+Cieszyńska
+Cyprysowa
+Czarnoty
+Dębowa
+Dolna
+Dworcowa
+Graniczna
+Harcerska
+Jałowcowa
+Jarzębinowa
+Jemiołowa
+Jesienna
+Klonowa
+Kolejowa
+Końcowa
+Korfantego
+Kościelna
+Krótka
+Krzywa
+Księdza Brzuski
+Księdza Londzina
+Leśna
+Letnia
+Lipowa
+Łuczkiewicza
+Machny Ogrodzeńskiej
+Młyńska
+Mostowa
+Nowa
+Nowowiejskiego
+Ogrodowa
+Olszyna
+Orzechowa
+Osiedlowa
+Parkowa
+Pawłowicka
+Plac Świętego Krzyża
+Pocztowa
+Poddane
+Podwale
+Polna
+Powstańców Śląskich
+Promienna
+Pszczyńska
+Rynek
+Rzemieślnicza
+Skwer im. Świętej Barbary
+Słoneczna
+Sosnowa
+Spokojna
+Staromiejska
+Stawowa
+Świerkowa
+Tęczowa
+Topolowa
+Towarowa
+Wąska
+Wiązowa
+Wiosenna
+Wiśniowa
+Wspólna
+Zamkowa
+Zielona
+Zimowa

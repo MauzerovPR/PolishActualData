@@ -1,0 +1,70 @@
+1 Maja
+3 Maja
+Akacjowa
+Aleja im. Sybiraków
+Apteczna
+Armii Krajowej
+Bohaterów Wojska Polskiego
+Bolka I Świdnickiego
+Brzozowa
+Chabrowa
+Daglezjowa
+Dębowa
+Długa
+Dominialna
+Fabryczna
+Głogowska
+Górnicza
+Gwarków
+Jagodowa
+Jodłowa
+Kasztanowa
+Kolejowa
+Kolonialna
+Krótka
+Kwiatowa
+Leśna
+Leśny Zakątek
+Lipowa
+Lubińska
+Łąkowa
+Makowa
+Malinowa
+Odrodzenia
+Ogrodowa
+Parkowa
+Piotrowska
+Plac Wolności
+Pocztowa
+Polna
+Poprzeczna
+Ratuszowa
+Rondo Włodzimierza Chomickiego
+Rotmistrza Witolda Pileckiego
+Różana
+Rumiankowa
+Słoneczna
+Sosnowa
+Spacerowa
+Sportowa
+Stawowa
+Stefana Żeromskiego
+Szkolna
+Szprotawska
+Środkowa
+Świerkowa
+Tadeusza Kościuszki
+Targowa
+Topolowa
+Trzebnicka
+Tulipanowa
+Tylna
+Tymiankowa
+Wesoła
+Wiązowa
+Wrzosowa
+Wspólna
+Zacisze
+Zamkowa
+Zaułek Fabryczny
+Zielona

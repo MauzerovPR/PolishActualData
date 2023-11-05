@@ -1,0 +1,124 @@
+1 Armii
+1 Maja
+11 Listopada
+3 Maja
+8 Maja
+Akacjowa
+Asnyka
+Basztowa
+Bolesława Prusa
+Bronka Kozaka
+Ceglana
+Chodkiewicza
+Chopina
+Chrobrego
+Ciszowska
+Curie-Skłodowskiej
+Czesława Miłosza
+Dębowa
+Gdańska
+Gen. Bema
+gen. Władysława Andersa
+Generała Hallera
+Generała Władysława Sikorskiego
+Głogowska
+Henryka Wieniawskiego
+Henrykowska
+Ig. Paderewskiego
+Jagiełły
+Jana Kochanowskiego
+Jana Pawła II
+Janusza Kusocińskiego
+Jarosława Dąbrowskiego
+Jasna
+Jedności
+Kardynała Wyszyńskiego
+Kasprowicza
+Katedralna
+Kazimierza Wielkiego
+Kilińskiego
+Kolejowa
+Konopnickiej
+Kopernika
+Koszarowa
+Kościelna
+Kościuszki
+Kożuchowska
+Krasińskiego
+Kraszewskiego
+Królowej Jadwigi
+Krótka
+Kwiatowa
+Legnicka
+Lotników
+Lubelska
+Ludw. Waryńskiego
+Małomicka
+Marcina Kasprzaka
+Marszałka Józefa Piłsudskiego
+Mickiewicza
+Mieszka I
+Mikołaja Reja
+Młynarska
+Moniuszki
+Muzealna
+Na górze
+Niepodległości
+Odrodzenia
+Odrodzonego Wojska Polskiego
+Ogrodowa
+Orzeszkowej
+Osiedle Chrobrego
+Osiedle Mały Puszczyków
+Osiedle Piastowskie
+Osiedle Słoneczne
+Owocowa
+Pagórkowa
+Park Imienia Mariana Dziwińskiego
+Parkowa
+Partyzancka
+Piastowska
+Plac Ewangelicki
+Plac Komuny Paryskiej
+Plac Kościelny
+Plac Młodych
+Podgórna
+Pogodna
+Polna
+Poniatowskiego
+Poprzeczna
+Porzeczkowa
+Powstańców Śląskich
+Powstańców Warszawskich
+Poznańska
+Przejazdowa
+Przyjaciół
+Robotnicza
+Rolna
+Różana
+Rynek
+Sądowa
+Sienkiewicza
+Skwer Jana Pawła II
+Skwer Matuszkiewicza
+Słowackiego
+Sobieskiego
+Spokojna
+St. Wyspiańskiego
+Stefana Czarnieckiego
+Szpitalna
+Targowa
+Traugutta
+Waleriana Wróblewskiego
+Warszawska
+Waszyngtona
+Wesoła
+Wiejska
+Willowa
+Wincentego Witosa
+Władysława Łokietka
+Wojska Polskiego
+Wolności
+Zamkowa
+Żagańska
+Żeromskiego

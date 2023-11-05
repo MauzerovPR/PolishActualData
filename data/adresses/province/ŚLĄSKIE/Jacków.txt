@@ -1,0 +1,14 @@
+Brzozowa
+Dworcowa
+Główna
+Kasztanowa
+Leśna
+Łąkowa
+Ogrodowa
+Polna
+Spacerowa
+Strażacka
+Szkolna
+Wesoła
+Wspólna
+Zielona

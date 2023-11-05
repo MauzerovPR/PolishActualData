@@ -1,0 +1,198 @@
+3 Maja
+9 Maja
+Adama Asnyka
+Adama Bienia
+Adama Mickiewicza
+Agrestowa
+Akacjowa
+Al. Wojska Polskiego
+Aleja Jana Pawła II
+Aleksandra Drwęckiego
+Armii Krajowej
+Azaliowa
+Baranowska
+Berka Joselewicza
+bł. Marii Teresy Kowalskiej kapucynki
+Bolesława Prusa
+Bronisława Matuszewskiego
+Brzoskwiniowa
+Brzozowa
+Bukowa
+Bukszpanowa
+Chabrowa
+Cicha
+Ciechanowska
+Cisowa
+Cypriana Kamila Norwida
+Czeladnicza
+Czesława Miłosza
+Dębowa
+Długa
+Dobra
+Dworska
+Elizy Orzeszkowej
+Gabriela Narutowicza
+Gdańska
+Glinki
+Gołymińska
+Handlowa
+Henryka Sienkiewicza
+Inżynierska
+Jabłoniowa
+Jacka Malczewskiego
+Jałowcowa
+Jana Brzechwy
+Jana Kilińskiego
+Jana Kochanowskiego
+Jana Matejki
+Jarosława Dąbrowskiego
+Jarosława Iwaszkiewicza
+Jasna
+Jaśminowa
+Jaworowa
+Jesienna
+Jesionowa
+Józefa Chełmońskiego
+Juliana Tuwima
+Juliusza Słowackiego
+Kacza
+Kalinowa
+Kardynała Stefana Wyszyńskiego
+Kąpielowa
+Klonowa
+Kolejowa
+Konstantego Ildefonsa Gałczyńskiego
+Konstantego Pukiańca
+Kościelna
+kpt. pil. Kazimierza Dudzińskiego
+Królewiecka
+Królowej Jadwigi
+Krótka
+Krzysztofa Kamila Baczyńskiego
+Krzywa
+ks. Jana Twardowskiego
+ks. Józefa Piekuta
+ks. Piotra Skargi
+ks. Piotra Ściegiennego
+Księcia Janusza
+Kurpiowska
+Kwiatowa
+Lawendowa
+Leszczynowa
+Leszno
+Lipowa
+Lotników
+Ławnicza
+Łąkowa
+Magnolii
+Makowska
+Malinowa
+Marii Dąbrowskiej
+Marii Konopnickiej
+Marii Skłodowskiej-Curie
+Marszałka Józefa Piłsudskiego
+Mazowiecka
+Medyczna
+Michała Obojskiego
+Mikołaja Kopernika
+Mikołaja Reja
+Miła
+Miodowa
+Mirowska
+Młodych
+Mokra
+Morelowa
+Mostowa
+Nadrzeczna
+Nowa
+Nowowarszawska
+Obrońców Westerplatte
+Ogrodowa
+Ojca Bernarda Kryszkiewicza
+Okopowa
+Orlika
+Osiedlowa
+Ostrołęcka
+Oszkobłok
+Park Miejski im. Stefana Cieleckiego ps. "Orlik"
+Pawła Bronisława Królickiego
+Piaski
+Pielgrzymkowa
+Piękna
+Pogodna
+Polna
+Poziomkowa
+Prosta
+Przasnyskich Medyków
+Przechodnia
+Przemysłowa
+Przyjemna
+Pstra
+Pszeniczna
+Rolnicza
+Romana Hoppe
+Rondo Rzemieślników Przasnyskich
+Rostkowska
+Rowerowa
+Różana
+Rubinowa
+Ruda
+Rumiankowa
+Rycerska
+Rynek
+Rzemieślnicza
+Sadowa
+Sienna
+Skwer Pasjonistów Męczenników Obozu Koncentracyjnego w Działdowie
+Słoneczna
+Sosnowa
+Spacerowa
+Spokojna
+Sportowa
+Spółdzielcza
+Stanisława Chełchowskiego
+Stanisława Ignacego Witkiewicza
+Stanisława Jelińskiego
+Stanisława Ostoja-Kotkowskiego
+Stawki
+Stefana Kisielewskiego
+Stefana Starzyńskiego
+Stefana Żeromskiego
+Strażacka
+Szkolna
+Szosa Ciechanowska
+Szpitalna
+św. Floriana
+św. Krzysztofa
+św. Stanisława Kostki
+św. Wojciecha
+Świerczewo
+Świerkowa
+Świętej Kingi
+Tadeusza Kościuszki
+Targowa
+Tęczowa
+Tylna
+Warszawska
+Wąska
+Wiejska
+Willowa
+Wincentego Witosa
+Wiosenna
+Wiśniowa
+Witolda Pileckiego
+Władysława Broniewskiego
+Władysława Reymonta
+Władysława Sikorskiego
+Wojciecha Kossaka
+Wojskowa
+Wrzosowa
+Zaciszna
+Zamkowa
+Zawodzie
+Zduńska
+Zielona
+Zygmunta Młot-Przepałkowskiego
+Żniwna
+Żwirki i Wigury
+Żytnia

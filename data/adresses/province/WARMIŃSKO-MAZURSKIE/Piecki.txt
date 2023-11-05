@@ -1,0 +1,28 @@
+1 Maja
+22 Stycznia
+Administracyjna
+Agrestowa
+Długa
+Firmowa
+Jesionowa
+Klonowa
+Krótka
+Krzywa
+Leśna
+Lipowa
+Łąkowa
+Malinowa
+Nowa
+Osiedle Lawendowe
+Plac ks. Jana Twardowskiego
+Polna
+Przemysłowa
+Rolna
+Spacerowa
+Szewska
+Świerkowa
+Tartaczna
+Topolowa
+Wiśniowa
+Wolności
+Zwycięstwa

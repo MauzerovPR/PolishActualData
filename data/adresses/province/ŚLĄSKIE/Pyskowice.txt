@@ -1,0 +1,153 @@
+Akacjowa
+Aleja 1 Maja
+Aleja Jana Pawła II
+Anny Jagiellonki
+Armii Krajowej
+Astrów
+Bolesława Chrobrego
+Braci Pisko
+Brzozowa
+Bytomska
+Cicha
+Cmentarna
+Czapli
+Czechowicka
+Czeremchy
+Czereśniowa
+Czerwionka
+Czyżyków
+Dąbrowskiego
+Dobrawy
+Dojazdowa
+Drzymały
+Drzymały Boczna
+Dworcowa
+Działkowa
+gen. Władysława Sikorskiego
+Gliwicka
+Gołębia
+Górnicza
+Hutnicza
+Ignacego Paderewskiego
+Jana III Sobieskiego
+Jaśkowicka
+Jaworowa
+Jesionowa
+Józefa Wieczorka
+kard. Stefana Wyszyńskiego
+Karola Miarki
+Kasztanowa
+Kazimierza Wielkiego
+Klonowa
+Kochanowskiego
+Kolejowa
+Kolonia Pyskowicka
+Konopnickiej
+Kopernika
+Kormoranów
+Kosów
+Kościelna
+Kościuszki
+Krokusów
+Królowej Bony
+Królowej Jadwigi
+Królowej Marysieńki
+Krótka
+Księdza Bończyka
+Księdza Johannesa Chrząszcza
+Kwiatowa
+Leśna
+Ligonia
+Lipowa
+Lokalna
+Lompy
+Magazynowa
+Magnolii
+Malinowa
+Matejki
+Matejki Boczna
+Mewy
+Mickiewicza
+Mieszka I
+Młyńska
+Moniuszki
+Morelowa
+Mozarta
+Na Grobli
+Nad Kanałem
+Nad Łąkami
+Nad Wodą
+Nasienna
+Nowa
+Ogrodowa
+Okonia
+Orzechowa
+Orzeszkowej
+Osiedlowa
+Oświęcimska
+Parkowa
+Piaskowa
+Plac Józefa Piłsudskiego
+Plac Kard. Stefana Wyszyńskiego
+Plac Karola Miarki
+Plac Kopernika
+Plac Poniatowskiego
+Plac Żwirki i Wigury
+Platanowa
+Pliszki
+Pod Stadionem
+Poddębie
+Polna
+Poniatowskiego
+Powstańców Śląskich
+Poziomkowa
+Poznańska
+Przepiórki
+Ptasia
+Pustułki
+Różana
+Rynek
+Rzeczna
+Sienkiewicza
+Sikorki
+Skowronków
+Słoneczna
+Słowackiego
+Słowików
+Sosnowa
+Sowia
+Sójki
+Stara
+Stefana Batorego
+Strzelców Bytomskich
+Szczęść Boże
+Szkolna
+Szopena
+Szopena Boczna
+Szpitalna
+Śluza
+Świerkowa
+Targowa
+Toszecka
+Traugutta
+Tylna
+Wąska
+Wędkarzy
+Węgorza
+Wiejska
+Wielowiejska
+Wierzbowa
+Wiktorii
+Wiśniowa
+Władysława Jagiełły
+Władysława Łokietka
+Wojska Polskiego
+Wolności
+Wrzosowa
+Wyzwolenia
+Wyzwolenia Boczna
+Zaolszany
+Zielona
+Zygmunta Augusta
+Zygmunta Starego
+Żużlowa

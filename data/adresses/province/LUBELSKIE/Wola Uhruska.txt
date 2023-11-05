@@ -1,0 +1,36 @@
+1 Maja
+Aleja Odrodzenia
+Boczna
+Brzozowa
+Chełmska
+Cicha
+Dolna
+Dworcowa
+Gimnazjalna
+Górna
+Jasna
+Klonowa
+Kolejowa
+Krótka
+Krzywa
+Leśna
+Nadbużańska
+Ogrodowa
+Orzechowa
+Parkowa
+Piaskowa
+Polna
+Przelotowa
+Słoneczna
+Sosnowa
+Spacerowa
+Spokojna
+Sportowa
+Szkolna
+Turystyczna
+Widokowa
+Wiosenna
+Zacisze
+Zaułek
+Zielona
+Źródlana

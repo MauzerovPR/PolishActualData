@@ -1,0 +1,61 @@
+Akacjowa
+Azaliowa
+Brzimowa
+Brzozowa
+Cicha
+Cyprysowa
+Długa
+Dolny Bór
+Dworska
+Głogowa
+Górnioki
+Graniczna
+Gromadzka
+Jarzębinowa
+Jasna
+Jaśminowa
+Jaworowa
+Jerzego Tomanka
+Kalinowa
+Komunalna
+Kowalska
+Krótka
+Księdza Antoniego Langera
+Księdza Henryka Sobeckiego
+Landecka
+Leguś
+Łagodna
+Łączna
+Mała
+Marii Wardas
+Mostowa
+Myśliwska
+Na Łomy
+Nad Bajerką
+Nad Potokiem
+Owocowa
+Pod Dębiną
+Pogodna
+Porębisko
+Przemysłowa
+Przysiółek
+Pszenna
+Rolna
+Roztropicka
+Rzemieślnicza
+Sarnia
+Siewna
+Skoczowska
+Skowronkowa
+Sołecka
+Spacerowa
+Stawowa
+Szeroka
+Uchylany
+Widokowa
+Winogradzka
+Wodna
+Wrzosowa
+Wygon
+Zaułek
+Zielna

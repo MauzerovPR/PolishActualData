@@ -1,0 +1,41 @@
+3 Maja
+9 Maja
+Akademicka
+Brzozowa
+Cegielniana
+Chopina
+Cisowa
+Dworcowa
+Elewator
+Jana Pawła II
+Klonowa
+Kolejowa
+Kopernika
+Krakowska
+Kwiatowa
+Leśna
+Lipowa
+Mickiewicza
+Moniuszki
+Ogrodowa
+Paderewskiego
+Polna
+Południowa
+Poprzeczna
+Północna
+Projektowana
+Przejazdowa
+Słoneczna
+Słowackiego
+Sosnowa
+Strażacka
+Szkolna
+Targowa
+Tuwima
+Wiśniowa
+Wojska Polskiego
+Wschodnia
+Zachodnia
+Zakątna
+Zielona
+Żeromskiego

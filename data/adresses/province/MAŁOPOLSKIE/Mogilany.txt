@@ -1,0 +1,56 @@
+Akacjowa
+Brzozowa
+Bukowa
+Cegielniana
+Celiny
+Cicha
+Dębowa
+Działy
+Górska
+Grodzka
+Jaśminowa
+Jaworowa
+Klonowa
+Kolorowa
+Krakowska
+Krótka
+Ks. Józefa Mazurka
+Kwiatowa
+Leszczynowa
+Leszka Białego
+Leśna
+Lipowa
+Łobzowska
+Magnoliowa
+Markoszów
+Mogilańska
+Myślenicka
+Nowa
+Ogrodowa
+Osiedlowa
+Oskara Kolberga
+Parkowa
+Parkowe Wzgórze
+Podedworze
+Podgórska
+Południowa
+Rynek
+Rzemieślnicza
+Rzymska
+Skawińska
+Skrzyszów
+Słoneczna
+Słowiańska
+Spacerowa
+Spokojna
+Sportowa
+Stroma
+Szkolna
+Św. Bartłomieja Apostoła
+Świątnicka
+Wesoła
+Widokowa
+Wschodnia
+Zagórska
+Zakopiańska
+Żary

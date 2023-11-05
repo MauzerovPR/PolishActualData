@@ -1,0 +1,47 @@
+1 Maja
+11 Listopada
+Adama Mickiewicza
+Akacjowa
+Brzozowa
+Cisowa
+Dębowa
+Dr Edwarda Rittlera
+Elektryczna
+Emilii Plater
+Głowackiego
+Grodzka
+Jerzego Grodzińskiego
+Jeziorna
+Jodłowa
+Józefa Piłsudskiego
+Juliusza Słowackiego
+Kasztanowa
+Klonowa
+Konarskiego
+Krzywa
+Leśna
+Lipowa
+Łączna
+Łąkowa
+Marii Konopnickiej
+Młynarska
+Niecała
+Nowa
+Ogrodowa
+Parkowa
+Plac Dominikański
+Plac Świętej Agaty
+Pogodna
+Powstańców Sejneńskich
+Projektowana III
+Przyrzeczna
+Strażacka
+Szkolna
+Targowa
+Topolowa
+Wierzbowa
+Wileńska
+Władysława Broniewskiego
+Wojska Polskiego
+Zawadzkiego
+Żwirki i Wigury

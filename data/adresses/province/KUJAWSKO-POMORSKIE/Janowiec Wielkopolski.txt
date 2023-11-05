@@ -1,0 +1,53 @@
+3 Maja
+8 Marca
+Adama Mickiewicza
+Bielawska
+Brudzyńska
+Brzozowa
+Dębowa
+Dworcowa
+Działkowa
+Elizy Orzeszkowej
+Gnieźnieńska
+Ignacego Krasickiego
+Juliusza Słowackiego
+Kazimierza Pułaskiego
+Klemensa Janickiego
+Kościuszki
+Kręta
+Krótka
+Księdza Mariana Skrzypczaka
+Kwiatowa
+Leśna
+Łąkowa
+Marii Konopnickiej
+Młyńska
+Nowa
+Obrońców Kłecka
+Ogrodowa
+Osiedlowa
+Pałucka
+Parkowa
+Parterowa
+Plac Wolności
+Plonowa
+Pocztowa
+Podgórna
+Podmiejska
+Polna
+Południowa
+Powstańców Wielkopolskich
+Półwiejska
+Rolnicza
+Sportowa
+Spółdzielcza
+Stanisława Staszica
+Strzelecka
+Szeroka
+Szkolna
+Śniadeckich
+Świerkowa
+Towarowa
+Tysiąclecia
+Waleriana Daniela
+Zielona

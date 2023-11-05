@@ -1,0 +1,45 @@
+Akacjowa
+Brzoskwiniowa
+Brzozowa
+Chabrowa
+Cicha
+Człuchowska
+Dereniowa
+Dębowa
+Dworcowa
+Jabłoniowa
+Jagodowa
+Jeziorna
+Jeżynowa
+Kasztanowa
+Krokusowa
+Krótka
+Kwiatów Polnych
+Leśna
+Letniskowa
+Miodowa
+Młyńska
+Modrzewiowa
+Morelowa
+Osiedle im. Bronisława Juźkowa
+Osiedle Południe
+Osiedle Północ
+Parkowa
+Pastelowa
+Polna
+Porzeczkowa
+Rzeczenicka
+Słoneczna
+Spacerowa
+Spokojna
+Staroszkolna
+Szkolna
+Średnia
+Świerkowa
+Turystyczna
+Wczasowa
+Wiśniowa
+Wrzosowa
+Wypoczynkowa
+Zbożowa
+Zielona Dolina

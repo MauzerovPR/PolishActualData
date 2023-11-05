@@ -1,0 +1,33 @@
+Basztowa
+Błotna
+Braniewska
+Dworcowa
+Elbląska
+Jaśminowa
+Kapelańska
+Katedralna
+Kolonia Robotnicza
+Kopernika
+Kościelna
+Krasickiego
+Krzywa
+Kwiatowa
+Leśna
+Mickiewicza
+Młynarska
+Nadbrzeżna
+Ogrodowa
+Osiedle Słoneczne
+Ottona Ślizienia
+Parkowa
+Pocztowa
+Polna
+Portowa
+Rybacka
+Rynek
+Sadowa
+Sanatoryjna
+Stara
+Szkolna
+ZHP
+Zielona

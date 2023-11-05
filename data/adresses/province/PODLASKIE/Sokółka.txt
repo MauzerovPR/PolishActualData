@@ -1,0 +1,161 @@
+1 Maja
+11 Listopada
+3 Maja
+Adama Asnyka
+Adama Mickiewicza
+Adolfa Sawickiego
+Agnieszki Osieckiej
+Akacjowa
+Aleja ks. dr Dariusza Sańko
+Arkadego Fiedlera
+Armii Krajowej
+B. Prusa
+Bartosza Głowackiego
+Białostocka
+Bohaterów Monte Cassino
+Bolesława Chrobrego
+C. K. Norwida
+Cicha
+Ciepła
+Czesława Niemena
+Dolna
+dr Antoniego i Janiny Docha
+Drzewna
+Dywizjonu 303
+Działkowa
+Elizy Orzeszkowej
+Emilii Plater
+Fabryczna
+gen. Franciszka Kleeberga
+gen. Jana Henryka Dąbrowskiego
+gen. Józefa Hallera
+gen. Walerego Wróblewskiego
+gen. Władysława Sikorskiego
+Gęsia
+Górna
+Grodzieńska
+H. Sienkiewicza
+Hugona Kołłątaja
+I. Mościckiego
+Icchoka Malmeda
+Ignacego Krasickiego
+Jana Matejki
+Jana Pawła II
+Jana Tarasiewicza
+Janusza Korczaka
+Jasna
+Joachima Lelewela
+Jodłowa
+Juliana Tuwima
+Juliusza Słowackiego
+K. I. Gałczyńskiego
+K. K. Baczyńskiego
+kard. Stefana Wyszyńskiego
+Kasztanowa
+Kazimierza Komara
+Kazimierza Lewickiego
+Klonowa
+Kolejowa
+kpt. Alojzego Repuchy
+kpt. Józefa Kłopotowskiego
+Krecia
+Kresowa
+Króla Zygmunta Starego
+Królowej Bony
+Krótka
+Krucza
+Kryńska
+Krzysztofa Jakuba Putry
+ks. Jerzego Popiełuszki
+ks. Piotra Ściegiennego
+Kwiatowa
+Leśna
+Letnia
+Lipowa
+Lniana
+Lotników Lewoniewskich
+Ludwika Zamenhofa
+Łąkowa
+Magnoliowa
+Majowa
+Mała
+Mariańska
+Marii Konopnickiej
+Marii Skłodowskiej-Curie
+Marka Grechuty
+marsz. Józefa Piłsudskiego
+Miejska
+Mieszka I
+Mikołaja Kopernika
+Mikołaja Reja
+Miła
+mjr. Henryka Dobrzańskiego "Hubala"
+Modrzewiowa
+Nadrzeczna
+Norberta Barlickiego
+Nowa
+Ofiar Obławy Augustowskiej
+Ogrodowa
+Os. Buchwałowo
+Os. Centrum
+Os. Zielone
+Piaskowa
+Piękna
+Pl. Jana Kilińskiego
+Pl. Kościuszki
+Pl. Szkolny
+Pocztowa
+Pogodna
+Polna
+Poprzeczna
+Porucznika Ryszarda Pawłowskiego
+Północna
+Przemysłowa
+Ptasia
+Romualda Traugutta
+Rondo Solidarności
+Roski Małe
+Rzeźbiarza Piotra Szałkowskiego
+Sienna
+Skwer Księdza Dziekana Tadeusza Kalinowskiego
+Skwer Porucznika Władysława Borysewicza
+Słoneczna
+Sosnowa
+Spokojna
+Sportowa
+St. Mikołajczyka
+St. Skarżyńskiego
+Stanisława Wyspiańskiego
+Stawowa
+Stefana Batorego
+Stefana Żeromskiego
+Szkolna
+Szpitalna
+Świerkowa
+Targowa
+Tęczowa
+Torowa
+Turystyczna
+Upalna
+W. Reymonta
+Warszawska
+Wasilkowska
+Wąska
+Wesoła
+Wierzbowa
+Wincentego Witosa
+Wiosenna
+Wiśniowa
+Władysława Broniewskiego
+Władysława Łokietka
+Wodna
+Wojska Polskiego
+Wschodnia
+Wspólna
+Z. Nałkowskiej
+Zabrodzie
+Zacisze
+Zdrojowa
+Zimowa
+Żwirki i Wigury
+Żytnia

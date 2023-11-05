@@ -1,0 +1,85 @@
+1 Maja
+1 Sierpnia
+Adama Asnyka
+Adama Mickiewicza
+Błękitna
+Cypriana Kamila Norwida
+Floriańska
+Fryderyka Chopina
+Górna
+Henryka Siemiradzkiego
+Henryka Sienkiewicza
+Ignacego Paderewskiego
+Jana Kochanowskiego
+Jana Pawła II
+Józefa Żerebeckiego
+Juliana Tuwima
+Juliusza Słowackiego
+Jurija Gagarina
+Kasztanowa
+Kłodzka
+Kolejowa
+Kolonia
+Kosmiczna
+Kościelna
+Krakowska
+Krótka
+Księdza Prałata Stefana Smotera
+Kupiecka
+Kwiatowa
+Lotników
+Ludowa
+Ludwika Zamenhofa
+Mały Rynek
+Marii Konopnickiej
+Międzyleśna
+Mikołaja Kopernika
+Miła
+Miodowa
+Młodzieżowa
+Młynarska
+Modrzewiowa
+Nadbrzeżna
+Nowowiejska
+Odrowąża
+Ogrodowa
+Orężna
+Osiedle Kolorowe
+Osiedle Szkolne
+Osiedlowa
+Plac Marii Skłodowskiej-Curie
+Plac Szpitalny
+Plac Tadeusza Kościuszki
+Plac Wolności
+Podmiejska
+Polna
+Przyjaciół
+Robotnicza
+Rycerska
+Senatorska
+Sienna
+skwer Różany
+Słoneczna
+Słowiańska
+Spacerowa
+Spadzista
+Stanisława Moniuszki
+Starobystrzycka
+Stefana Okrzei
+Stefanii Sempołowskiej
+Strażacka
+Sudecka
+Sybiraków
+Środkowa
+Tysiąclecia Państwa Polskiego
+Unii Lubelskiej
+Wesoła
+Widokowa
+Willowa
+Wiosenna
+Władysława Broniewskiego
+Władysława Orkana
+Wojska Polskiego
+Zajęcza
+Zgody
+Zielna

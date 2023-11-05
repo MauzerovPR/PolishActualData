@@ -1,0 +1,38 @@
+Biała
+Brzegowa
+Brzozowa
+Dębowa
+Długa
+Graniczna
+Jana III Sobieskiego
+Jana Pawła II
+Jutrzenki
+Krakowska
+Kręta
+Krótka
+Księdza Kani
+Kwiatowa
+Nadwiślańska
+Ogrodowa
+Okrężna
+Oświęcimska
+Parkowa
+Piwna
+Sadowa
+Sienna
+Słoneczna
+Spacerowa
+Spadzista
+Spokojna
+Sportowa
+Stadionowa
+Starowiejska
+Stroma
+Szkolna
+Tęczowa
+Wiejska
+Wierzbowa
+Wspólna
+Zachodnia
+Zielona
+Złocista

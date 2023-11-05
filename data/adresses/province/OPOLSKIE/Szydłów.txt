@@ -1,0 +1,12 @@
+Boczna
+Brzozowa
+Dębowa
+Fabryczna
+Kolejowa
+Kościelna
+Kwiatowa
+Leśna
+Opolska
+Polna
+Sosnowa
+Sportowa

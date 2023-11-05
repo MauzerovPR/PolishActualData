@@ -1,0 +1,9 @@
+Boczna
+Cicha
+Główna
+Leśna
+Oleśnicka
+Pocztowa
+Polna
+Szkolna
+Wiśniowa

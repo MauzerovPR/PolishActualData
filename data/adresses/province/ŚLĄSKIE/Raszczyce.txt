@@ -1,0 +1,14 @@
+Górna
+Krótka
+Łąkowa
+Polna
+Poprzeczna
+Raciborska
+Robotnicza
+Rudzka
+Rybnicka
+Sobieskiego
+Sportowa
+Szkolna
+Wąska
+Wiejska

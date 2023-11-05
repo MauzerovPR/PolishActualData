@@ -1,0 +1,64 @@
+1 Maja
+Adama Asnyka
+Adama Mickiewicza
+Akacjowa
+Bolesława Chrobrego
+Bolesławiecka
+Brzozowa
+Cicha
+Cypriana Kamila Norwida
+Fabryczna
+Fryderyka Chopina
+Garncarska
+Górników
+Grabowa
+Henryka Brodatego
+Henryka Sienkiewicza
+Ignacego Jana Paderewskiego
+Jana Heweliusza
+Janusza Kusocińskiego
+Jaworowa
+Jodłowa
+Juliusza Słowackiego
+Kamienna
+Kaolinowa
+Karola Szymanowskiego
+Klasztorna
+Kolejowa
+Kościelna
+Krótka
+Kwiatowa
+Leśna
+Lipowa
+Lubańska
+Łąkowa
+Łużycka
+Mieczysławy Ćwiklińskiej
+Mikołaja Kopernika
+Miodowa
+Młyńska
+Morelowa
+Nowogrodzka
+Ogrodowa
+Ołdrzychowska
+Osikowa
+Parkowa
+Podleśna
+Polna
+Rajmunda Wróblewskiego
+Robotnicza
+Różana
+Rynek
+Sosnowa
+Stanisława Chomontowicza
+Stanisława Moniuszki
+Strzelecka
+Szkolna
+Szpitalna
+Tadeusza Kościuszki
+Wąska
+Wesoła
+Wiśniowa
+Witolda Lutosławskiego
+Wrzosowa
+Zielona

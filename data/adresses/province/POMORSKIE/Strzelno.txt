@@ -1,0 +1,32 @@
+3 Maja
+Bałtycka
+Cicha
+Dębowa
+Działkowa
+Górna
+Kasztanowa
+Kaszubska
+Kościelna
+Kręta
+Krótka
+Łąkowa
+Łyśniewska
+Mała
+Miodowa
+Morska
+Nowa
+Ogrodowa
+Parkowa
+Polna
+Pomorska
+Rolnicza
+Słoneczna
+Sportowa
+Szkolna
+Wąska
+Wesoła
+Wiejska
+Wyzwolenia 1920
+Zielona
+Złota
+Żytnia

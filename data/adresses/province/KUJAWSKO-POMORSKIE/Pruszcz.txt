@@ -1,0 +1,14 @@
+Bagieniecka
+Dworcowa
+Kościelna
+Ogrodowa
+Okrężna
+Poboczna
+Pocztowa
+Polna
+Półkole
+Szkolna
+Tucholska
+Wiejska
+Wybudowanie
+Zielona

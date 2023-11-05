@@ -1,0 +1,43 @@
+3-go Maja
+Akacjowa
+Chmielowa
+Cicha
+Czworaki
+Dojazdowa
+Dolna
+Familijna
+Górna
+Jana Pawła II
+Jarosławska
+Józefa Piłsudskiego
+Klonowa
+Kolejowa
+Kręta
+Krótka
+Kwiatowa
+Lipowa
+Majowa
+Parkowa
+Pastwiskowa
+Polna
+Poprzeczna
+Promowa
+Przemyska
+Rolnicza
+Sanowa
+Słoneczna
+Spokojna
+Sportowa
+Strażacka
+św. Antoniego
+św. Floriana
+Topolowa
+Wąska
+Wierzbowa
+Wodna
+Wspólna
+Zaciszna
+Zagrodowa
+Zamkowa
+Zielona
+Żwirowa

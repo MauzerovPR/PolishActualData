@@ -1,0 +1,11 @@
+Boczna
+Grzybowa
+Jurajska
+Kamionkowa
+Leśna
+Polna
+Sadowa
+Skalna
+Stawowa
+Strażacka
+Wiejska

@@ -1,0 +1,33 @@
+3-go Maja
+Adama Mickiewicza
+Boczna
+Cmentarna
+Długa
+Dworzec PKP
+Górnośląska
+Jagodowa
+Jana Kilińskiego
+Jana Matejki
+Janusza Kuliga
+Juliusza Słowackiego
+Kardynała Stefana Wyszyńskiego
+Kolonia Górna
+Królowej Jadwigi
+Kwiatowa
+Marii Konopnickiej
+Nowa Kolonia
+Piastowska
+Różana
+Samorządowa
+Sowia
+Sowiogórska
+Srebrna
+Stanisława Wyspiańskiego
+Stefana Żeromskiego
+Szkolna
+Tadeusza Kościuszki
+Warszawska
+Wiejska
+Władysława Łokietka
+Wzgórze Wawel
+Zielone Wzgórze

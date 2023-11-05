@@ -1,0 +1,62 @@
+Akacjowa
+Azaliowa
+Botaniczna
+Brzozowa
+Bukowa
+Cicha
+Dębowa
+Długa
+Dworcowa
+Grafitowa
+Hortensjowa
+Jabłoniowa
+Jagodowa
+Jałowcowa
+Jarzębinowa
+Jeziorna
+Kamienna
+Kasztanowa
+Kasztelańska
+Kaszubska
+Kościelna
+Krótka
+Lipowa
+Magnoliowa
+Młyńska
+Modrzewiowa
+Na Wzgórzu
+Nad Stawem
+Nowe Osiedle
+Objazdowa
+Ogniskowa
+Osiedle Leśne Zacisze
+Osiedle Zamkowisko
+Partyzancka
+Pogodna
+Polna
+Porucznika Józefa Dambka
+Poziomkowa
+Prosta
+Przylesie
+Rekreacyjna
+Różana
+Rzemieślnicza
+Sambora II
+Sikorska
+Słoneczna
+Słoneczny Stok
+Sosnowa
+Spacerowa
+Spokojna
+Sportowa
+Szmaragdowa
+Św. Antoniego
+Świerkowa
+Wczasowa
+Wichrowe Wzgórze
+Wrzosowa
+Wspólna
+Zaciszna
+Zakole
+Zielona
+Żurawiowa

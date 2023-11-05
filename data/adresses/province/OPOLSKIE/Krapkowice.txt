@@ -1,0 +1,166 @@
+1 Maja
+3 Maja
+Aleja Burmistrza Adolfa Barona
+Aleja Jana Pawła II
+Aleja Lipowa
+Andersa
+Arki Bożka
+Armii Krajowej
+Azalii
+Basztowa
+Bema
+Bławatków
+Bohaterów Westerplatte
+Bolesława Chrobrego
+Bolesława Prusa
+Broniewskiego
+Brzechwy
+Brzozowa
+Bukowa
+Bursztynowa
+Bzów
+Cegielniana
+Chopina
+Cicha
+Cypriana Kamila Norwida
+Czecha
+Dambonia
+Damrota
+Dąbrowskiego
+Dąbrowskiej
+Dębowa
+Drzymały
+Dworcowa
+Działkowa
+Dzierżonia
+Elsnera
+Emilii Plater
+Fabryczna
+Fiołkowa
+Gimnazjalna
+Głęboka
+Głowackiego
+Górna
+Grunwaldzka
+Gustawa Morcinka
+Harcerska
+Hotelowa
+I Dywizji
+Jagiellońska
+Jakuba Kani
+Jana Kasprowicza
+Jaśminowa
+Jesionowa
+Jodłowa
+Kamienna
+Kasztanowa
+Kilińskiego
+Klonowa
+Kochanowskiego
+Kolejowa
+Kołłątaja
+Konopnickiej
+Konwalii
+Kopernika
+Korczaka
+Korfantego
+Kościelna
+Kościuszki
+Kozielska
+Krasickiego
+Krasińskiego
+Krawiecka
+Krótka
+Księdza Duszy
+Księdza Koziołka
+Kusocińskiego
+Kwiatowa
+Leśna
+Ligonia
+Liliowa
+Limanowskiego
+Lompy
+Maków
+Malinowskiego
+Malwy
+Marusarzówny
+Meblarska
+Miarki
+Mickiewicza
+Mieszka I
+Mimozy
+Miodowa
+Młyńska
+Moniuszki
+Narcyzów
+Niepodległości
+Niezapominajek
+o. Maksymiliana Marii Kolbe
+Obuwników
+Odrowążów
+Odrzańska
+Ogrodowa
+Oleandrów
+Olimpijska
+Opolska
+Orkana
+Orzeszkowej
+Osiedle 1000 Lecia
+Osiedle Fabryczne
+Osiedle Powstańców Śląskich
+Osiedle Sady
+Osiedle XXX Lecia
+Papierników
+Parkowa
+Piastowska
+Piwonii
+Plac Josepha von Eichendorffa
+Platanowa
+Pocztowa
+Podgórna
+Polna
+Portowa
+Prudnicka
+Przemysłowa
+Przybrzeżna
+Pułaskiego
+Reja
+Reymonta
+Rodzinna
+Rondo Władysława Bartoszewskiego
+Różana
+Rybacka
+Rynek
+Sądowa
+Sąsiedzka
+Sienkiewicza
+Słoneczna
+Słowackiego
+Sosnowa
+Sportowa
+Staszica
+Stokrotek
+Storczyków
+Strzelców Bytomskich
+Szkolna
+św. Józefa
+Świerkowa
+Targowa
+Tomasza Baty
+Transportowa
+Traugutta
+Tulipanów
+Tuwima
+Wapienna
+Waryńskiego
+Wiejska
+Wierzbowa
+Wodna
+Wolności
+Wróblewskiego
+Wrzosów
+Wyspiańskiego
+Wyzwolenia
+Zamkowa
+Zwycięstwa
+Żeromskiego

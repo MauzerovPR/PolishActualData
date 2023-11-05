@@ -1,0 +1,14 @@
+Dojazdowa
+Górna
+Grodziecka
+Kolejowa
+Kwiatowa
+Leśna
+Pokoju
+Polna
+Południowa
+Poprzeczna
+Spokojna
+Wschodnia
+Wspólna
+Zwycięstwa

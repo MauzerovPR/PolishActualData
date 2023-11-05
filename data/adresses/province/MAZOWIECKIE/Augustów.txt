@@ -1,0 +1,12 @@
+Brzozowa
+Górna
+Graniczna
+Kolejowa
+Królewska
+Leśna
+Modrzewiowa
+Olchowa
+Polna
+Sosnowa
+Szkolna
+Wspólna

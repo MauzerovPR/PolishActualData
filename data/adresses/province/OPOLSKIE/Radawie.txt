@@ -1,0 +1,13 @@
+Cicha
+Główna
+Krótka
+Leśna
+Ludowa
+Opolska
+Polna
+Stawowa
+Szkolna
+Wąska
+Wiejska
+Zamknięta
+Żwirowa

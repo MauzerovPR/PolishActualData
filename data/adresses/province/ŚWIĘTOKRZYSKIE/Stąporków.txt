@@ -1,0 +1,39 @@
+1 Maja
+1000 Lecia
+Adama Mickiewicza
+Bolesława Prusa
+Cicha
+Cypriana Kamila Norwida
+Fryderyka Chopina
+Górna
+Górnicza
+Gutów
+Henryka Sienkiewicza
+Jana Kochanowskiego
+Jana Pawła II
+Juliusza Słowackiego
+Komunalna
+Konecka
+Krótka
+Lipowa
+Marii Konopnickiej
+Marszałka Józefa Piłsudskiego
+Mikołaja Reja
+Miła
+Nieborowska
+Niekłańska
+Odlewnicza
+Partyzantów
+Piaskowa
+Plac Wolności
+Polna
+Rzeczna
+Spacerowa
+Stanisława Moniuszki
+Stanisława Staszica
+Stefana Żeromskiego
+Tadeusza Kościuszki
+Wąska
+Władysława Reymonta
+Wspólna
+Zygmunta Krasińskiego

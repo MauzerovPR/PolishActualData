@@ -1,0 +1,48 @@
+1 Maja
+8 Marca
+Adama Mickiewicza
+Brzeziny
+Bukowa
+Cmentarna
+Częstochowska
+Daniecka
+Dębowa
+Dworcowa
+Friedricha Karla Schinkla
+gen. Władysława Sikorskiego
+Graniczna
+Hutnicza
+Jana Wawrzynka
+Janusza Korczaka
+Jelenia
+Jesionowa
+Juliusza Słowackiego
+Kolejowa
+Krótka
+Krzywa
+ks. Jana Dzierżona
+księdza Kałuży
+Kwiatowa
+Leśna
+Lipowa
+Ludwika Waryńskiego
+Łąkowa
+Mikołaja Kopernika
+Modrzewiowa
+Ogrodowa
+Opolska
+Plac Europejski
+Plac Wolności
+Polna
+Powstańców Śląskich
+Przemysłowa
+Robotnicza
+Romana Dmowskiego
+Skrajna
+Sosnowa
+Sportowa
+Szpitalna
+Świerkowa
+Warszawska
+Wyzwolenia
+Zielona

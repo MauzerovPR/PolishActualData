@@ -1,0 +1,69 @@
+1 Maja
+3 Maja
+Adama Mickiewicza
+Akacjowa
+Armii Krajowej
+Bartosza
+Bolesława Chrobrego
+Bolesława Prusa
+Cisiecka
+Cypriana Kamila Norwida
+Dworcowa
+Emilii Plater
+Gabriela Narutowicza
+gen. Augusta Fieldorfa "Nila"
+gen. Stefana Grota - Roweckiego
+Górnicza
+Górska
+Henryka Dąbrowskiego
+Henryka Sienkiewicza
+Hugona Kołłątaja
+Ignacego Daszyńskiego
+Jagiellońska
+Jana III Sobieskiego
+Jana Kochanowskiego
+Jana Matejki
+Jana Pawła II
+Józefa Poniatowskiego
+Juliusza Słowackiego
+Klonowa
+Kolejowa
+Kościelna
+Krótka
+Kwiatowa
+Marii Konopnickiej
+Mikołaja Kopernika
+Miodowa
+Miraszewskiego
+mjr Hieronima Dekutowskiego
+Młyńska
+Mostowa
+Ogrodowa
+Okrzei
+Osiedle Fryderyka Chopina
+Piastowska
+Pocztowa
+Polna
+Radosna
+Robotnicza
+Różana
+rtm. Witolda Pileckiego
+Rynek
+Składowa
+Słoneczna
+Spacerowa
+Spokojna
+Stanisława Moniuszki
+Stanisława Staszica
+Stanisława Wyspiańskiego
+Stefana Żeromskiego
+Tadeusza Kościuszki
+Wesoła
+Widokowa
+Wincentego Witosa
+Wiśniowa
+Władysława Reymonta
+Władysława Sikorskiego
+Wojska Polskiego
+Wrocławska
+Zygmunta Krasińskiego

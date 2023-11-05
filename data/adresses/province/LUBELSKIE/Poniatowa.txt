@@ -1,0 +1,49 @@
+1 Maja
+11 Listopada
+Al. Spacerowa
+Al. Wojska Polskiego
+Brzozowa
+Cicha
+Dębowa
+Fabryczna
+Garażowa
+gen. Józefa Bema
+Harcerska
+Henin
+Jasna
+Jaśminowa
+Kolejowa
+Konstytucji
+Konwaliowa
+Kraczewicka
+Krokusowa
+Krótka
+Lawendowa
+Leśna
+Leśniczówka
+Lubelska
+Magnoliowa
+Młodzieżowa
+Młynki
+Modrzewiowa
+Nałęczowska
+Ogrodowa
+Opolska
+Osiedlowa
+Partyzantów
+Plac Zwycięstwa
+Przechodnia
+Przemysłowa
+Rozwojowa
+Różana
+Słoneczna
+Sosnowa
+Sporniak
+Stefana Żeromskiego
+Szkolna
+Targowa
+Wesoła
+Wspólna
+Wylotowa
+Zachodnia
+Zielona

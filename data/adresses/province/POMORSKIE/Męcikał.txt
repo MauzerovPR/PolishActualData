@@ -1,0 +1,47 @@
+3-go Maja
+Akacjowa
+Bruska
+Brzozowa
+Chabrowa
+Chojnicka
+Cicha
+Czernicka
+Dąbek
+Długa
+Dworcowa
+Grzybowa
+Henryka Grabosza
+Jana Bińczyka
+Jana Pawła II
+Jaśminowa
+Jesionowa
+Jeziorna
+Józefa Dambka
+Kartuzka
+Kasztanowa
+Kasztelańska
+Kaszubska
+Klonowa
+Krótka
+ks. Józefa Wryczy
+Leśna
+Lipowa
+Modrzewiowa
+Mylofska
+Nad Brdą
+Nad Rozlewiskiem
+Nad Strugą
+Okrężna
+Pocztowa
+Pomorska
+Rybacka
+Rzeczna
+Słoneczna
+Sosnowa
+Szkolna
+Wczasowa
+Wędkarska
+Wrzosowa
+Zaborska
+Zdrojowa
+Zielona

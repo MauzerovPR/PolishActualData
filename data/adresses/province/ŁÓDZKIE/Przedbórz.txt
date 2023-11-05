@@ -1,0 +1,65 @@
+Browarna
+Brzozowa
+Cegielniana
+Cicha
+Cmentarna
+Częstochowska
+Działkowa
+Kanałowa
+Kazimierza Wielkiego
+Kielecka
+Klonowa
+Konecka
+Korycińska
+Kościelna
+Krakowska
+Krzywa
+Kwiatowa
+Leśna
+Lipowa
+Łazicka
+Majowa
+Majowa Góra
+Mariana Wnuka
+Marii Konopnickiej
+Młynarska
+Modrzewiowa
+Mostowa
+Nowa
+Ogrodowa
+Osiedle Częstochowska
+Osiedle Mostowa
+Osiedle Szeregowe
+Osiedle Wierzbowska
+Park im. Profesora Zygmunta Wnuka
+Park imienia Tadeusza Kościuszki
+Piotrkowska
+Pocztowa
+Podzamcze
+Południowa
+Poprzeczna
+Prześcianki
+Przyrzeczna
+Radomszczańska
+Rynek
+Rzemieślnicza
+Słoneczna
+Spacerowa
+Sportowa
+Spółdzielcza
+Stara
+Stefana Żeromskiego
+Stodolniana
+Stroma
+Sukiennicza
+Szczęśliwa
+Szkolna
+Trytwa
+Turystyczna
+Warszawska
+Wierzbowska
+Wiśniowa
+Wodna
+Zachodnia
+Zielona
+Żarnowska

@@ -1,0 +1,35 @@
+8 Maja
+Adama Mickiewicza
+Akacjowa
+Cicha
+Ciemna
+Dębowa
+Galaktyczna
+Gwiezdna
+Kościelna
+Księżycowa
+Kwiatowa
+marsz. Józefa Piłsudskiego
+Na Piaski
+Nowa
+Ogrodowa
+Parkowa
+Polna
+Przemysłowa
+Rawicka
+Robotnicza
+Rolna
+Sadowa
+Słoneczna
+Spokojna
+Szkolna
+Tadeusza Kościuszki
+Tęczowa
+Widokowa
+Wincentego Witosa
+Wolności
+Wschodnia
+Zachodnia
+Zagrodowa
+Zielona
+Zjazdowa

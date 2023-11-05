@@ -1,0 +1,78 @@
+3-go Maja
+Akacjowa
+Brzozowa
+Bukowa
+Chmielna
+Cicha
+Dębowa
+Dworcowa
+Działdowska
+Elizy Orzeszkowej
+Fryderyka Chopina
+Garbarska
+Garbuzy
+Główny Dworzec
+Górka
+Grabowa
+Graniczna
+Hugona Kołłątaja
+Ignacego Potockiego
+Jarzębinowa
+Jaworowa
+Jeleńska
+Jesionowa
+Józefa Wybickiego
+Juliana Tuwima
+Juliusza Kraziewicza
+Kazimierza Jagiellończyka
+Klonowa
+Kopernika
+Kościelna
+Krótka
+Kwiatowa
+Leśna
+Leśniczówka
+Lipowa
+Marii Dąbrowskiej
+Mickiewicza
+Młyńska
+Myśliwska
+Nowa
+Nowy Rynek
+Ogrodowa
+Okopowa
+Piaski
+Plac Generała Józefa Hallera
+Podgórna
+Podleśna
+Podzamcze
+Polna
+Południowa
+Poprzeczna
+Poświętna
+Przemysłowa
+Rejtana
+Sądowa
+Słomiany Rynek
+Słoneczna
+Sosnowa
+Stanisława Konarskiego
+Stanisława Staszica
+Stare Miasto
+Stefana Batorego
+Stefana Żeromskiego
+Strażacka
+Szosa Lubawska
+Świerkowa
+Tadeusza Kościuszki
+Targowa
+Tartaczna
+Topolowa
+Wiejska
+Wierzbowa
+Wiśniowa
+Władysława Broniewskiego
+Władysława Reymonta
+Wodna
+Zamkowa
+Zieluńska

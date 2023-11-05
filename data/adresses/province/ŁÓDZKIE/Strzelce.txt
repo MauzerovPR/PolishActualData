@@ -1,0 +1,9 @@
+Bankowa
+Główna
+Leśna
+Osiedlowa
+Polna
+Rekreacyjna
+Słoneczna
+Spokojna
+Szkolna

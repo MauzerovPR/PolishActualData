@@ -1,0 +1,143 @@
+3 Maja
+Aleja Spacerowa
+Aleja Świętej Barbary
+Armii Krajowej
+Asnyka
+Bełkowska
+Bieli
+Biernota
+Biskupa Pluty
+Błękitna
+Bolesława Chrobrego
+Borowa
+Broniewskiego
+Brzozowa
+Chodniki
+Chopina
+Cicha
+Cmentarna
+Czereśniowa
+Damrota
+Daszyńskiego
+Dąbrowy
+Długosza
+Doktora Malczyka
+Doktora Rostka
+Dworcowa
+Działkowców
+Dzierżonia
+Folwarczna
+Furgoła
+Generała Dąbrowskiego
+Generała Hallera
+Gliwicka
+Głowackiego
+Górnicza
+Górnośląska
+Grabowa
+Graniczna
+Gwarków
+Jagiellońska
+Jana Pawła II
+Jasna
+Jesionka
+Kałuży
+Kardynała Wyszyńskiego
+Kochanowskiego
+Kolejowa
+Kołłątaja
+Kombatantów
+Komunalna
+Konopnickiej
+Kopalniana
+Kosynierów
+Kościelna
+Kościuszki
+Krótka
+Krzywa
+Księdza Dłucika
+Księdza Hanuska
+Księdza Musiała
+Księdza Pojdy
+Księdza Popiełuszki
+Kwiatowa
+Leśna
+Ligonia
+Lipowa
+Lompy
+Markwioka
+Marszałka Piłsudskiego
+Mazanka
+Miarki
+Mickiewicza
+Mieszka I
+Młyńska
+Moniuszki
+Morcinka
+Mostowa
+Nad Bierawką
+Narutowicza
+Norwida
+Nowa
+Nowy Dwór
+Odległa
+Odrodzenia
+Ogrodowa
+Olchowa
+Ornontowicka
+Orzeszkowej
+Parkowa
+Partyzantów
+Pawlasa
+Piekarnicza
+Pierchały
+Plac Dunikowskiego
+Plac Grunwaldzki
+Plac Kopernika
+Plac Matejki
+Plebiscytowa
+Pocztowa
+Podleśna
+Pola
+Polna
+Poprzeczna
+Powstańców
+Prosta
+Przedszkolna
+Przemysłowa
+Przyjaźni
+Reja
+Reymonta
+Rogowa
+Rybnicka
+Rymera
+Rynek
+Sienkiewicza
+Słoneczna
+Słowackiego
+Słowiańska
+Sosnowa
+Spokojna
+Sportowa
+Staffa
+Strzelczyka
+Swobody
+Szewczyka
+Szkolna
+Szyb Zachodni
+Środkowa
+Świerkowa
+Świętego Antoniego
+Tetmajera
+Tęczowa
+Topolowa
+Tuwima
+Waryńskiego
+Władysława Jagiełły
+Wolności
+Wyzwolenia
+Zabrzańska
+Zagłoby
+Zielona
+Żeromskiego
+Żorska

@@ -1,0 +1,16 @@
+Akacjowa
+Boczna
+Cicha
+Kościelna
+Kwiatowa
+Leśna
+Ogrodowa
+Południowa
+Północna
+Słoneczna
+Sosnowa
+Strażacka
+Szkolna
+Wschodnia
+Zachodnia
+Żwirowa

@@ -1,0 +1,58 @@
+3 Maja
+Armii Krajowej
+Brzozowa
+Chorońska
+Cicha
+Dąbrowskiego
+Dębowa
+Elizy Orzeszkowej
+Fabryczna
+Fryderyka Chopina
+Gen. Bema
+gen. Okulickiego
+Górnicza
+Graniczna
+Grzybowa
+Gwiezdna
+Jana Kochanowskiego
+Jasna
+Jastrzębska
+Józefa Piłsudskiego
+Kolejowa
+Kopalniana
+Kosmiczna
+Kościelna
+Krótka
+Księżycowa
+Kwiatowa
+Leśna
+Łąkowa
+Mała
+Mickiewicza
+Miła
+Mokra
+Nadrzeczna
+Norwida
+Nowa
+Ogrodowa
+Okrężna
+Piaskowa
+Piotra Skargi
+Południowa
+Poprzeczna
+Północna
+Rondo imienia św. Jana Pawła II
+Rudziana
+Sadowa
+Sienkiewicza
+Słoneczna
+Słowackiego
+Sosnowa
+Spacerowa
+Spokojna
+Sportowa
+Strażacka
+Wesoła
+Wschodnia
+Zachodnia
+Zielona

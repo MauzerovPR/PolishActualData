@@ -1,0 +1,59 @@
+1 Maja
+3 Maja
+Adama Mickiewicza
+Aleksandra Jagiellończyka
+Benedyktyńska
+Bohaterów Września
+Bolesława Prusa
+Ciechanowiecka
+Daniela Romanowicza
+Farna
+Franciszka Ksawerego Dmochowskiego
+Henryka Sienkiewicza
+Hołdu Pruskiego
+Jaćwieży
+Jana Krzysztofa Kluka
+Jana Pawła II
+Jana z Drohiczyna
+Jaśminowa
+Józefa Ignacego Kraszewskiego
+Józefa Piłsudskiego
+Juliusza Słowackiego
+Kasztanowa
+Kolonia
+Kościelna
+Kotlarska
+Kramczewska
+Księdza Biskupa Władysława Jędruszuka
+Księdza Biskupa Zygmunta Łozińskiego
+Litewska
+Marii Konopnickiej
+Mazowiecka
+Mieszka I
+Mikołaja Kopernika
+Monterska
+Nadbużańska
+Nieznanego Żołnierza
+Olimpijska
+Piastowska
+Podlaska
+Polna
+Południowa
+Prosta
+Ratuszowa
+Samuela Różyckiego
+Słoneczna
+Sokołowska
+Sportowa
+Stefana Batorego
+Świętojańska
+Tadeusza Kościuszki
+Targowa
+Warszawska
+Wielkiego Księcia Witolda
+Wincentego Witosa
+Władysława Jagiełły
+Wojska Polskiego
+Zamkowa
+Zdrojowa
+Zygmunta Szmita

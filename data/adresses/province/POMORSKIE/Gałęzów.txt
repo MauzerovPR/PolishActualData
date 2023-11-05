@@ -1,0 +1,13 @@
+Boczna
+Brzozowa
+Górna
+Jeziorna
+Kamienna
+Klonowa
+Leśna
+Łąkowa
+Parkowa
+Świerkowa
+Wąska
+Wczasowa
+Wiejska

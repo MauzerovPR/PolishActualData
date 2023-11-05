@@ -1,0 +1,13 @@
+Boczna
+Dobrodzieńska
+Dojazdowa
+Główna
+Leśna
+Lipowa
+Łąkowa
+Majątkowa
+Polna
+Słoneczna
+Warłowska
+Wiejska
+Zamknięta

@@ -1,0 +1,34 @@
+Akacjowa
+Boczna
+Brzozowa
+Cicha
+Dębowa
+Dworska
+Gazomska
+Jodłowa
+Klonowa
+Kosowska
+Krzywa
+Leśna
+Łąkowa
+Miodowa
+Modrzewiowa
+Nowa
+Ogrodowa
+Piotrkowska
+Plac im.Teodora Endera
+Plac Włókniarzy
+Polna
+Południowa
+Projektowana
+Proszeńska
+Robotnicza
+Rolna
+Rzeczna
+Słoneczna
+Smugowa
+Sosnowa
+Wiosenna
+Wiśniowa
+Zaciszna
+Zielona

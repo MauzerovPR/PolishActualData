@@ -1,0 +1,64 @@
+1 Maja
+11 Listopada
+Akacjowa
+Bukowa
+Chabrowa
+Cicha
+Dolna
+Dworcowa
+Gołębia
+Handlowa
+Kalinowa
+Kaliska
+Kasprowicza
+Kasztanowa
+Klonowa
+Kolarska
+Kolejowa
+Koszykowa
+Kościelna
+Kościuszki
+Krótka
+Kujawska
+Leśna
+Łąkowa
+Mały Rynek
+Mieszka I
+Mokra
+Mostowa
+Nadgoplańska
+Niska
+Ogrodowa
+Parkowa
+Piastowska
+Piłkarska
+Plac Sienkiewicza
+Poduchowna
+Pogodna
+Poznańska
+Przełajowa
+Rynek
+Sadowa
+Słoneczna
+Smołowa
+Sosnowa
+Sportowa
+Spółdzielcza
+Strażacka
+Szpichlerna
+Św. Ducha
+Targowa
+Tenisowa
+Topolowa
+Wesoła
+Wiejska
+Wierzbowa
+Wiśniowa
+Władysława Łokietka
+Władysława Nałęcza Małachowskiego
+Włocławska
+Wyzwolenia
+Zachodnia
+Zatorze
+Zielona
+Żytnia

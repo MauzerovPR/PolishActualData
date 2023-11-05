@@ -1,0 +1,175 @@
+7 Dywizji
+Adama Mickiewicza
+Agatowa
+Aleja Kombatantów
+Aleja Niepodległości
+Armii Krajowej
+Bankowa
+Bazaltowa
+Biwakowa
+Błękitna
+Boczna
+Bolesława Chrobrego
+Bolesława Krzywoustego
+Bolesława Prusa
+Bolesława Śmiałego
+Bracka
+Brzozowa
+Cicha
+Cmentarna
+Diamentowa
+Dobre Miejsce
+Dolna
+Dworcowa
+Działkowa
+Dzielna
+Emilii Plater
+Energetyczna
+Esperantystów
+Fabryczna
+Fabryczna Osiedle
+Fortowa
+Fryderyka Chopina
+Gajowa
+Garbarska
+Gazowa
+gen. Józefa Bema
+gen. Władysława Sikorskiego
+Główna
+Górna
+Górnicza
+Graniczna
+Groblowa
+Groszkowa
+Grunwaldzka
+Grzegorza Piramowicza
+Harcerska
+Husytów
+Hutnicza
+Ignacego Łukasiewicza
+Izerska
+Jagiellońska
+Jana Kochanowskiego
+Jarosława Dąbrowskiego
+Jasna
+Jeleniogórska
+Jesienna
+Juliusza Słowackiego
+Kanarkowa
+Karola Miarki
+Karola Szymanowskiego
+Kazimierza Odnowiciela
+Kazimierza Wielkiego
+Klasztorna
+Kolejowa
+Kolorowa
+Królowej Jadwigi
+Krótka
+Księdza Ignacego Kukli-Bukowińczyka
+Księdza Infułata Adalberta Antera
+Kwiatowa
+Leśna
+Letnia
+Lipowa
+Ludowa
+Lwówecka
+Łagodna
+Łączna
+Łąkowa
+Łużycka
+Macieja Rataja
+Marii Skłodowskiej-Curie
+Metalowców
+Mieszka I
+Mieszka II
+Mikołaja
+Mikołaja Kopernika
+Mikołaja Reja
+Miła
+Miodowa
+Młynarska
+Mostowa
+Na Skarpie
+Oficerska
+Ogrodowa
+Orla
+Papieża Jana Pawła II
+Park im. Stanisława Kostki
+Park Niepodległości
+Parkowa
+Pastelowa
+Pawia
+Perłowa
+Plac 3 Maja
+Plac im. Feliksa Netza
+Plac Józefa Lompy
+Plac księdza Jana Winiarskiego
+Plac Stefana Okrzei
+Plac Strażacki
+Plac Szarych Szeregów
+Plac Śląski
+Plac św. Jana Pawła II
+Podwale
+Pogodna
+Polna
+Poziomkowa
+Przemysłowa
+Ratuszowa
+Robotnicza
+Różana
+Rubinowa
+Rybacka
+Rynek
+Rynek-Sukiennice
+Rzeczna
+Rzemieślnicza
+Sąsiedzka
+Skalnicza
+Skautów
+Skwer im. Ludwika Anioła
+Skwer św. Jakuba
+Słoneczna
+Sowia
+Spacerowa
+Spokojna
+Spółdzielcza
+Stanisława Moniuszki
+Stanisława Staszica
+Stanisława Worcella
+Stara
+Starolubańska
+Stawowa
+Stroma
+Strumykowa
+Strzelecka
+Sybiraków
+Szafirowa
+Szkolna
+Tadeusza Kościuszki
+Tęczowa
+Tkacka
+Torowa
+Warszawska
+Wąska
+Widokowa
+Wiejska
+Willowa
+Wiosenna
+Władysława Hermana
+Władysława Jagiełły
+Władysława Łokietka
+Władysława Warneńczyka
+Włościańska
+Włókiennicza
+Wojska Polskiego
+Wrocławska
+Wrzosowa
+Wspólna
+Wyspowa
+Zamkowa
+Zawidowska
+Zgorzelecka
+Zielona
+Zimowa
+Zygmunta Starego
+Żołnierska

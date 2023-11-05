@@ -1,0 +1,274 @@
+1 Maja
+11 Listopada
+3 Maja
+8 Marca
+Akacjowa
+Aleja Wolności
+Armii Krajowej
+Asnyka
+Astrów
+Azaliowa
+Barwna
+Batalionów Chłopskich
+Błękitna
+Błotna
+Bociania
+Boczna
+Bory
+Broniewskiego
+Brzozowa
+Budowlana
+Buraczana
+Bystra
+Cegielniana
+Ceramiczna
+Chabrów
+Chłodna
+Chmielna
+Chmurna
+Chopina
+Ciasna
+Cicha
+Ciemna
+Cmentarna
+Czarnieckiego
+Dębowa
+Długosza
+Dobra
+Dolna
+Dorodna
+Dworska
+Dywizjonu 303
+Działkowców
+Fabryczna
+Fiołkowa
+Folwarczna
+Franulka
+Galenowa
+Gałczyńskiego
+Gołębia
+Gospodarcza
+Goździkowa
+Górna
+Górnicza
+Grabowa
+Graniczna
+Gruchla
+Gryczana
+Grzybowa
+Helenówka
+Hutników
+Inwestycyjna
+Jagiellońska
+Jagodzińska
+Jana Pawła II
+Jaskółcza
+Jaśminowa
+Jaworznicka
+Jedwabna
+Jesionowa
+Kameliowa
+Kamienna
+Kasztanowa
+Kawcza
+Kazimierza Wielkiego
+Kilińskiego
+Klonowa
+Kochanowskiego
+Kolejowa
+Konopnickiej
+Kopalnia
+Kopernika
+Korczaka
+Koronacyjna
+Kościelna
+Kościuszki
+Kowalczyki
+Kowalska
+Koziegłowska
+Krakowska
+Krasickiego
+Kraszewskiego
+Kręta
+Królowej Jadwigi
+Krótka
+Krucza
+Krzywa
+Ks. Prałata Zdzisława Skrzeka
+Kwarcowa
+Kwiatkowskiego
+Kwiatowa
+Labry
+Legionów
+Leśna
+Letniskowa
+Lipowa
+Lisia
+Lniana
+Lotnicza
+Ludowa
+Łąkowa
+Łowcza
+Macierzanki
+Majora Hubala
+Majora Sucharskiego
+Malinowa
+Malownicza
+Mała Szpitalna
+Marszałka Piłsudskiego
+Metalurgiczna
+Mickiewicza
+Miedziana
+Millenium
+Miła
+Miodowa
+Młyńska
+Modrzejowska
+Mokra
+Mrzygłodzka
+Murarska
+Myśliwska
+Nadrzeczna
+Namysłowskiego
+Nierada
+Nowowiejska
+Odlewnicza
+Odrodzenia
+Ofiar Katynia
+Ogrodowa
+Okopowa
+Okrzei
+Olszowa
+Orla
+Orzeszkowej
+Osińska Góra
+Paderewskiego
+Palmowa
+Papiernia
+Papieska
+Parkowa
+Partyzantów
+Pawia
+PCK
+Piaskowa
+Piastowska
+Piekarska
+Piękna
+Pińczycka
+Plac Dworcowy
+Plac Sportowy
+Podgórna
+Pogodna
+Pohulańska
+Polna
+Poniatowskiego
+Poprzeczna
+Porębska
+Powstania Styczniowego
+Powstańców Śląskich
+Pożarowa
+Projektowana
+Prosta
+Prusa
+Prymasa Wyszyńskiego
+Przemysłowa
+Przyległa
+Pszenna
+Ptasia
+Pułaskiego
+Pusta
+Reja
+Reymonta
+Ręby
+Robotnicza
+Rolna
+Rolnicza
+Rondo Flagi Rzeczypospolitej Polskiej
+Rondo im. Bohaterów Powstania Styczniowego
+rondo im. Jana Jerzego Kułakowskiego
+Rondo Niepodległości
+Rondo Rzeczypospolitej
+Równoległa
+Różana
+Rybna
+Rymarska
+Rynek
+Rynkowa
+Rysia
+Sadowa
+Sarnia
+Sienkiewicza
+Siewierska
+Sikorka
+Sikorskiego
+Skłodowskiej
+Skwer Przedsiębiorców
+Skwer pułkownika Teodora Cieszkowskiego
+Słoneczna
+Słowackiego
+Słowiańska
+Słowicza
+Smudzówka
+Sobieskiego
+Sokola
+Sosnowa
+Sowia
+Spacerowa
+Spółdzielcza
+Stalowa
+Staszica
+Stawowa
+Stefana Batorego
+Stolarska
+Storczykowa
+Strażacka
+Strugi
+Strusia
+Szczygla
+Szeroka
+Szewska
+Szkolna
+Szpacza
+Szpitalna
+Średnia
+Świerkowa
+Teodora Marszałka
+Tęczowa
+Topolowa
+Towarowa
+Traugutta
+Tulipanowa
+Tuwima
+Urodzajna
+Ustronie
+Wapienna
+Warta
+Waryńskiego
+Wąska
+Wesoła
+Widok
+Wierzbowa
+Wiśniowa
+Witosa
+Włodowska
+Wojska Polskiego
+Wronia
+Wspólna
+Wyzwolenia
+Zacisze
+Zajęcza
+Zamenhoffa
+Zaułek
+Zawiercka
+Zawilcowa
+Zielna
+Zielona
+Ziemniaczana
+Żarecka
+Żelazna
+Żelisławicka
+Żeromskiego
+Żniwna
+Żurawia
+Żwirowa
+Żytnia
